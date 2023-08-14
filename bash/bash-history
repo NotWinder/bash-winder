@@ -1,0 +1,3541 @@
+cle
+ll
+python cli.py 
+cle
+python cli.py 
+cle
+vim views.py 
+clew
+cle
+clear
+clecle
+cl
+cle
+ls
+cle
+lls
+ls
+clew
+cle
+ll
+cd templates/
+ls
+cd ..
+cle
+vim views.py 
+lce
+cle
+vim templates/output.html
+cle
+vim templates/output.html
+ls templates/
+vim templates/login.html 
+clew
+cle
+vim views.py 
+vim cli.py 
+cle
+vim views.py 
+cat cli.py 
+cle
+vim .
+python cli.py 
+python cli.py user1 1234
+python cli.py kfjdsa ajskf
+cle
+neofetch 
+cle
+xrandr 
+vim views.py 
+j lo__
+cle
+j login
+lce
+clew
+cle
+python cli.py user1 1234
+python cli.py user1 12342
+vim
+cle
+ls
+vim cli.py 
+clew
+cle
+python cli.py 
+cle
+python cli.py user1 1234
+python cli.py user1 123434
+cle
+vim views.py 
+python manage.py runserver
+cle
+ls
+cle
+ls
+vim cli.py l
+cp cli.py cli-admin.py 
+cp login.txt login-admin.txt 
+vim login-admin.txt 
+vim login.txt 
+cle
+vim cli-admin.py 
+vim views.py 
+ll
+cle
+ls
+vim
+cle
+ls
+cd templates/
+ls
+cd ..
+ls
+cd ..
+ls
+cd login/
+ls
+python manage.py runserver
+cle
+vim ..
+cle
+python manage.py runserver 192.168.1.2:8000
+vim ..
+cle
+cle`
+vim .
+python manage.py runserver 192.168.1.2:8000
+poweroff 
+j mypt
+ls
+cle
+ls
+cle
+python manage.py runserver 192.168.1.2:8000
+reboot
+j pro
+ls
+j pro__
+cle
+vim .
+ls
+cd login/
+ls
+cd templates/
+ls
+vim style.css
+ping google.com
+ls
+cd split/
+ls
+clew
+cle
+python spliter.py 
+sudo apt install python3-openpyxl
+vim base.html 
+cle
+ls
+cle
+ls
+cle
+cd ..
+ls
+mkdir static/
+mv templates/styles.css static/
+cle
+python spliter.py 
+ls
+vim spliter.py 
+clew
+cle
+rm output.xlsx 
+python spliter.py 
+ls
+vim output.xlsx 
+vim ..
+python manage.py runserver 192.168.1.2:8000
+cle
+python manage.py runserver 192.168.1.2:8000
+clew
+cle
+cle
+ls
+cd static/
+mkdir css
+ls
+mv styles.css css/
+ls
+clew
+vim ..
+cle
+ls
+mv css/styles.css .
+ls
+rm css/
+ls
+cle
+cd ../templates/
+ls
+vim base.html 
+cle
+ls
+cd ../static/
+ls
+mkdir css
+mv styles.css css/
+cle
+ls
+cd css/
+ls
+cle
+cd ../.
+cd ..
+clew
+cle
+python manage.py runserver 192.168.1.2:8000
+cle
+clew
+cle
+ls
+vim spliter.py 
+vim .
+cle
+sudo apt install treee
+sudo apt install tree
+clew
+cle
+tree
+clew
+cle
+cd ..
+tree
+vim .
+clew
+cle
+vim .
+vi m.
+vi .
+vim .
+clew
+cle
+cd login/templates/
+ls
+mkdir login.html
+mkdir login
+mv login.html login
+mv base.html login/
+cle
+ls
+cd login/
+ls
+python manage.py runserver 192.168.1.2:8000
+cle
+j tem
+clew
+cle
+tree
+cd l.
+clew
+cd
+cle
+j log
+cle
+tree
+vi ../../..
+cle
+vim v
+cd ..
+mv ./login/* .
+lce
+clew
+cle
+ll
+rm login
+cle
+xrandr 
+xrandr -x 1920 -y 1080
+xrandr --output DVI-D-1
+xrandr --output DVI-D-1 --mode 1920x1080
+xrandr --output DVI-D-1 --mode 1600x900
+cle
+vim ..
+cle
+cd ../..
+xlwq
+cle
+python manage.py startapp panel
+cle
+ls
+cd panel/
+ls
+cle
+ls
+mkdir templates
+cd templates/
+vim panel.html
+cle
+cd ..
+cle
+mkdir static
+cle
+j pan__
+clew
+cle
+mkdir panel/css
+cd panel/css/
+vim styles.css
+cle
+cd ../..
+cle
+cd ..
+cle
+vim m
+vim .
+vim panel/urls.py
+clew
+cle
+cd panel/
+ls
+vim te
+ls templates/
+cle
+ls
+vim templates/
+ls
+cd templates/
+ls
+mkdir panel
+mv panel.html panel
+cle
+ls
+cd ..
+ls
+vim c
+cle
+cd ..
+cd panel/
+cle
+tree
+python manage.py runserver 192.168.1.2:8000
+cle
+vim views.py 
+vim ../login/
+cle
+vim static/
+cd static/
+ls
+mkdir -p panel/css/
+cle
+cd panel/css/
+ls
+vim styles.css
+clew
+cle
+vim ../../
+vim ../../..
+cd ../../../templates/
+ls
+cd panel/
+vim .config/nvim/after/plugin/harpoon.lua 
+vim new.html
+vim .
+vim ../../..
+cle
+vim .
+python manage.py makemigrations
+python manage.py migrate
+cd ..
+python manage.py makemigrations
+python manage.py migrate
+clew
+cle
+python manage.py makemigrations
+python manage.py migrate
+vim
+vim .
+cle
+grep -r "admin.LogEntry.user"
+grep -r "admin.LogEntry"
+vim .
+tree
+clew
+cle
+cd ..
+cle
+django-admin startproject website
+cd website
+python manage.py startapp login
+cle
+ls
+cd login/
+ls
+vim models.py 
+vim ..
+ls
+cle
+ls
+mkdir -p templates/login/
+vim templates/login/login.html
+vim urls.py
+vim urls.pyw
+vim urls.py
+vim urls.py 
+cle
+python manage.py makemigrations
+python manage.py migrate
+cd ..
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver 192.168.1.2:8000
+cle
+cd ../website/
+cle
+vim .
+python manage.py migrate
+vim .
+cle
+vim .
+python manage.py migrate
+cle
+vim login/forms.py 
+cle
+python manage.py migrate
+cle
+ls
+vi .
+python manage.py migrate
+cle
+vim .
+python manage.py migrate
+cle
+vim website/settings.py 
+cle
+python manage.py migrate
+cle
+vim .
+ls
+ll login/
+ll login/migrations/
+cle
+ls
+python manage.py makemigrations
+python manage.py migrate
+clew
+cle
+python manage.py runserver 192.168.1.2:8000
+cle
+ls
+cd login/
+cd templates/
+ls
+vim base.html
+cle
+cp ../../../myproject/panel/static ../
+cp -rf ../../../myproject/panel/static ../
+cle
+vim base.html 
+cle
+cd ..
+cle
+ls
+tree login/
+cle
+python manage.py runserver 192.168.1.2:8000
+cle
+vim .
+ls
+python manage.py createsuperuser
+cle
+python manage.py createsuperuser
+clew
+cle
+python manage.py createsuperuser
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+python manage.py createsuperuser
+cle
+python manage.py shell
+cle
+vim .
+tree
+cle
+ls
+vim login/
+python manage.py runserver 192.168.1.2:8000
+cle
+python manage.py makemigrations
+vim 
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+python manage.py shell
+cleww
+cle
+vim
+clew
+cle
+vim .l
+vim .
+vim l
+vim .
+pkill vncviewer 
+rm login/static/panel/css/
+cd login/static/
+mv panel/ css
+cle
+cd css
+vim styles.css
+vim 
+cd ..
+vim .
+tree
+python manage.py runserver 192.168.1.2:8000
+cle
+vim templates/login/
+cle
+tree
+cle
+vim templates/base.html 
+cle
+ls
+python manage.py runserver 192.168.1.2:8000
+cle
+python manage.py runserver 192.168.1.2:8000
+cle
+unzip present\ past\ gnu-html\ \(1\).zip -d presnt
+clew
+ls
+vim urls.py 
+cd .
+cd ..
+ls
+python manage.py shell
+cle
+ls
+python manage.py runserver 192.168.1.2:8000
+cle
+python manage.py collectstatic
+vim website/
+ls
+cd login/
+ls
+cd static/
+ls
+mkdir login
+mv css/ login/
+clew
+cle
+cd ../..
+ls
+cle
+python manage.py runserver 192.168.1.2:8000
+cle
+python manage.py shell
+cle
+vim .
+ls
+python manage.py runserver 192.168.1.2:8000
+vim login/
+vim example 
+poweroff 
+ls
+cd python/
+ls
+cd website/
+ls
+cle
+cd python/website/
+ls
+cle
+python manage.py runserver 
+cle
+vim website/settings.py 
+cle
+python manage.py runserver 
+cle
+vim website/settings.py 
+python manage.py runserver 
+cle
+ls
+python manage.py migrate
+python manage.py runserver 
+cle
+python manage.py runserver 172.0.0.1:8000
+ip a
+cle
+vim website/settings.py 
+vim .
+python manage.py user = CustomUser.objects.create_user(username='user1', password='1234')
+python manage.py shell
+vim .
+python manage.py startapp panel
+mkdir panel/urls.py
+rm panel/urls.py
+vim panel/urls.py
+vim website/urls.py 
+vim example 
+cd python/
+cle
+ls
+cp myproject/panel/templates/ website/panel/
+cp -r myproject/panel/templates/ website/panel/
+cp -r myproject/panel/static/ website/panel/
+cle
+tree website/panel/
+python manage.py runserver
+cle
+vim panel/views.py 
+vim panel/
+cle
+tree panel/
+vim panel/templates/panel/
+cd panel/templates/
+ls
+cle
+cd ../../
+clew
+cle
+tree panel/
+cle
+vim panel/urls.py 
+python manage.py runserver
+cle
+vim login/views.py 
+ls
+python manage.py runserver
+cle
+cle
+cd website/
+ls
+cel
+cle
+python manage.py shell
+clew
+cle
+ls
+clew
+cle
+python manage.py shell
+cle
+vim python/login_text/login.txt 
+vim example 
+vim login/urls.py 
+cd python/website/
+ls
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+vim .
+cle
+python manage.py runserver
+powr
+poweroff 
+ls
+j web
+clew
+l
+clew
+cle
+ls
+python manage.py  runserver 
+cle
+sudo apt install vlc
+python manage.py runserver 192.168.1.2
+ls
+vim index.html 
+cd presnt/
+j web
+clew
+cle
+tre
+tree
+cle
+j we__
+cle
+python manage.py runsever 192.168.1.2:8000
+vim .
+ls
+cd Downloads/
+ls
+unzip -d adsf.zip adsf
+unzip -d adsf adsf.zip 
+cle
+vim .
+mv index.css ..
+vim .
+vim index.html 
+mv style.css ..
+vim ../index.css 
+cle
+ls
+cd ../Downloads/adsf/
+ls
+cle
+vim CamScanner\ 07-22-2023\ 19.32.html 
+cp styles.css ../../python/website/panel/templates/panel/
+sudo umount /dev/sdb
+vim .
+reboot
+sudo reboot
+python manage.py runserver 192.168.1.2:8000
+j we__
+cle
+ls
+python manage.py runserver 192.168.1.2
+;s
+cle
+ls
+cle
+apt update && apt -y install qemu-guest-agent
+sudo apt update && apt -y install qemu-guest-agent
+cle
+sudo apt update && sudo apt install qemu-guest-agent
+cle
+sudo systemctl enable qemu-guest-agent
+sudo systemctl start qemu-guest-agent
+cle
+sudo systemctl enable qemu-guest-agent
+cle
+sudo systemctl enable qemu-guest-agent
+sudo systemctl status qemu-guest-agent
+sudo systemctl enable qemu-guest-agent
+cle
+egrep -c '(vmx|svm)' /proc/cpuinfo
+sudo apt install qemu-kvm qemu-system qemu-utils python3 python3-pip libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager -y
+cle
+ping google.co
+ping google.com
+cle
+sudo apt install qemu-kvm qemu-system qemu-utils python3 python3-pip libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager -y
+cle
+sudo systemctl status libvirtd.service
+sudo virsh net-start default
+sudo virsh net-autostart default
+sudo virsh net-list --all
+cle
+sudo usermod -aG libvirt $USER
+sudo usermod -aG libvirt-qemu $USER
+sudo usermod -aG kvm $USER
+sudo usermod -aG input $USER
+sudo usermod -aG disk $USER
+ls
+cd Downloads/
+ls
+cd ventoy-1.0.93/
+ls
+cle
+ls
+./VentoyGUI.x86_64 
+j w__
+cle
+ls
+neofetch
+cle
+python manage.py runserver 192.168.1.2:8000
+cle
+python manage.py runserver 192.168.1.2:8000
+ls
+cd ..
+ls
+cd w
+cd website/
+ls
+cle
+vim manage.py 
+j we__
+cle
+ls
+cle
+vim 
+vim python/main_text_document.txt 
+vim 
+vim t.html
+cle
+ls
+sdpkg-reconfigure keyboard-configuration
+dpkg-reconfigure keyboard-configuration
+sudo dpkg-reconfigure keyboard-configuration
+vim python/heder_document.txt 
+vim .
+python manage.py runserver 192.168.1.2:8000
+sudo dpkg-reconfigure keyboard-configuration
+j w
+cle
+ls
+j w__
+ls
+cle
+python manage.py runserver 192.168.1.2:8000
+vim python/heder_document.txt 
+vim .
+j we__
+cle
+python manage.py runserver 
+cle
+vim ..
+vim .
+python manage.py runserver 
+poweroff
+j w__
+cle
+j we__
+lce
+cle
+l
+cle
+ls
+j spli
+cle
+ls
+cd ..
+cle
+cd python/
+ls
+cd split/
+ls
+cle
+vim .
+python adding_text.py 
+sudo apt install python3-jdatetime
+cle
+vim adding_text.py 
+cle
+cat adding_text.py 
+python adding_text.py 
+cat adding_text.py 
+j pro__
+cle
+ls
+vim adding_text.py 
+vim adding_text.py 300
+vim .
+j webs__
+ls
+mkdir clis
+cle
+vim .
+python manage.py runserver 192.168.1.2:8000
+powr
+poweroff 
+ls
+cle
+ls
+j webs__
+ls
+cle
+l
+ls
+cle
+ll
+cle
+j we
+ls
+sudo apt install python3-full 
+sudo apt install python3-jdata 
+j spli__
+cle
+cd ../python/split/
+ls
+python adding_text.py 
+sudo apt install python3-pip
+cle
+pip install jdatetime
+source path/to/your/venv/bin/activate
+cle
+cd
+mkdir -p .local/share/python/env
+python3 -m venv .local/share/python/env/
+source .local/share/python/env/
+source .local/share/python/env/bin/activate
+cle
+pip install jdatetime
+cd python/split/
+ls
+vim a
+vim adding_text.py 
+cle
+python adding_text.py 
+cle
+vim adding_text.py 
+j web
+cle
+pip install flask
+vim .bashrc 
+vim .
+j websi__
+ls
+cle
+ls
+j py__sp
+lc
+cle
+cd python/
+ls
+cd split/
+python adding_text.py 
+python adding_text.py 23 123 45234 12312 523523 123123 5435 123123 
+cle
+python script_name.py 10 123456 JohnDoe 12345 9876543210
+ls
+python adding_text.py 10 123456 JohnDoe 12345 9876543210
+python adding_text.py 10 123456 JohnDoe 12345 9876543210 4123414 123421
+cle
+python adding_text.py 10 123456 JohnDoe 12345 9876543210 4123414 123421
+cle
+python adding_text.py 10 123456 JohnDoe 12345 9876543210 4123414 123421
+ls
+cat mytexts.txt 
+vim mytexts.txt 
+ll
+vim mytexts.txt 
+cle
+python adding_text.py 10 123456 JohnDoe 12345 9876543210 4123414 123421
+cat mytexts.txt 
+cle
+cp adding_text.py ../website/clis/
+clew
+cle
+ls
+cle
+vi .
+source ~/.bashrc 
+cle
+vim  ~/.bashrc 
+cle
+source ~/.bashrc 
+cle
+touch data/khob.txt
+vim .
+pip install django
+cl
+cle
+j web
+cle
+cat data/khob.txt 
+vim ../split/mytexts.txt 
+vim data/khob.txt 
+pip jdatetime
+pip install jdatetime
+python manage.py runserver 192.168.1.2:8000
+cle
+source ~/.bashrc 
+cle
+j __wev
+j __web
+c;e
+j we
+cle
+ls
+j cli
+j clis
+cd ~/python/website/clis/
+ls
+python adding_text.py 
+python adding_text.py 123456 JohnDoe 12345 9876543210 4123414
+python adding_text.py 123456 JohnDoe 12345 9876543210 4123414 432422
+cat ../data/khob.txt 
+cle
+cd
+cle
+vim .config/nvim/after/plugin/treesitter.lua 
+vim ../split/mytexts.txt 
+python clis/adding_text.py 
+python clis/adding_text.py 123 12345 1234125123 12341235 123412354 1234124
+vim clis/adding_text.py 
+python clis/adding_text.py 123 12345 1234125123 12341235 123412354 1234124
+vim clis/adding_text.py 
+cle
+python clis/adding_text.py 123 12345 1234125123 12341235 123412354 1234124
+vim clis/adding_text.py 
+python clis/adding_text.py 123 12345 1234125123 12341235 123412354 1234124
+vim clis/adding_text.py 
+python clis/adding_text.py 123 12345 1234125123 12341235 123412354 1234124
+cle
+vim .
+ls
+vim data/khob.txt 
+j we__
+ls
+cle
+ls
+cd ..
+ls
+cd website/
+ls
+cle
+tree
+vim .
+cl
+cle
+vim ../myproject/login/login.txt 
+cle
+python manage.py runserver 192.168.1.2:8000
+cle
+vim t.html 
+cat python/website/data/khob.txt 
+cle
+cat python/website/data/khob.txt 
+ls
+vim t
+python manage.py runserver 192.168.1.2:8000
+cle
+cle
+j webs__
+cd ..
+tree website/
+cd website/
+ls
+rm static/
+cle
+ls
+tree website/
+cd ..
+tree website/
+cle
+cd website/
+ls
+cle
+cd login/
+ls
+python manage.py runserver
+cle
+python manage.py makemigrations login
+python manage.py migrate
+cle
+python manage.py makemigrations panel
+python manage.py migrate
+cle
+vim forms.py 
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+cle
+python manage.py migrate
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+vim
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+vim python/split/mytexts.txt 
+vim python/website/data/khob.txt 
+python manage.py runserver
+cle
+tree python/website/
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+cl
+cle
+vim python/website/data/khob.txt 
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+vim t.html 
+python manage.py runserver
+cle
+poweroff 
+ls
+cle
+j websi__
+ls
+cl
+cel
+cle
+ls
+python manage.py runserve
+cle
+vim .
+j web
+cle
+j webs__
+cle
+ls
+cat ../split/mytexts.txt 
+cle
+cd
+cle
+ls
+cle
+ls
+cd .config/alacritty/
+ls
+mkdir font
+cd font/
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/fzerorubigd/persian-fonts-linux/master/farsifonts.sh)"
+cle
+vim alacritty.yml 
+alacritty migrate
+mv alacritty.toml alacritty.toml.b
+alacritty migrate
+cle
+ls
+vim alacritty.toml
+cle
+local
+localw
+localq
+locale
+sudo locale-gen fa_IR.UTF-8
+sudo update-locale LANG=fa_IR.UTF-8
+cle
+sudo update-locale LANG=fa_IR.UTF-8
+cle
+svi /etc/default/alacritty_locale.conf
+cle
+ls
+rm alacritty.toml.b 
+cle
+mv alacritty.toml alacritty.toml.
+vim alacritty.yml 
+alacritty migrate
+vi alacritty.yml 
+alacritty migrate
+vim alacritty.toml
+cat python/split/mytexts.txt 
+sudo apt-get install fonts-noto
+cle
+vim .
+cle
+python manage.py runserver
+poweroff 
+j web
+cle
+python manage.py runserver
+cle
+poweroff 
+j we
+cle
+python manage.py runserver
+cle
+ls
+cle
+j web
+cle
+pkill vncvi
+vim .
+cd ..
+cle
+cd website/
+ls
+cd clis/
+ls
+j data
+j web
+cd data/
+ls
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
+python adding_text.py 50 123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890
+python adding_text.py 50 123456789012345678901234 "John Doe" 12345 1234567890
+vim adding_text.py 
+python adding_text.py 50 123456789012345678901234 "John Doe" 12345 1234567890
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+vim adding_text.py 
+cle
+python adding_text.py 
+cle
+vim adding_text.py 
+python adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
+vim 
+vim .
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+python adding_text.py 50 123456789012345678901234 John Doe 12345 1234567890 1234567890
+vim adding_text.py 
+python adding_text.py 50 123456789012345678901234 John Doe 12345 1234567890 1234567890
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
+cle
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 123456790
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 123456790
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 123456790
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+cle
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+vim khob.txt 
+vim adding_text.py 
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 123456790
+cle
+python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 123456790
+cle
+python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+vim ..
+cle
+tree ../login/
+cd ../login/
+cle
+ls
+python manage.py runserver
+cle
+python manage.py makemigrations login
+vim .
+cle
+cle
+python manage.py makemigrations login
+cle
+python manage.py makemigrations login
+cle
+python manage.py makemigrations login
+cle
+python manage.py makemigrations login
+python manage.py migrate
+vim .
+python manage.py runserver
+cle
+python manage.py makemigrations login
+cle
+python manage.py makemigrations login
+cle
+python manage.py makemigrations login
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+cle
+vim 
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+python manage.py makemigrations
+cle
+python manage.py migrate
+cle
+vim ..
+vim t.html 
+cd ..
+vim ..
+python manage.py runserver
+cle
+vim t.py
+ls
+j pyth__
+ls
+cd website/
+ls
+vim .
+vim .
+vim python/website/clis/adding_text.py 
+ls
+cd python/website/ bak.web
+cp python/website/ bak_web
+cp -r python/website/ bak_web
+cle
+j web__
+cle
+ls
+python manage.py runserver
+cle
+python manage.py runserver 192.168.1.2
+vim
+ls
+cle
+ip a
+cle
+ip a
+python manage.py runserver 192.168.1.2:8000
+cle
+vim website/settings.py 
+cle
+python manage.py runserver 192.168.29.125:8000
+cle
+python manage.py runserver 192.168.29.125:8000
+cle
+vim .
+python manage.py runserver 192.168.1.2:8000
+cle
+python manage.py runserver 
+j web
+ls
+vim .
+poweroff 
+j we__
+lce
+cle
+ls
+j web
+cle
+ls
+dpkg-reconfigure keyboard-configuration
+cle
+sudo dpkg-reconfigure keyboard-configuration
+vim .
+python manage.py runserver
+service keyboard-setup restart
+sudo service keyboard-setup restart
+sudo dpkg-reconfigure keyboard-configuration
+sudo udevadm trigger --subsystem-match=input --action=change
+j web
+cle
+j we__b
+j web
+cle
+j web
+cle
+tree
+j web
+cle
+ls
+python manage.py runserver
+vim .
+vim .
+poweroff 
+j web
+cle
+ت صثذ
+j web
+cle
+ls
+vim .
+j web
+cle
+ls
+cle
+vim .
+python manage.py runserver
+poweroff 
+vim .local/share/dwm/autostart.sh 
+poweroff 
+j web
+cle
+J WEB
+j web
+cle
+ls
+vim .
+python clis/adding_text.py 1 123456789 q 12345 2345 2345
+j websi__
+cle
+vim .
+ls
+ll pres
+ll presnt/
+ll split/
+cd python/
+ls
+vim .local/share/dwm/autostart.sh 
+ls
+cle
+j web
+cle
+ls
+cle
+vim .
+ls
+cle
+j web
+cle
+git remote add origin git@github.com:winder2412/web.git
+git init
+cle
+git remote add origin git@github.com:winder2412/web.git
+cle
+git commit -m "first commit"
+git add .
+git commit -m "first commit"
+cle
+git push -u origin main
+git branch -M main
+git push -u origin main
+cle
+git push -u origin main
+git remote add origin git@github.com:winder2412/web.git
+cle
+ssh-keygen -t rsa -b 4096 -C "winderdawshmaster@gmail.com"
+cle
+cat .ssh/id_rsa.pub 
+git push -u origin main
+cle
+vim .ssh/id_rsa.pub 
+ls
+vim .
+mv panel/templates/panel/script.js panel/static/panel/js/
+vim .
+cle
+ls
+mv panel/static/panel/js panel/
+ls
+cle
+tree panel/
+vim .
+cle
+ls
+mv panel/js panel/static/
+cle
+python manage.py runserver
+cle
+ll panel/static/
+cd panel/static/
+ls
+mv js/ panel/
+ls
+tree
+vim
+cle
+cd ..
+vim .
+git clean -f && git reset --hard
+cle
+git clean -f && git reset --hard
+ls
+git clean panel/
+git clean -i
+git clean -f
+cle
+git reset 
+git reset --hard
+cle
+cd
+cle
+j web
+cle
+ls
+vim .
+cd panel/static/panel/
+ls
+rm -r js/
+cle
+cd
+cle
+j web
+cle
+ls
+cle
+ll
+rm -r t.html .wget-hsts .xsession-errors package.json index.css .gitconfig 
+cle
+ll
+rm style.css 
+ll
+cle
+ll
+rm presnt/
+rm present\ past\ gnu-html\ \(1\).zip 
+cle
+ls
+rm tightvnc-2.8.81-gpl-setup-64bit\ \(1\).msi 
+cle
+ls
+rm bookmarks_7_21_23.html 
+cle
+ls
+rm CamScanner\ 07-22-2023\ 19.32.png 
+cle
+ls
+cat example 
+cle
+ls
+rm Season\ 2/
+clee
+cle
+ls
+rm .sudo_as_admin_successful 
+cle
+ls
+cd python/
+ls
+le
+cle
+ls
+rm heder_document.txt down_document.txt main_text_document.txt split/
+cle
+ls
+cd signature_pad-master/
+ls
+cd docs/
+ls
+vim .
+python manage.py runserver
+cle
+cd ..
+cle
+j web
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+python manage.py makemigrations
+python manage.py migrate
+git clean -f && git reset --hard
+cle
+ls
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+cle
+vi .
+cle
+git clean -f && git reset --hard
+rm panel/static/panel/js/
+cle
+git clean -f && git reset --hard
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py runserver
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+python manage.py migrate
+vim .
+git clean -f && git reset --hard
+cle
+vim .
+cle
+git add .
+git commit -m "login app code cleanup"
+git config --global user.email winderdawshmaster@gmail.com
+git config --global user.name winder2412
+cle
+git commit -m "login app code cleanup"
+ls
+ll login/
+vim .
+cle
+git add .
+git commit -m "login app code cleanup"
+git push -u origin main 
+python manage.py runserver
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+vim .
+cle
+git add .
+git commit -m "login app code cleanup"
+python manage.py migrate
+git push -u origin main 
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+vim .
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+python manage.py runserver\
+python manage.py runserver
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+cle
+python manage.py makemigrations --empty panel
+vim panel/migrations/0010_auto_20230726_0403.py 
+python manage.py migrate
+python manage.py makemigrations --merge
+cle
+rm panel/migrations/0009_userdata_serial_number.py 
+python manage.py migrate
+python manage.py makemigrations --merge
+rm panel/migrations/0010_auto_20230726_0403.py 
+cle
+python manage.py makemigrations --merge
+python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate
+clew
+python manage.py migrate
+cle
+python manage.py runserver
+cle
+vim .
+ls
+cat /
+cat \
+rm \
+cle
+ls data/
+ls
+ll
+vim .
+ls
+ll data/
+cle
+ll panel/
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+ll
+ls
+cle
+git add .
+git commit -m "panel code cleanup and some changes"
+git push -u origin main 
+vim .
+python manage.py runserver
+poweroff 
+j web
+clew
+ls
+clew
+cle
+ls
+j web
+cle
+j web
+clew
+cle
+ls
+vim .
+cd data/
+ls
+mv khob.txt khob.txt.b
+l
+ll
+cle
+python manage.py runserver
+touch /home/winder/python/website/data/khob.txt
+ll
+cat khob.txt
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+python manage.py runserver
+cle
+vim .
+cle
+git add .
+git commit -m "fixing the data save problem"
+git push -u origin main 
+vim khob.txt
+python manage.py runserver
+cle
+j web
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+j we__
+cle
+vim .
+git clean -f && git reset --hard
+cle
+vim .
+git clean -f && git reset --hard
+vim .
+cle
+git add .
+git commit -m "price change fix"
+git push -u origin main 
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+vim .
+git clean -f && git reset --hard
+cle
+vim .
+git clean -f && git reset --hard
+vim .
+git add .
+git commit -m "shaba IR add and fixed the date in the txt file"
+git push -u origin main 
+cle
+vim .
+python manage.py shell
+cle
+ls
+lce
+cle
+vim .
+python manage.py shell
+vim .
+ls
+j web
+cd data/
+ls
+mkdir png
+ls
+ls png/
+j web
+cle
+ls
+cd website/
+ls
+cd ..
+clew
+ll
+cle
+cd data/
+ls
+ll png/
+sudo apt install feh
+sudo apt install nitrogen 
+j web
+cle
+ls
+ll data/png/
+ll
+ll data/png/
+cle
+ll data/png/
+python manage.py runserver
+cle
+ll
+ll data/png/
+cle
+ll data/png/
+cle
+ll data/png/
+python manage.py runserver
+cle
+ls
+cle
+git clean -f && git reset --hard
+ls
+python manage.py runserver
+python manage.py makemigrations
+pip install Pillow
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+python manage.py migrate
+vi .
+python manage.py runserver
+poweroff 
+j web
+cle
+j web
+cle
+neofetch 
+ls
+cle
+git clean -f
+cle
+git reset --hard
+cle
+ls
+cle
+git reset --hard
+git clean -f
+ls
+cle
+rm data/png/
+cle
+ls
+cle
+vim .
+git add .
+vim .
+git add .
+git commit -m "adding price_ave to the main page and fixing the some minor changes"
+git push -u origin main 
+cle
+python manage.py runserver
+cle
+j web
+cle
+curl -sS https://download.spotify.com/debian/pubkey_7A3A762FAFD4A51F.gpg | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+sudo apt-get update && sudo apt-get install spotify-client
+spotify 
+vim .
+git add .
+git commit -m "fixed the adding price_ave to the text file"
+git push -u origin main 
+cle
+pavucontrol 
+j web
+cle
+ll data/
+python manage.py runserver
+cle
+ls
+vim .
+vim .
+j web
+cle
+python manage.py runserver
+cle
+vim .
+python manage.py runserver
+cle
+cle
+git clean -f
+git reset --hard
+cle
+git reset --hard
+ll
+cle
+vim .
+git reset --hard 
+git clean -g
+git clean -f
+cle
+git clean -f
+git reset --hard 
+l\
+cle
+vim .
+python manage.py runserver
+clew
+cle
+python manage.py runserver
+cle
+python manage.py makemigration
+python manage.py makemigrations
+python manage.py migrate
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+clew
+cle
+vim .
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+vi .
+python manage.py runserver
+cle
+python manage.py runserver
+clew
+cle
+python manage.py clear_cache
+ivm .
+vim .
+git clean -f
+git reset --hard
+git clean -f
+cel
+cle
+ls
+python manage.py runserver
+cle
+vim .
+git add .
+git commit -m "added the saving the form as png function"
+git push -u origin main 
+cle
+vim 
+vim 
+python manage.py runserver
+poweroff 
+j web
+cle
+ls
+cle
+j web
+cle
+vim .
+git reset --hard && git clean -f
+cle
+python manage.py runserver
+poweroff 
+j web
+cle
+pyton manage.py runserver
+j py
+cle
+mkdir sig
+cd sig
+ls
+cle
+vim index.html
+vim app.css
+vim index.html 
+j sig
+cel
+cle
+j web
+cle
+git reset --hard
+git clean -f
+cle
+vim .
+git reset --hard
+vim .
+git add . && git commit -m "submit botton reposition"
+git push -u origin main 
+cle
+vim .
+vim .
+git clean -f
+git reset --hard
+cle
+vim .
+git clean -f
+git reset --hard
+cle
+vim .
+vi .
+vim .
+python manage.py runserver
+cle
+git reset --hard
+git clean -f
+cle
+git reset --hard
+cle
+vim .
+git clean -f
+git reset --hard
+vim .
+cle
+git add . && git commit -m "js clean up"
+git push -u origin main 
+cle
+vim .
+vim
+git add . && git commit -m "signature pad modal add(not fully done)"
+git push -u origin main 
+cle
+clew
+cle
+clear
+cle
+vim .
+python manage.py runserver
+reboot
+j web
+clew
+cle
+j web
+clew
+cle
+vim .\
+j web
+cle
+vim .
+git add . && git commit -m "adding the serial number to the form"
+git push -u origin main 
+cle
+vim .
+vim
+vim 
+git reset --hard
+cle
+vim .
+git add . && git commit -m "fixing the signature pads"
+git push -u origin main 
+vim .
+j web
+lce
+cle
+vim .
+git add . && git commit -m "adding the missing css code"
+git push -u origin main 
+lce
+cle
+vim .
+cle
+git reset --hard
+git clean -f
+cle
+ls
+git reset --hard
+cle
+python manage.py runserver
+clew
+cle
+python manage.py makemigrations
+python manage.py migrate
+cle
+vim .
+cle
+git add . && git commit -m "adding the station value from user function"
+git push -u origin main 
+clew
+cle
+vim .
+python manage.py runserver
+cle
+python manage.py makemigrations
+git reset --hard
+git clean -f
+git reset --hard
+git clean -f
+cle
+vim .
+rm data/station_*
+cle
+clew
+cle
+vim .
+git reset --hard
+git clean -f
+cle
+git reset --hard
+cle
+vim .
+git add . && git commit -m "adding the station value from user function"
+git add . && git commit -m "incrising the input field of the shaba input"
+git push -u origin main 
+clew
+cle
+vim sdfa.js
+vim .
+python manage.py runserver
+cle
+pip install openpyxl
+cle
+python manage.py makemigrations
+vim .
+clew
+cel
+cle
+certtool 
+cle
+cd
+clew
+cle
+python manage.py shell
+cle
+vim .
+vim  example 
+python manage.py shell
+clew
+certtool 
+cle
+vim .
+git add && git commit -m "redirecting fix and adding a admin user"
+git add . && git commit -m "redirecting fix and adding a admin user"
+cle
+git push -u origin main 
+cle
+python manage.py runserver
+poweroff 
+j web
+cle
+j web
+cle
+vim 
+vim .
+git reset --hard
+clew
+git clean -f
+cle
+vim 
+git add . && git commit -m "fixing the price not being updated in the form"
+git push -u origin main 
+clew
+cle
+python manage.py runserver
+clew
+cle
+j web
+clew
+cle
+vim .
+cle
+python manage.py shell
+cle
+vim .
+python manage.py shell
+cle
+vim
+python manage.py runserver
+cle
+python manage.py makemigrations
+python manage.py shell
+vim .
+vim e
+python manage.py runserver
+sudo apt update
+sudo apt upgrade
+j web
+cle
+j web
+vim .
+python manage.py shell
+cle
+vim .
+python manage.py runserver
+poweroff 
+j we__
+cle
+ls
+cle
+j wb
+j web
+cle
+vim .
+lscpu | grep Virtualization
+grep --color -iE 'vmx|svm' /proc/cpuinfo
+cle
+sudo apt install virt-manager qemu-system libvirt-daemon-system qemu-utils
+sudo apt install qemu-system libvirt-daemon-system virtinst qemu-utils
+lsmod | grep -i kvm
+cle
+sudo systemctl enable --now libvirtd
+systemctl status libvirtd
+sudo apt install qemu-utils qemu-system-x86 qemu-system-gui
+cle
+ls
+cd Downloads/
+ls
+sudo apt install ./code_1.80.2-1690491597_amd64.deb 
+code
+j dwm
+cle
+vim .
+rm config.h
+cle
+make
+sudo make install
+/bin/python3 /home/winder/python/website/manage.py
+cle
+python manage.py runserver
+poweroff 
+j web
+cle
+vim .
+git reset  --hard
+cle
+vim .
+j web
+cle
+git add . && git commit -m "fixing the save signature button problem"
+git push -u origin main 
+vim .
+cle
+python manage.py shell
+j web
+cle
+vim .
+vim .
+cle
+git add . && git commit -m "fixing the price_ave  issue"
+git push -u origin main 
+clew
+cle
+vim .
+git add . && git commit -m "fixing the date not showing up in the form"
+git push -u origin main 
+cle
+vim .
+git add . && git commit -m "adding the price spareted by comma in thousends(not fully done)"
+git push -u origin main 
+python manage.py runserver
+cle
+poweroff 
+j w
+cle
+j web
+cle
+vim .
+git reset --hard 
+cle
+git reset --hard 
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+j w
+cle
+j w
+cle
+j w
+cle
+vim .
+cle
+git add . && git commit -m "fixing the file path variable"
+git push -u origin main 
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py runserver
+cle
+python manage.py mkmigrations
+python manage.py makemigrations
+cle
+vim .
+git reset --hard 
+git clean -f
+cle
+git clean -f
+git reset --hard 
+cle
+python manage.py makemigrations
+python manage.py runserver
+cle
+vim
+vim .
+python manage.py shell
+j web
+cle
+ls
+cle
+python manage.py shell 
+cle
+vim .
+cle
+python manage.py shell 
+cle
+python manage.py shell 
+cle
+python manage.py createsuperuser
+cle
+python manage.py shell 
+cle
+git add . && git commit -m "adding elevated and super users and addin user directory"
+git push -u origin main 
+cle
+vim .
+grep -r "can_change"
+vim .
+cle
+j my
+vim .
+python manage.py shell 
+cle
+vim .
+j w
+vim .
+j
+cle
+vim .
+git add . && git commit -m "readding the users and deleting the previous files"
+cle
+git push -u origin main 
+cle
+git checkout -b dev
+ls
+cle
+git add .
+git commit -m "making the dev branch"
+git push -u origin dev
+cle
+git checkout maine
+git checkout main
+git checkout dev
+cle
+ls
+cle
+ls
+python manage.py runserver
+cle
+j web
+cle
+vim .
+vim .
+python manage.py runserver
+cle
+python manage.py makemigrations
+cle
+python manage.py runserver
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+cle
+python manage.py makemigrations
+cle
+j w
+cle
+cle
+git add . && git commit -m "code clean up and fixing some bugs"
+git push -u origin dev 
+cle
+vim .
+sudo apt install arandr 
+arandr 
+cd .config/
+vim nvim/
+j web
+cle
+vim .
+j nvim
+cd ../../.config/nvim/
+ls
+vim .
+sudo apt install tree-sitter
+cle
+vim .
+j nvim
+cle
+cd ~/.config/nvim
+cle
+cd .config/alacritty/
+git clone https://github.com/rose-pine/alacritty.git
+cle
+ls
+mv alacritty/dist .
+cle
+ls
+cle
+j ala__
+cle
+ls
+mv alacritty/template.toml .
+cle
+ls
+rm alacritty
+cle
+ls
+rm alacritty.toml.
+cle
+ls
+ed
+cle
+sudo apt install ed
+cle
+cd
+cel
+cle
+ed
+cle
+sudo apt purge ed
+cle
+vim .
+cle
+vim .
+ls
+./plugin
+./pluginmanager.sh 
+ls
+mv ./packer.nvim /home/winder/.local/share/nvim/site/pack/packer/start/
+cle
+sudo apt install emacs
+emacs
+sudo apt purge emacs
+sudo apt autoremove 
+cle
+vim .
+cle
+j al__
+cle
+vim .
+ls
+cle
+vim 
+ls
+rm .config/nvim/
+cle
+ls
+rm .local/share/nvim/
+cle
+ls
+vim .
+cle
+j nvi
+cle
+ls
+vim .
+ls  ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+vi .
+cle
+./pluginmanager.sh 
+vim pluginmanager.sh 
+./pluginmanager.sh 
+vim 
+rm ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+cle
+ls ~/.local/share/nvim/site/pack/packer/start/
+rm ~/.local/share/nvim/site/pack/packer/start/packer.nvim/
+ls
+cle
+ls
+rm packer.nvim/
+cle
+./pluginmanager.sh 
+cle
+cd
+cle
+mv .cache/nvim/undodir/ .
+ls
+rm .cache/nvim/
+rm .local/share/nvim/
+rm .config/nvim/
+cle
+j nv__
+cd .
+cd 
+cd Github/
+ls
+cle
+ls
+cd nvim-winder/
+ls
+vim nvim-setup.sh 
+cle
+ls
+nvim 
+cd nvim/
+ls
+rm plugin
+cle
+rm pluginmanager.sh 
+ls
+cle
+ll lua/
+cle
+tree lua/
+cle
+tree after/
+cle
+ls
+cd ..
+cle
+ls
+./nvim-setup.sh 
+cle
+ls
+git add . && git commit -m "removed some files"
+cle
+git push -u origin main 
+cle
+cl
+cle
+ls
+cle
+git config 
+cle
+gh auth login 
+cle
+git push 
+cle
+git remote add https://github.com/winder2412/nvim-winder.git
+git remote add origin https://github.com/winder2412/nvim-winder.git
+cle
+vim .
+j w
+cle
+git pull
+cle
+git remote add origin git@github.com:winder2412/nvim-winder.git
+git push 
+git remote set-url gh repo clone winder2412/nvim-winder
+git remote set-url git@github.com:winder2412/nvim-winder.git
+git remote set-url --delete origin
+git remote set-url --delete origin https://github.com/winder2412/nvim-winder.git
+cle
+ls
+cd ..
+mkdir temp
+mv nvim-winder/* temp/
+rm nvim-winder/
+cle
+git clone git@github.com:winder2412/nvim-winder.git
+cle
+rm nvim-winder/*
+tree nvim-winder/
+mv temp/* nvim-winder/
+cle
+ls
+cd nvim-winder/
+ls
+cle
+git add .
+git commit -m "removed some files"
+cle
+git push
+cle
+cd
+cle
+cd .config/nvim/
+ls
+vim /
+vim .
+cle
+vim .
+ls
+cd ~/.local/share/nvim/site/pack/packer/start/packer.nvim/
+cel
+cle
+pull
+git pull
+j nvim
+ls
+vim .
+cd
+cd Github/
+ls
+cle
+cd nvim-winder/
+./nvim-setup.sh 
+vim .
+cd
+cle
+cd
+mv undodir .cache/nvim/packer.nvim
+cle
+mv .cache/nvim/packer.nvim/undodir/ .cache/nvim/
+ls .cache/n
+ls .cache/nvim/
+cle
+vim .
+cd Github/
+cd nvim-winder/
+cle
+ls
+./nvim-setup.sh 
+cle
+ls
+vim .
+cle
+cd
+cle
+ls
+vim .config/nvim/
+cle
+ls
+rm .vim/
+cle
+vim
+j w
+cle
+vim .
+vim
+vim .
+cd .config/nvim/
+ls
+cle
+vim .
+vim 
+ls
+vim .
+cle
+vim .
+ls .local/share/nvim/site/pack/packer/start/
+rm .local/share/nvim/site/pack/packer/start/*
+cle
+vim
+cle
+vim .
+jw
+j
+cle
+vim .
+ls
+j
+cle
+j nvim
+cle
+vim .
+vim .
+vim t.html
+vim fadf.html
+vim jlsaf.js
+cle
+ls
+cle
+vim .
+cle
+pkill nvim 
+vim
+cle
+vim .
+vim
+reboot
+ls
+cle
+pkill 34989
+vim .
+vim
+vim jfa.rs
+rustc jfa.rs 
+cle
+rm jfa.rs 
+cle
+j
+cle
+vim
+vim .
+pip install pylyzer
+cle
+vim .
+j 
+cle
+vim .
+cle
+sudo apt update
+sudo apt install apache2 php libapache2-mod-php
+cle
+ls
+cd js
+cle
+ls
+mkdir bootstrap
+cd b
+cd bootstrap/
+ls
+cle
+wget https://github.com/twbs/bootstrap/releases/download/v5.3.1/bootstrap-5.3.1-dist.zip
+cle
+unzip bootstrap-5.3.1-dist.zip 
+ls
+cle
+ls
+sudo mv bootstrap-5.3.1-dist/* /var/www/html/
+cle
+sudo service apache2 start
+vim /var/www/html/index.html
+svi /var/www/html/index.html
+cle
+j
+cle
+j
+cle
+vim
+python manage.py runserver
+cle
+vim sdg.html
+vim .
+python manage.py runserver
+poweroff 
+vim
+cle
+vim
+j
+cle
+j
+cle
+vim afj.js
+rm afj.js 
+cle
+ls
+cle
+vim
+cle
+vim .
+cle
+code --install-extension pylyzer.pylyzer
+cle
+pylyzer 
+cle
+j
+cle
+cd panel/
+pylyzer views.py 
+vim fjlsdk/py
+vim fjlsdk.py
+vim jfl.py
+vim .
+j nvim
+cle
+vim .
+cle
+vim .
+j
+cle
+j nvim
+vim .
+vim .
+j nvim
+cle
+vim 
+vim .
+vim .
+j nvim
+j
+cle
+vim .
+vim .
+sudo apt install bluetooo
+cle
+sudo apt install bluetooth 
+cle
+sudo apt install bluez
+cle
+sudo apt install blueman 
+python manage.py runserver
+blueman-manager 
+cle
+blueman-manager 
+blueman-applet 
+bluetoothctl 
+blueman-applet 
+cle
+j 
+clew
+cle
+vim klja.py
+ls
+j dwm
+cle
+patch -p1 < dwm-scratchpads-20200414-728d397b.diff 
+cle
+j dwm
+vim dwm.c
+ls
+vim config.def.h
+cle
+make
+git clean -f
+git reset --hard
+cel
+cle
+vim .
+python manage.py runserver
+j
+clew
+cle
+vim
+j
+clew\
+cle
+vim .
+cle
+git checkout main 
+cle
+git checkout main 
+cle
+git add .
+git commit -m "input fixs"
+git push -u origin main 
+cle
+git push -u origin dev
+clew
+cle
+git checkout main 
+cle
+vim .
+git add .
+git commit -m "cleanup"
+git push -u origin main 
+cle
+git checkout dev
+cle
+sudo apt install telegram-desktop 
+cd Downloads/
+ls
+cle
+ls
+cle
+ls
+cle
+sudo apt install ./Termius.deb 
+clew
+sudo apt update
+sudo apt install freerdp2-x11
+cle
+sudo apt install gvfs-backends 
+sudo apt install sftp
+cle
+sftp admin@79.137.196.14
+xfreerdp /v:79.137.196.14 /u:admin /p:Cl2A2G0F4Z4R
+j
+cle
+vim .
+git clean -f
+git reset --hard
+rm data/station_3/png/
+cl
+cle
+git clean -f
+git reset --hard 
+cle
+vim .
+git add .
+git commit -m "fixing the image file save location"
+git push -u origin dev 
+vim 
+cle
+ls
+cle
+git add .
+git commit --amend --no-edit 
+git push -u origin dev 
+cle
+git add .
+git commit -m "removing the main page png folder"
+git pull
+cle
+git pull
+git config pull.rebase true
+git pull
+cle
+git pull
+cle
+git add .
+git commit -m "removeing the main png folder"
+git push -u origin dev 
+cle
+python manage.py runserver
+j 
+python manage.py runserver
+poweroff
+sudo apt install ntfs-3g
+sudo apt install ntfs-3g-dev 
+clew
+cle
+sudo apt install gvfs*
+cle
+poweroff 
+ls
+clew
+cle
+vim .
+neofetch 
+vim .
+vim .bashrc 
+wget
+cle
+vim 
+tldr pandoc
+sudo apt install pandoc
+clew
+cle
+vim .
+cle
+apt install pandoc
+sudo apt install nala
+cle
+apt install pandoc
+cle
+ls
+rm .sudo_as_admin_successful 
+cle
+ls
+cd Documents/
+ls
+cle
+cd
+j
+cle
+ls
+apt install libreoffice
+vim .
+poweroff 
+poweroff
+cd python
+ls
+mkdir tel
+cd tel/
+ls
+cle
+pip install pytdlib
+vim cli.py
+cd python/tel/
+cle
+./c
+python cli.py 
+cle
+vim cli.py 
+pip install pytdlib
+python3 cli.py 
+vim .
+mkdir js
+cd js/
+ls
+npm init -y
+sudo apt-get install psd-thumbnailer
+sudo apt-get search psd-thumbnailer
+sudo apt search psd-thumbnailer
+sudo apt search psd
+cle
+apt install libreoffice
+vim .
+ls
+cle
+vim .
+vim .local/share/dwm/autostart.sh 
+ls
+cle
+ls
+cle
+neofetch 
+ls
+vim empty.py
+cle
+python empty.py 
+cle
+python empty.py 
+cle
+python empty.py 
+cle
+vm 
+vim empty.py 
+ll
+cle
+ll ram/
+cle
+vim empty.py 
+python empty.py 
+cle
+python empty.py 
+cle
+python empty.py 
+cle
+vim e
+vim empty.py 
+cle
+python empty.py 
+cle
+ls
+cle
+python empty.py 
+cle
+cd ..
+ls
+python empty.py 
+cle
+python empty.py 
+cle
+python empty.py 
+cle
+cd ..
+cle
+ls
+cle
+ls
+mkdir rust
+cle
+ls
+cd rust/
+ls
+cle
+cargo 
+cle
+cargo new empty
+clew
+cle
+ls
+cd empty/
+ls
+cle
+ls
+python empty.py 
+cle
+python empty.py 
+cle
+python empty.py 
+cle
+vim src
+cle
+cargo 
+cle
+vim empty.py 
+pwd
+cargo run
+cle
+vim empty.py 
+python empty.py 
+cle
+cd ../Nastaran/
+ls
+cle
+pwd
+cargo run
+cle
+cargo run
+cle
+apt install fdupes 
+cle
+cd ../Arastoo/
+ls
+cle
+ls
+cd rust/
+ls
+cd empty/
+ls
+cle
+cargo run releas
+cle
+cd ..
+cargo run empty/
+cargo run --manifest-path /home/winder/rust/empty/Cargo.toml 
+cle
+cd
+cle
+vim .bashrc 
+cle
+fdupes -r .
+ls
+cle
+pkill thuna
+cle
+ls
+cle
+thunar
+reboot
+vim .local/share/dwm/autostart.sh 
+fempty 
+cle
+ls
+cle
+fempty 
+cle
+cd rust/empty/
+vim .
+cle
+fempty 
+cle
+cd rust/empty/
+cle
+vim .
+cd ..
+ls
+cargo add t
+cle
+cargo add t
+cargo 
+cle
+cargo new t
+cle
+cd t/
+ls
+vim .
+cd ..
+cle
+ls
+rm t/
+cle
+ls
+vim .
+cle
+fempty 
+cd empty/
+cle
+cle
+fempty 
+cle
+vim .
+cargo run
+cle
+cargo run
+cle
+vim .
+cle
+fempty 
+cle
+fe
+cle
+fempty 
+cle
+fempty 
+cle
+fempty 
+cle
+vim rust/empty/src/main.rs 
+cd
+cle
+cd rust/
+ls
+cle
+cargo new organized
+cd organized/
+cd src/
+vim .
+cle
+cd ..
+cargo run
+vim .
+cle
+cargo run
+cle
+ls
+mv lock/Cargo.lock .
+mv toml/Cargo.toml 
+cl
+cle
+mv toml/Cargo.toml .
+cle
+ls
+fempty 
+cle
+ls
+vim .
+cle
+cargo run
+cle
+vim .
+cle
+cd ..
+rm organized/
+cle
+fdupes -r .
+cle
+ls
+cle
+ls
+cd
+cle
+ls
+cle
+fdupes -r .
+cle
+fdupes -r .
+cle
+cd
+cle
+fdupes -r .
+poweroff 
+neofetch 
+cls
+xrandr 
+ls
+cle
+xrandr 
+ls
+cle
+cls
+clew
+cls
+ll
+rm .wget-hsts 
+rm .vscode/
+ls
+cle
+ll
+rm .sudo_as_admin_successful 
+clew
+cle
+ls
+rm .python_history 
+cle
+ls
+sudo apt install zsh
+cle
+cd Github/
+ls\
+ls
+cd zsh-winder/
+ls
+cle
+git pull
+ll
+cat .zshenv 
+vim .zshenv 
+vim zsh-setup.sh 
+cle
+ls
+vim Github/
+cle
+ll .config/
+./zsh
+./zsh-setup.sh 
+cle
+;s
+ls
+cle
+cd Github/
+ls
+cd other/
+ls
+vim mybash/
+cd mybash/
+ls\
+git pull
+cle
+vim zsh-setup.sh 
+./zsh-setup.sh 
+vim .
+./zsh-setup.sh 
+vim .
+cle
+ll
+ll .config/
+ls
+rm .config/zsh/
+cle
+ls
+cle
+ls
+./zsh-setup.sh 
+vim .
+cle
+./zsh-setup.sh 
+sudo ./zsh-setup.sh 
+ls
+rm .zshenv 
+cle
+sudo chsh winder
+vim .
+ls
+vim .config/zsh/
+ls
+clew
+cle
+ls
+rm .xsession-errors*
+cle
+ls
+rm .sudo_as_admin_successful 
+cle
+ls
+nm-applet 
+nm-applet --help
+cle
+nm-applet --help
+nm-applet 
+nmtui
+reboot
+ls
+cle
+ls
+ll .config/X11/
+cle
+vim .profile 
+reboot
+source .bash_profile 
+ls
+rm .bash_history 
+cle
+lksa
+ls
+cle
+ls
+$XDG_Co
+$XDG_CONFIG_HOME/
+cle
+ls
+rm .bash_history 
+cle
+ls
+rm .sudo_as_admin_successful 
+ls
+rm .wget-hsts 
+cle
+ls
+rm .xsession-errors*
+cle
+vim .config/bash/
+cle
+ls
+ll
+vim .dmrc 
+rm .dmrc 
+cle
+ls
+kk
+ll
+cle
+ll
+vim .xsession-errors 
+cle
+if strings /usr/sbin/lightdm | grep -q '.xsession-errors' ; then   sudo apt install bbe;   bbe -e 's/.xsession-errors/.cache\x2Fxs-errors/' /usr/sbin/lightdm > outfile;   chmod +x outfile;   sudo mv /usr/sbin/lightdm /usr/sbin/lightdm-back;   sudo mv outfile /usr/sbin/lightdm; fi
+clew
+cle
+ls
+rm .xsession-errors 
+reboot
+ls
+cle
+cd /
+ff "priv->log_filename = g_strdup (".xsession-errors");"
+find / -name "priv->log_filename = g_strdup (".xsession-errors");"
+cle
+sudo find / -name "priv->log_filename = g_strdup (".xsession-errors");"
+cle
+emacs
+sudo apt purge emacs
+sudo apt purge emacs*
+cle
+sudo apt autoremove 
+cle
+ls
+rm .sudo_as_admin_successful 
+ls
+cle
+ls
+vim .local/share/dwm/autostart.sh 
+ls
+rm .xsession-errors 
+ls
+rm .emacs.d/
+cle
+ls
+cd .local/share/
+ls
+mkdir autoremove
+cd autoremove/
+ls
+vim xsession.sh
+ll
+vim .local/share/dwm/
+cle
+ll
+./xsession.sh 
+mkdir /home/winder/.cache/X11
+cle
+./xsession.sh 
+ls
+cle
+vim .local/share/dwm/
+cle
+ls
+vim .local/share/dwm/
+cd .local/share/
+mv autoremove/ automove/
+cle
+reboot
+ll
+clew
+cls
+ls
+vim .config/bash/bash-env 
+cle
+ls
+rm .vscode/
+clew
+cle
+ls
+vim .config/bash/bash-env 
+cle
+vim .config/bash/bash-env 
+cle
+ls
+cls
+ls
+cls
+ls
+sudo apt purge lightdm-gtk-greeter 
+cle
+sudo apt remove lightdm-gtk-greeter
+sudo apt update
+sudo apt install lightdm
+cle
+sudo systemctl status lightdm.service 
+cle
+sudo apt upgrade 
+sudo apt clean
+clew
+cle
+ls
+rm .sudo_as_admin_successful .vscode/ .dotnet/
+cle
+ls
+sudo apt update
+cle
+svi /etc/polkit-1/localauthority/50-local.d/44-nekoray.pkla
+sudo chmod 600 /etc/polkit-1/localauthority/50-local.d/99-custom-rule.pkla
+sudo chmod 600 /etc/polkit-1/localauthority/50-local.d/44-nekoray.pkla
+sudo systemctl restart polkit
+cle
+svi /usr/share/polkit-1/rules.d/44-nekobox.rule
+sudo chmod 644 /usr/share/polkit-1/rules.d/44-nekobox.rule
+cel
+cle
+ll /usr/share/polkit-1/rules.d/
+sudo ll /usr/share/polkit-1/rules.d/
+sudo ls -a /usr/share/polkit-1/rules.d/
+sudo ls -a /usr/share/polkit-1/
+sudo rm /etc/polkit-1/localauthority/50-local.d/44-nekoray.pkla
+cle
+sudo systemctl restart polkit
+svi /usr/share/polkit-1/rules.d/44-nekobox.rule
+sudo chmod 644 /usr/share/polkit-1/rules.d/44-nekobox.rule
+reboot
+ls
+rm .sudo_as_admin_successful 
+cle
+ls
+rm .vscode/
+cle
+ls
+cle
+poweroff 
+lsblk
+cle
+sudo apt update
+cle
+ll
+cle
+rm .vnc/
+ls
+cle
+sudo apt update
+sudo test 
+sudo apt install photorec
+sudo apt -y install testdisk
+cle
+ls
+j w
+cle
+ls
+j w
+cle
+ivm .
+vim .
+git add .
+git commit -m "fixing the closesignaturepad button problem"
+cle
+git push -u origin dev 
+cls
+ls
+python manage.py runserver
+sudo photorec
+cls
+ll
+rm .sudo_as_admin_successful  photorec.se2 recup_dir.1/ recup_dir.2
+cle
+ll
+sudo rm recup_dir.*
+sudo rm -rf recup_dir.*
+ls
+cle
+poweroff 
+poweroff
+poweroff 
+sudo apt update
+cls
+sudo apt install cmatrix
+cls
+cmatrix 
+poweroff 
+ls
+cle
+ls
+rm .sudo_as_admin_successful 
+ls
+cle
+ls
+cls
+ls
+cd Github/
+ls
+cle
+mkdir bash-winder
+cd bash-winder/
+ls
+cp ~/.config/bash/ .
