@@ -3820,3 +3820,22 @@ ls
 cls
 ls
 cls
+git add .
+git commit -m "replacing copy with ln"
+git push 
+gh
+gh auth login
+git push 
+cls
+ls
+j we
+ls
+cls
+xclip
+xauth
+cls
+ls
+vim .config/bash/bash-env 
+j bash-wi__
+ls
+vim bash/bash-env 
