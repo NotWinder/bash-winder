@@ -117,9 +117,8 @@ linkConfig() {
     fi
 
 
-    cp -r ${GITPATH}/bash ${HOME}/.config
-    cp ${GITPATH}/starship.toml ${HOME}/.config/starship.toml
-
+    ln -svf "${GITPATH}/bash" "${HOME}/.config/bash"
+    ln -svf "${GITPATH}/starship.toml" "${HOME}/.config/starship.toml"
 }
 
 checkEnv

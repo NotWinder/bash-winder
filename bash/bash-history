@@ -3539,3 +3539,284 @@ mkdir bash-winder
 cd bash-winder/
 ls
 cp ~/.config/bash/ .
+rm starship.toml 
+rm bash/
+ll
+cls
+cd
+cd Github/bash-winder/
+ls
+./setup.sh 
+ls
+cd .config/
+ll
+cd
+cd Github/bash-winder/
+ls
+./setup.sh 
+cls
+cls
+ls
+cls
+l
+ls
+vim .config/zsh/.zprofile 
+cp .config/zsh/.zprofile .
+cls
+ls
+mv .zprofile 
+mv .zprofile hypr
+vim hypr 
+../h
+kill eww
+pkill eww
+eww open bar
+nmtui
+ls
+pkill
+pkill eww 
+eww open bar
+./hypr 
+ffmpeg tldr
+tldr ffmpeg
+cls
+tldr ffmpeg
+vim hypr
+nano hypr 
+sudo nano hypr
+yay -S hypr
+yay -S nano
+cls
+sudo nano hypr
+ls
+cat hypr.save 
+vim .config/bash/bashrc 
+ls
+cls
+vim .config/bash/bashrc 
+sudo nano hypr
+sudo pacman -S lutris
+cls
+ls
+cd Github/
+ls
+cd other/
+ls
+cd dots-hyprland/
+sudo pacman -S --needed nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
+LS
+ls
+yay -S lib32-vulkan-driver opengl-man-pages lib32-opencl-nvidia 
+yay -S opencl-headers
+cls
+git pull
+cls
+git pull
+git checkout m3ww 
+git pull
+cls
+ls
+cd .config/
+ls
+cd Github/
+ls
+cd bash-winder/
+ls
+cls
+cat ../.gitignore 
+cls
+vim .gitignore
+j dots
+cls
+cd
+cls
+sudo pacman -S --needed wine-staging giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses ocl-icd lib32-ocl-icd libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader
+cls
+yay -S python-pywal python-desktop-entry-lib python-poetry python-build python-Pill
+sudo pacman -S bc blueberry bluez boost boost-libs coreutils curl findutils fish fuzzel fzf gawk gnome-control-center ibus imagemagick libqalculate light networkmanager network-manager-applet nlohmann-json pavucontrol plasma-browser-integration playerctl procps ripgrep socat sox starship udev upower util-linux xorg-xrandr wget wireplumber yad
+cls
+Hyprland
+pkill -9 tty2
+pkill Hyprland 
+cls
+./hypr
+ls
+vim .
+eww open bar
+cls
+Hyprland
+cd .config/
+ls
+cd hypr/
+ls
+csl
+cls
+hyprctl monitor
+hyprctl monitors
+vim .
+cls
+Hyprland
+j hypr
+cls
+ls
+cd
+cd .config/hypr/
+ls
+csl
+cls
+vim .
+cls
+eww open bar
+cd ../eww
+ls
+vim .
+eww open bar
+eww open bar -c ~/.config/eww/
+cls
+eww open bar -c ~/.config/eww/
+eww open bar
+cls
+eww
+csl
+cls
+tldr eww
+eww open bat
+eww open bar
+cd .config/eww
+ls
+vim eww.yuck 
+eww open barbottom
+eww open barbottom -c ~/.config/eww
+eww open -c ~/.config/eww bar
+eww open -c ~/.config/eww
+cls
+vim .
+eww open barr
+eww open
+cls
+eww open
+eww open bar
+cls
+yay -S python-pywal python-desktop-entry-lib python-poetry python-build python-Pill
+yay -S python-pywal python-poetry python-build python-Pill
+vim .
+eww open bar
+eww open -c ~/.config/eww
+eww open -c ~/.config/eww bar
+cls
+eww open -c ~/.config/eww bar
+eww open bar
+l
+s
+cls
+ls
+cls
+eww 
+eww daemon
+eww kill
+eww daemon
+ls
+cd ..
+rm eww
+cls
+ls
+vim guided_install.sh 
+eww daemon
+eww kill
+eww daemon
+cd eww
+ls
+vim modules/system.yuck 
+eww daemon
+cls
+eww kill
+eww daemon
+vim modules/system.yuck 
+eww daemon
+eww kill
+eww daemon
+cls
+eww kill
+eww daemon
+vim windows/powermenu.yuck 
+eww kill
+eww daemon
+cls
+eww open bar
+vim modules/status.yuck 
+cls
+vim .
+cls
+yay -S cava lexend-fonts-git geticons gojq gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module hyprland-git python-material-color-utilities swww ttf-material-symbols-git wlogout
+Hyprland
+eww 
+eww status
+eww state
+cls
+eww state
+cls
+cd .config/
+ls
+rm hypr*
+csl
+cls
+ls
+unzip Internet.Download.Manager.6.41.Build.15.Retail.zip 
+cls
+cd Downloads/
+ls
+unzip Internet.Download.Manager.6.41.Build.18.zip 
+cls
+cd Downloads/
+ls
+sudo pacman -S unrar  
+cls
+ls
+unrar e Clip.Studio.Paint.EX.v2.1.0.x64.rar 
+cls
+ls
+unrar --help
+unrar -help
+tldrunrar
+tldr unrar
+unrar x Clip.Studio.Paint.EX.v2.1.0.x64.rar 
+ls
+cls
+yay -S lib32-libldap
+cls
+wine --version
+cls
+sudo rm -rf /var/lib/lutris   
+sudo rm -rf /var/lutris
+sudo rm -rf /lutris
+rm -rf ~/.config/lutris
+cls
+sudo pacman -S wine
+cls
+wine --version 
+cls
+cd "${HOME}/Downloads"
+wget  https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks.bash-completion
+sudo cp winetricks.bash-completion /usr/share/bash-completion/completions/winetricks
+touch ../.config/wgetrc
+cls
+wget  https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks.bash-completion
+sudo cp winetricks.bash-completion /usr/share/bash-completion/completions/winetricks
+cls
+sudo pacman -S lutris
+cd Downloads/
+ls
+unrar x Toon.Boom.Harmony.Premium.21.1.0.18394.rar 
+cat Password.txt 
+sudo lspci -v
+yay -S plasma-desktop
+ls
+cd Github/bash-winder/
+ls
+vim .gitignore
+cls
+ls
+./setup.sh 
+cls
+ls
+cls
