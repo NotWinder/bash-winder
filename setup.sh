@@ -39,14 +39,6 @@ checkEnv() {
         exit 1
     fi
 
-    ## Check SuperUser Group
-    SUPERUSERGROUP='wheel sudo'
-    for sug in ${SUPERUSERGROUP}; do
-        if groups | grep ${sug}; then
-            SUGROUP=${sug}
-            echo -e "Super user group ${SUGROUP}"
-        fi
-    done
 }
 
 installDepend() {
@@ -110,7 +102,7 @@ linkConfig() {
     fi
 
 
-    ln -svf "${GITPATH}/bash" "${HOME}/.config/bash"
+    ln -svf "${GITPATH}/bash" "${HOME}/.config/"
     ln -svf "${GITPATH}/starship.toml" "${HOME}/.config/starship.toml"
 }
 
