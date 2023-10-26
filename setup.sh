@@ -47,13 +47,6 @@ checkEnv() {
             echo -e "Super user group ${SUGROUP}"
         fi
     done
-
-    ## Check if member of the sudo group.
-    if ! groups | grep ${SUGROUP} >/dev/null; then
-        echo -e "${RED}You need to be a member of the sudo group to run me!"
-        exit 1
-    fi
-    
 }
 
 installDepend() {

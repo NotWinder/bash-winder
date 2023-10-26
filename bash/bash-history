@@ -1,1502 +1,3 @@
-cle
-ll
-python cli.py 
-cle
-python cli.py 
-cle
-vim views.py 
-clew
-cle
-clear
-clecle
-cl
-cle
-ls
-cle
-lls
-ls
-clew
-cle
-ll
-cd templates/
-ls
-cd ..
-cle
-vim views.py 
-lce
-cle
-vim templates/output.html
-cle
-vim templates/output.html
-ls templates/
-vim templates/login.html 
-clew
-cle
-vim views.py 
-vim cli.py 
-cle
-vim views.py 
-cat cli.py 
-cle
-vim .
-python cli.py 
-python cli.py user1 1234
-python cli.py kfjdsa ajskf
-cle
-neofetch 
-cle
-xrandr 
-vim views.py 
-j lo__
-cle
-j login
-lce
-clew
-cle
-python cli.py user1 1234
-python cli.py user1 12342
-vim
-cle
-ls
-vim cli.py 
-clew
-cle
-python cli.py 
-cle
-python cli.py user1 1234
-python cli.py user1 123434
-cle
-vim views.py 
-python manage.py runserver
-cle
-ls
-cle
-ls
-vim cli.py l
-cp cli.py cli-admin.py 
-cp login.txt login-admin.txt 
-vim login-admin.txt 
-vim login.txt 
-cle
-vim cli-admin.py 
-vim views.py 
-ll
-cle
-ls
-vim
-cle
-ls
-cd templates/
-ls
-cd ..
-ls
-cd ..
-ls
-cd login/
-ls
-python manage.py runserver
-cle
-vim ..
-cle
-python manage.py runserver 192.168.1.2:8000
-vim ..
-cle
-cle`
-vim .
-python manage.py runserver 192.168.1.2:8000
-poweroff 
-j mypt
-ls
-cle
-ls
-cle
-python manage.py runserver 192.168.1.2:8000
-reboot
-j pro
-ls
-j pro__
-cle
-vim .
-ls
-cd login/
-ls
-cd templates/
-ls
-vim style.css
-ping google.com
-ls
-cd split/
-ls
-clew
-cle
-python spliter.py 
-sudo apt install python3-openpyxl
-vim base.html 
-cle
-ls
-cle
-ls
-cle
-cd ..
-ls
-mkdir static/
-mv templates/styles.css static/
-cle
-python spliter.py 
-ls
-vim spliter.py 
-clew
-cle
-rm output.xlsx 
-python spliter.py 
-ls
-vim output.xlsx 
-vim ..
-python manage.py runserver 192.168.1.2:8000
-cle
-python manage.py runserver 192.168.1.2:8000
-clew
-cle
-cle
-ls
-cd static/
-mkdir css
-ls
-mv styles.css css/
-ls
-clew
-vim ..
-cle
-ls
-mv css/styles.css .
-ls
-rm css/
-ls
-cle
-cd ../templates/
-ls
-vim base.html 
-cle
-ls
-cd ../static/
-ls
-mkdir css
-mv styles.css css/
-cle
-ls
-cd css/
-ls
-cle
-cd ../.
-cd ..
-clew
-cle
-python manage.py runserver 192.168.1.2:8000
-cle
-clew
-cle
-ls
-vim spliter.py 
-vim .
-cle
-sudo apt install treee
-sudo apt install tree
-clew
-cle
-tree
-clew
-cle
-cd ..
-tree
-vim .
-clew
-cle
-vim .
-vi m.
-vi .
-vim .
-clew
-cle
-cd login/templates/
-ls
-mkdir login.html
-mkdir login
-mv login.html login
-mv base.html login/
-cle
-ls
-cd login/
-ls
-python manage.py runserver 192.168.1.2:8000
-cle
-j tem
-clew
-cle
-tree
-cd l.
-clew
-cd
-cle
-j log
-cle
-tree
-vi ../../..
-cle
-vim v
-cd ..
-mv ./login/* .
-lce
-clew
-cle
-ll
-rm login
-cle
-xrandr 
-xrandr -x 1920 -y 1080
-xrandr --output DVI-D-1
-xrandr --output DVI-D-1 --mode 1920x1080
-xrandr --output DVI-D-1 --mode 1600x900
-cle
-vim ..
-cle
-cd ../..
-xlwq
-cle
-python manage.py startapp panel
-cle
-ls
-cd panel/
-ls
-cle
-ls
-mkdir templates
-cd templates/
-vim panel.html
-cle
-cd ..
-cle
-mkdir static
-cle
-j pan__
-clew
-cle
-mkdir panel/css
-cd panel/css/
-vim styles.css
-cle
-cd ../..
-cle
-cd ..
-cle
-vim m
-vim .
-vim panel/urls.py
-clew
-cle
-cd panel/
-ls
-vim te
-ls templates/
-cle
-ls
-vim templates/
-ls
-cd templates/
-ls
-mkdir panel
-mv panel.html panel
-cle
-ls
-cd ..
-ls
-vim c
-cle
-cd ..
-cd panel/
-cle
-tree
-python manage.py runserver 192.168.1.2:8000
-cle
-vim views.py 
-vim ../login/
-cle
-vim static/
-cd static/
-ls
-mkdir -p panel/css/
-cle
-cd panel/css/
-ls
-vim styles.css
-clew
-cle
-vim ../../
-vim ../../..
-cd ../../../templates/
-ls
-cd panel/
-vim .config/nvim/after/plugin/harpoon.lua 
-vim new.html
-vim .
-vim ../../..
-cle
-vim .
-python manage.py makemigrations
-python manage.py migrate
-cd ..
-python manage.py makemigrations
-python manage.py migrate
-clew
-cle
-python manage.py makemigrations
-python manage.py migrate
-vim
-vim .
-cle
-grep -r "admin.LogEntry.user"
-grep -r "admin.LogEntry"
-vim .
-tree
-clew
-cle
-cd ..
-cle
-django-admin startproject website
-cd website
-python manage.py startapp login
-cle
-ls
-cd login/
-ls
-vim models.py 
-vim ..
-ls
-cle
-ls
-mkdir -p templates/login/
-vim templates/login/login.html
-vim urls.py
-vim urls.pyw
-vim urls.py
-vim urls.py 
-cle
-python manage.py makemigrations
-python manage.py migrate
-cd ..
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver 192.168.1.2:8000
-cle
-cd ../website/
-cle
-vim .
-python manage.py migrate
-vim .
-cle
-vim .
-python manage.py migrate
-cle
-vim login/forms.py 
-cle
-python manage.py migrate
-cle
-ls
-vi .
-python manage.py migrate
-cle
-vim .
-python manage.py migrate
-cle
-vim website/settings.py 
-cle
-python manage.py migrate
-cle
-vim .
-ls
-ll login/
-ll login/migrations/
-cle
-ls
-python manage.py makemigrations
-python manage.py migrate
-clew
-cle
-python manage.py runserver 192.168.1.2:8000
-cle
-ls
-cd login/
-cd templates/
-ls
-vim base.html
-cle
-cp ../../../myproject/panel/static ../
-cp -rf ../../../myproject/panel/static ../
-cle
-vim base.html 
-cle
-cd ..
-cle
-ls
-tree login/
-cle
-python manage.py runserver 192.168.1.2:8000
-cle
-vim .
-ls
-python manage.py createsuperuser
-cle
-python manage.py createsuperuser
-clew
-cle
-python manage.py createsuperuser
-cle
-python manage.py makemigrations
-python manage.py migrate
-cle
-python manage.py createsuperuser
-cle
-python manage.py shell
-cle
-vim .
-tree
-cle
-ls
-vim login/
-python manage.py runserver 192.168.1.2:8000
-cle
-python manage.py makemigrations
-vim 
-cle
-python manage.py makemigrations
-python manage.py migrate
-cle
-python manage.py shell
-cleww
-cle
-vim
-clew
-cle
-vim .l
-vim .
-vim l
-vim .
-pkill vncviewer 
-rm login/static/panel/css/
-cd login/static/
-mv panel/ css
-cle
-cd css
-vim styles.css
-vim 
-cd ..
-vim .
-tree
-python manage.py runserver 192.168.1.2:8000
-cle
-vim templates/login/
-cle
-tree
-cle
-vim templates/base.html 
-cle
-ls
-python manage.py runserver 192.168.1.2:8000
-cle
-python manage.py runserver 192.168.1.2:8000
-cle
-unzip present\ past\ gnu-html\ \(1\).zip -d presnt
-clew
-ls
-vim urls.py 
-cd .
-cd ..
-ls
-python manage.py shell
-cle
-ls
-python manage.py runserver 192.168.1.2:8000
-cle
-python manage.py collectstatic
-vim website/
-ls
-cd login/
-ls
-cd static/
-ls
-mkdir login
-mv css/ login/
-clew
-cle
-cd ../..
-ls
-cle
-python manage.py runserver 192.168.1.2:8000
-cle
-python manage.py shell
-cle
-vim .
-ls
-python manage.py runserver 192.168.1.2:8000
-vim login/
-vim example 
-poweroff 
-ls
-cd python/
-ls
-cd website/
-ls
-cle
-cd python/website/
-ls
-cle
-python manage.py runserver 
-cle
-vim website/settings.py 
-cle
-python manage.py runserver 
-cle
-vim website/settings.py 
-python manage.py runserver 
-cle
-ls
-python manage.py migrate
-python manage.py runserver 
-cle
-python manage.py runserver 172.0.0.1:8000
-ip a
-cle
-vim website/settings.py 
-vim .
-python manage.py user = CustomUser.objects.create_user(username='user1', password='1234')
-python manage.py shell
-vim .
-python manage.py startapp panel
-mkdir panel/urls.py
-rm panel/urls.py
-vim panel/urls.py
-vim website/urls.py 
-vim example 
-cd python/
-cle
-ls
-cp myproject/panel/templates/ website/panel/
-cp -r myproject/panel/templates/ website/panel/
-cp -r myproject/panel/static/ website/panel/
-cle
-tree website/panel/
-python manage.py runserver
-cle
-vim panel/views.py 
-vim panel/
-cle
-tree panel/
-vim panel/templates/panel/
-cd panel/templates/
-ls
-cle
-cd ../../
-clew
-cle
-tree panel/
-cle
-vim panel/urls.py 
-python manage.py runserver
-cle
-vim login/views.py 
-ls
-python manage.py runserver
-cle
-cle
-cd website/
-ls
-cel
-cle
-python manage.py shell
-clew
-cle
-ls
-clew
-cle
-python manage.py shell
-cle
-vim python/login_text/login.txt 
-vim example 
-vim login/urls.py 
-cd python/website/
-ls
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-python manage.py runserver
-vim .
-cle
-python manage.py runserver
-powr
-poweroff 
-ls
-j web
-clew
-l
-clew
-cle
-ls
-python manage.py  runserver 
-cle
-sudo apt install vlc
-python manage.py runserver 192.168.1.2
-ls
-vim index.html 
-cd presnt/
-j web
-clew
-cle
-tre
-tree
-cle
-j we__
-cle
-python manage.py runsever 192.168.1.2:8000
-vim .
-ls
-cd Downloads/
-ls
-unzip -d adsf.zip adsf
-unzip -d adsf adsf.zip 
-cle
-vim .
-mv index.css ..
-vim .
-vim index.html 
-mv style.css ..
-vim ../index.css 
-cle
-ls
-cd ../Downloads/adsf/
-ls
-cle
-vim CamScanner\ 07-22-2023\ 19.32.html 
-cp styles.css ../../python/website/panel/templates/panel/
-sudo umount /dev/sdb
-vim .
-reboot
-sudo reboot
-python manage.py runserver 192.168.1.2:8000
-j we__
-cle
-ls
-python manage.py runserver 192.168.1.2
-;s
-cle
-ls
-cle
-apt update && apt -y install qemu-guest-agent
-sudo apt update && apt -y install qemu-guest-agent
-cle
-sudo apt update && sudo apt install qemu-guest-agent
-cle
-sudo systemctl enable qemu-guest-agent
-sudo systemctl start qemu-guest-agent
-cle
-sudo systemctl enable qemu-guest-agent
-cle
-sudo systemctl enable qemu-guest-agent
-sudo systemctl status qemu-guest-agent
-sudo systemctl enable qemu-guest-agent
-cle
-egrep -c '(vmx|svm)' /proc/cpuinfo
-sudo apt install qemu-kvm qemu-system qemu-utils python3 python3-pip libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager -y
-cle
-ping google.co
-ping google.com
-cle
-sudo apt install qemu-kvm qemu-system qemu-utils python3 python3-pip libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon virt-manager -y
-cle
-sudo systemctl status libvirtd.service
-sudo virsh net-start default
-sudo virsh net-autostart default
-sudo virsh net-list --all
-cle
-sudo usermod -aG libvirt $USER
-sudo usermod -aG libvirt-qemu $USER
-sudo usermod -aG kvm $USER
-sudo usermod -aG input $USER
-sudo usermod -aG disk $USER
-ls
-cd Downloads/
-ls
-cd ventoy-1.0.93/
-ls
-cle
-ls
-./VentoyGUI.x86_64 
-j w__
-cle
-ls
-neofetch
-cle
-python manage.py runserver 192.168.1.2:8000
-cle
-python manage.py runserver 192.168.1.2:8000
-ls
-cd ..
-ls
-cd w
-cd website/
-ls
-cle
-vim manage.py 
-j we__
-cle
-ls
-cle
-vim 
-vim python/main_text_document.txt 
-vim 
-vim t.html
-cle
-ls
-sdpkg-reconfigure keyboard-configuration
-dpkg-reconfigure keyboard-configuration
-sudo dpkg-reconfigure keyboard-configuration
-vim python/heder_document.txt 
-vim .
-python manage.py runserver 192.168.1.2:8000
-sudo dpkg-reconfigure keyboard-configuration
-j w
-cle
-ls
-j w__
-ls
-cle
-python manage.py runserver 192.168.1.2:8000
-vim python/heder_document.txt 
-vim .
-j we__
-cle
-python manage.py runserver 
-cle
-vim ..
-vim .
-python manage.py runserver 
-poweroff
-j w__
-cle
-j we__
-lce
-cle
-l
-cle
-ls
-j spli
-cle
-ls
-cd ..
-cle
-cd python/
-ls
-cd split/
-ls
-cle
-vim .
-python adding_text.py 
-sudo apt install python3-jdatetime
-cle
-vim adding_text.py 
-cle
-cat adding_text.py 
-python adding_text.py 
-cat adding_text.py 
-j pro__
-cle
-ls
-vim adding_text.py 
-vim adding_text.py 300
-vim .
-j webs__
-ls
-mkdir clis
-cle
-vim .
-python manage.py runserver 192.168.1.2:8000
-powr
-poweroff 
-ls
-cle
-ls
-j webs__
-ls
-cle
-l
-ls
-cle
-ll
-cle
-j we
-ls
-sudo apt install python3-full 
-sudo apt install python3-jdata 
-j spli__
-cle
-cd ../python/split/
-ls
-python adding_text.py 
-sudo apt install python3-pip
-cle
-pip install jdatetime
-source path/to/your/venv/bin/activate
-cle
-cd
-mkdir -p .local/share/python/env
-python3 -m venv .local/share/python/env/
-source .local/share/python/env/
-source .local/share/python/env/bin/activate
-cle
-pip install jdatetime
-cd python/split/
-ls
-vim a
-vim adding_text.py 
-cle
-python adding_text.py 
-cle
-vim adding_text.py 
-j web
-cle
-pip install flask
-vim .bashrc 
-vim .
-j websi__
-ls
-cle
-ls
-j py__sp
-lc
-cle
-cd python/
-ls
-cd split/
-python adding_text.py 
-python adding_text.py 23 123 45234 12312 523523 123123 5435 123123 
-cle
-python script_name.py 10 123456 JohnDoe 12345 9876543210
-ls
-python adding_text.py 10 123456 JohnDoe 12345 9876543210
-python adding_text.py 10 123456 JohnDoe 12345 9876543210 4123414 123421
-cle
-python adding_text.py 10 123456 JohnDoe 12345 9876543210 4123414 123421
-cle
-python adding_text.py 10 123456 JohnDoe 12345 9876543210 4123414 123421
-ls
-cat mytexts.txt 
-vim mytexts.txt 
-ll
-vim mytexts.txt 
-cle
-python adding_text.py 10 123456 JohnDoe 12345 9876543210 4123414 123421
-cat mytexts.txt 
-cle
-cp adding_text.py ../website/clis/
-clew
-cle
-ls
-cle
-vi .
-source ~/.bashrc 
-cle
-vim  ~/.bashrc 
-cle
-source ~/.bashrc 
-cle
-touch data/khob.txt
-vim .
-pip install django
-cl
-cle
-j web
-cle
-cat data/khob.txt 
-vim ../split/mytexts.txt 
-vim data/khob.txt 
-pip jdatetime
-pip install jdatetime
-python manage.py runserver 192.168.1.2:8000
-cle
-source ~/.bashrc 
-cle
-j __wev
-j __web
-c;e
-j we
-cle
-ls
-j cli
-j clis
-cd ~/python/website/clis/
-ls
-python adding_text.py 
-python adding_text.py 123456 JohnDoe 12345 9876543210 4123414
-python adding_text.py 123456 JohnDoe 12345 9876543210 4123414 432422
-cat ../data/khob.txt 
-cle
-cd
-cle
-vim .config/nvim/after/plugin/treesitter.lua 
-vim ../split/mytexts.txt 
-python clis/adding_text.py 
-python clis/adding_text.py 123 12345 1234125123 12341235 123412354 1234124
-vim clis/adding_text.py 
-python clis/adding_text.py 123 12345 1234125123 12341235 123412354 1234124
-vim clis/adding_text.py 
-cle
-python clis/adding_text.py 123 12345 1234125123 12341235 123412354 1234124
-vim clis/adding_text.py 
-python clis/adding_text.py 123 12345 1234125123 12341235 123412354 1234124
-vim clis/adding_text.py 
-python clis/adding_text.py 123 12345 1234125123 12341235 123412354 1234124
-cle
-vim .
-ls
-vim data/khob.txt 
-j we__
-ls
-cle
-ls
-cd ..
-ls
-cd website/
-ls
-cle
-tree
-vim .
-cl
-cle
-vim ../myproject/login/login.txt 
-cle
-python manage.py runserver 192.168.1.2:8000
-cle
-vim t.html 
-cat python/website/data/khob.txt 
-cle
-cat python/website/data/khob.txt 
-ls
-vim t
-python manage.py runserver 192.168.1.2:8000
-cle
-cle
-j webs__
-cd ..
-tree website/
-cd website/
-ls
-rm static/
-cle
-ls
-tree website/
-cd ..
-tree website/
-cle
-cd website/
-ls
-cle
-cd login/
-ls
-python manage.py runserver
-cle
-python manage.py makemigrations login
-python manage.py migrate
-cle
-python manage.py makemigrations panel
-python manage.py migrate
-cle
-vim forms.py 
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-python manage.py makemigrations
-cle
-python manage.py makemigrations
-cle
-python manage.py makemigrations
-cle
-python manage.py migrate
-cle
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-python manage.py makemigrations
-python manage.py migrate
-cle
-vim
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-python manage.py makemigrations
-python manage.py migrate
-cle
-vim python/split/mytexts.txt 
-vim python/website/data/khob.txt 
-python manage.py runserver
-cle
-tree python/website/
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-python manage.py runserver
-cle
-cl
-cle
-vim python/website/data/khob.txt 
-python manage.py runserver
-cle
-python manage.py makemigrations
-python manage.py migrate
-cle
-vim t.html 
-python manage.py runserver
-cle
-poweroff 
-ls
-cle
-j websi__
-ls
-cl
-cel
-cle
-ls
-python manage.py runserve
-cle
-vim .
-j web
-cle
-j webs__
-cle
-ls
-cat ../split/mytexts.txt 
-cle
-cd
-cle
-ls
-cle
-ls
-cd .config/alacritty/
-ls
-mkdir font
-cd font/
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/fzerorubigd/persian-fonts-linux/master/farsifonts.sh)"
-cle
-vim alacritty.yml 
-alacritty migrate
-mv alacritty.toml alacritty.toml.b
-alacritty migrate
-cle
-ls
-vim alacritty.toml
-cle
-local
-localw
-localq
-locale
-sudo locale-gen fa_IR.UTF-8
-sudo update-locale LANG=fa_IR.UTF-8
-cle
-sudo update-locale LANG=fa_IR.UTF-8
-cle
-svi /etc/default/alacritty_locale.conf
-cle
-ls
-rm alacritty.toml.b 
-cle
-mv alacritty.toml alacritty.toml.
-vim alacritty.yml 
-alacritty migrate
-vi alacritty.yml 
-alacritty migrate
-vim alacritty.toml
-cat python/split/mytexts.txt 
-sudo apt-get install fonts-noto
-cle
-vim .
-cle
-python manage.py runserver
-poweroff 
-j web
-cle
-python manage.py runserver
-cle
-poweroff 
-j we
-cle
-python manage.py runserver
-cle
-ls
-cle
-j web
-cle
-pkill vncvi
-vim .
-cd ..
-cle
-cd website/
-ls
-cd clis/
-ls
-j data
-j web
-cd data/
-ls
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
-python adding_text.py 50 123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890
-python adding_text.py 50 123456789012345678901234 "John Doe" 12345 1234567890
-vim adding_text.py 
-python adding_text.py 50 123456789012345678901234 "John Doe" 12345 1234567890
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-vim adding_text.py 
-cle
-python adding_text.py 
-cle
-vim adding_text.py 
-python adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
-vim 
-vim .
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-python adding_text.py 50 123456789012345678901234 John Doe 12345 1234567890 1234567890
-vim adding_text.py 
-python adding_text.py 50 123456789012345678901234 John Doe 12345 1234567890 1234567890
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
-cle
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 123456790
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 123456790
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 1234567890
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 123456790
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-cle
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-vim khob.txt 
-vim adding_text.py 
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 123456790
-cle
-python adding_text.py 50 IR123456789012345678901234 John Doe 12345 1234567890 123456790
-cle
-python adding_text.py 50 IR123456789012345678901234 "John Doe" 12345 1234567890 1234567890
-python manage.py runserver
-cle
-python manage.py makemigrations
-python manage.py migrate
-cle
-python manage.py makemigrations
-cle
-python manage.py makemigrations
-cle
-python manage.py makemigrations
-python manage.py migrate
-cle
-vim ..
-cle
-tree ../login/
-cd ../login/
-cle
-ls
-python manage.py runserver
-cle
-python manage.py makemigrations login
-vim .
-cle
-cle
-python manage.py makemigrations login
-cle
-python manage.py makemigrations login
-cle
-python manage.py makemigrations login
-cle
-python manage.py makemigrations login
-python manage.py migrate
-vim .
-python manage.py runserver
-cle
-python manage.py makemigrations login
-cle
-python manage.py makemigrations login
-cle
-python manage.py makemigrations login
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-cle
-vim 
-python manage.py runserver
-cle
-python manage.py makemigrations
-python manage.py migrate
-python manage.py makemigrations
-cle
-python manage.py migrate
-cle
-vim ..
-vim t.html 
-cd ..
-vim ..
-python manage.py runserver
-cle
-vim t.py
-ls
-j pyth__
-ls
-cd website/
-ls
-vim .
-vim .
-vim python/website/clis/adding_text.py 
-ls
-cd python/website/ bak.web
-cp python/website/ bak_web
-cp -r python/website/ bak_web
-cle
-j web__
-cle
-ls
-python manage.py runserver
-cle
-python manage.py runserver 192.168.1.2
-vim
-ls
-cle
-ip a
-cle
-ip a
-python manage.py runserver 192.168.1.2:8000
-cle
-vim website/settings.py 
-cle
-python manage.py runserver 192.168.29.125:8000
-cle
-python manage.py runserver 192.168.29.125:8000
-cle
-vim .
-python manage.py runserver 192.168.1.2:8000
-cle
-python manage.py runserver 
-j web
-ls
-vim .
-poweroff 
-j we__
-lce
-cle
-ls
-j web
-cle
-ls
-dpkg-reconfigure keyboard-configuration
-cle
-sudo dpkg-reconfigure keyboard-configuration
-vim .
-python manage.py runserver
-service keyboard-setup restart
-sudo service keyboard-setup restart
-sudo dpkg-reconfigure keyboard-configuration
-sudo udevadm trigger --subsystem-match=input --action=change
-j web
-cle
-j we__b
-j web
-cle
-j web
-cle
-tree
-j web
-cle
-ls
-python manage.py runserver
-vim .
-vim .
-poweroff 
-j web
-cle
-ت صثذ
-j web
-cle
-ls
-vim .
-j web
-cle
-ls
-cle
-vim .
-python manage.py runserver
-poweroff 
-vim .local/share/dwm/autostart.sh 
-poweroff 
-j web
-cle
-J WEB
-j web
-cle
-ls
-vim .
-python clis/adding_text.py 1 123456789 q 12345 2345 2345
-j websi__
-cle
-vim .
-ls
-ll pres
-ll presnt/
-ll split/
-cd python/
-ls
-vim .local/share/dwm/autostart.sh 
-ls
-cle
-j web
-cle
-ls
-cle
-vim .
-ls
-cle
-j web
-cle
-git remote add origin git@github.com:winder2412/web.git
-git init
-cle
-git remote add origin git@github.com:winder2412/web.git
-cle
-git commit -m "first commit"
-git add .
-git commit -m "first commit"
-cle
-git push -u origin main
-git branch -M main
-git push -u origin main
-cle
-git push -u origin main
-git remote add origin git@github.com:winder2412/web.git
-cle
-ssh-keygen -t rsa -b 4096 -C "winderdawshmaster@gmail.com"
-cle
-cat .ssh/id_rsa.pub 
-git push -u origin main
-cle
-vim .ssh/id_rsa.pub 
-ls
-vim .
-mv panel/templates/panel/script.js panel/static/panel/js/
-vim .
-cle
-ls
-mv panel/static/panel/js panel/
-ls
-cle
-tree panel/
-vim .
-cle
-ls
-mv panel/js panel/static/
-cle
-python manage.py runserver
-cle
-ll panel/static/
-cd panel/static/
-ls
-mv js/ panel/
-ls
-tree
-vim
-cle
-cd ..
-vim .
-git clean -f && git reset --hard
-cle
-git clean -f && git reset --hard
-ls
-git clean panel/
-git clean -i
-git clean -f
-cle
-git reset 
-git reset --hard
-cle
-cd
-cle
-j web
-cle
-ls
-vim .
-cd panel/static/panel/
-ls
-rm -r js/
-cle
-cd
-cle
 j web
 cle
 ls
@@ -3839,3 +2340,7680 @@ vim .config/bash/bash-env
 j bash-wi__
 ls
 vim bash/bash-env 
+cd Github/bash-winder/
+git pull
+cls
+ls
+./setup.sh 
+cls
+ls
+cs
+cls
+j web
+ls
+git clean -f
+git reset --hard
+cls
+ls
+rm node_modules/
+ls
+cls
+git checkout dev
+cls
+git pull
+cls
+j web
+cls
+vim .
+git reset --hard
+cls
+ls
+cls
+ls
+cls
+vim .
+ls
+cls
+ls
+vim .gitignor
+j we__
+ls
+cls
+ls
+ll
+pwd
+cls
+ll login/
+vim .gitignore
+git add .
+git commit -m "adding .gitignore file and fixing the number format on the modal"
+git push
+cls
+vim .gitignore
+ll
+cls
+vim .gitignore 
+cls
+git add .gitignore 
+git commit -m "adding data directory to the file"
+git push 
+cls
+ls
+cls
+ls
+cls
+ls
+cls
+ls
+vim panel/utils.py 
+git reset --hard
+ls
+vim panel/utils.py 
+cls
+ls
+ll
+cd data/
+ls
+ll
+tree .
+cls
+ls
+cls
+ls
+cls
+ls
+cls
+cd ..
+ls
+cls
+git reset --hard 
+cls
+sl
+ls
+git clean -f
+cls
+git clean 
+git clean -h
+git clean -d
+git clean -d -f
+cls
+ls
+git reset --hard 
+ls
+cls
+ls
+cls
+vim .
+cls
+ls
+git add panel/utils.py 
+git commit -m "changing the path"
+git push
+cls
+ls
+cls
+git reset --hard
+git checkout faroogh
+cls
+ls
+cls
+python manage.py runserver
+cls
+git reset --hard
+git clean -d -f
+cls
+ls
+tree data/
+cls
+ls
+cls
+git reset --hard 
+git clean -f -d
+cls
+ls
+cls
+git checkout dev
+cls
+ls
+cls
+ls
+cls
+ll
+git reset --hard 
+git clean -fd
+cls
+vim .
+cls
+git reset --hard 
+git clean -fd
+ll
+git reset --hard 
+python manage.py runserver
+ll
+clear
+ls
+cls
+git checkout faroogh 
+cls
+ls
+cls
+cls
+vim .
+cls
+ll
+tree data/
+cls
+git reset --hard
+git clean -d
+git clean -df
+cls
+ls
+git reset --hard
+cls
+git pull
+csl
+cls
+git pull
+python manage.py runserver
+csl
+cls
+git reset --hard
+git clean -df
+cls
+git pull
+cls
+ls
+cls
+vim .
+cls
+ls
+cd Github/
+ls
+mkdir tmp
+rm tmp
+cls
+ls
+cd temp/
+ls
+git clone https://github.com/winder2412/web
+cd web/
+ls
+cld
+cls
+git checkout dev
+cls
+ls
+git reset --hard
+git clean fd
+python manage.py runserver
+cls
+git clean -fd
+cls
+git reset --hard 
+ls
+csl
+cls
+git checkout dev
+cls
+ls
+cls
+l
+cls
+ls
+cls
+tree data/
+python manage.py runserver
+csl
+cls
+git reset --df
+cls
+git reset --hard 
+git clean -fd
+cls
+vim .
+git add panel/models.py 
+git commit -m "fixing the headers"
+git push
+cls
+ls
+cls
+ls
+cls
+tree data/
+cls
+ls
+vim .
+tree data/
+python manage.py runserver
+git reset --hard
+git clean -fd
+cls
+vim panel/utils.py 
+git add panel/utils.py
+git commit -m "fixing the folderpath problem(one singel /)"
+git push
+cls
+ls
+cls
+fempty .
+cls
+fempty 
+cls
+fempty 
+cls
+j web
+cls
+ls
+cls
+cd
+ls
+cd Github/web/
+ll
+clear
+git reset --hard 
+git clean -df
+ll
+cls
+cat panel/utils.py 
+batcat
+csl
+cls
+vim ~/.config/bash/bashrc 
+source ~/.config/bash/bashrc 
+cls
+cat panel/utils.py 
+cls
+cls
+git checkout faroogh 
+cls
+python manage.py runserver
+cls
+vim .
+cls
+cd Github/temp/web/
+ls
+cls
+git pull 
+cls
+vim .
+pip install pandas
+cls
+vim .
+cd Github/temp/web/
+cls
+vim .
+ll
+cls
+ll
+cls
+git add .
+cls
+vim .
+git add .
+git commit -m "merging the panel app"
+cls
+git push
+cls
+ll
+vim .
+vim .
+cls
+ls
+git add .
+cls
+git commit -m "migrating the website directory"
+cls
+git push
+cls
+vim .
+cls
+git add .
+cls
+git commit -m "adding pngfounder app"
+git push
+cls
+python manage.py runserver
+git reset --hard 
+git clean -df
+cls
+git pull
+cls
+vim .
+cls
+git add panel/templates/panel/generate_excel.html
+git commit -m "adding the exelfinder form to the file"
+git push
+cls
+cd ..
+cls
+cd ..
+ls
+rm temp/
+cls
+vim .
+git pull 
+cls
+git checkout dev
+cls
+git pull
+cls
+ls
+cls
+j web
+ll
+cd ..
+ls
+ll python/
+rm python/website/
+ls
+cls
+j web
+cls
+ls
+cls
+vim .
+cls
+python manage.py runserver
+cls
+python manage.py makemigration
+python manage.py makemigrations
+python manage.py migrate
+cls
+git reset --hard 
+git clean -fd
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+git add .
+git commit -m "migrated"
+git push
+cls
+cls
+ls
+cls
+vim .
+git reset --hard
+git clean -fd
+cls
+vim .
+cls
+vim .
+git reset --hard 
+git clean -df
+cls
+git reset --hard 
+cls
+vim .
+python manage.py runserver
+git reset --hard 
+vim .
+git add panel/models.py
+git commit -m "adding IR to shaba"
+cls
+git push 
+cls
+cls
+ls
+cd Github/
+ls
+cd dwm-winder/
+ls
+cls
+ls
+cd ..
+cd
+ls
+cd .local/
+cd share/dwm/
+ls
+cls
+vim panel
+vim autostart.sh 
+python manage.py runserver
+cd dw
+cd .local/share/dwm/
+ls
+vim panel 
+ll
+cls
+./panel 
+cls
+cat panel 
+cls
+cat panel 
+vim panel 
+./panel 
+cls
+ls
+cls
+j w
+cls
+ls
+cls
+nmtui
+lcs
+cls
+ip a
+cls
+ping 192.168.1.1
+ping 192.168.1.2
+cls
+ping 192.168.1.1
+cls
+nmtui
+ping 192.168.1.1
+cls
+ping google.com
+cls
+ping 192.168.1.1
+ls
+cls
+ls
+j we__
+cls
+ls
+vim .
+j w__
+ls
+cl
+cls
+ll
+cls
+tree data/
+clse
+cls
+git reset --hard 
+git clean -fd
+cls
+git reset --hard 
+csl
+cls
+ls
+cls
+vim .
+cls
+cd Downloads/adsf/
+ls
+cat filtered_output.txt 
+ls
+j w__
+cls
+ll
+tree data/
+cls
+ls
+cat filtered_output.txt 
+cls
+vim filtered_output.txt 
+cls
+cat filtered_output.txt 
+cls
+ls
+cat filtered_output.txt 
+:q
+vim .
+cd Downloads/adsf/
+ls
+cat filtered_output.txt 
+tree data/
+cd data/
+cat modkhob.txt 
+cls
+cat modkhob.txt 
+cls
+ls
+vim .
+python manage.py runserver
+poweroff 
+ls
+cls
+ll .config/X11/
+svi /etc/bash.bashrc 
+vim .config/X11/
+ls
+cp .local/share/icons/BreezeX-Black/ /usr/share/icons/
+cp -r .local/share/icons/BreezeX-Black/ /usr/share/icons/
+sudo cp -r .local/share/icons/BreezeX-Black/ /usr/share/icons/
+cls
+ls
+cls
+j web
+cls
+ls
+cls
+j web
+cls
+j web
+cls
+python manage.py runserver
+cls
+python manage.py makemigration
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+vim .
+cls
+ls
+cls
+ls
+cd ..
+ls
+mkdir temp
+cp -rf web/* temp/
+cls
+ll temp/
+ll web/
+cls
+cd web/
+git reset --hard && git clean -fd
+cls
+ls
+cls
+python manage.py runserver
+cls
+vim .
+git reset --hard && git clean -fd
+cls
+j w__
+cls
+cd ../temp/
+ls
+cls
+ls
+cls
+vim .
+cls
+git add .
+cls
+git commit "almost done with the in-excel finder& rearranging the admin page"
+git commit -m "almost done with the in-excel finder& rearranging the admin page"
+cls
+git push 
+cls
+pull
+cls
+git pull
+cls
+vim .
+cls
+python manage.py runserver
+cls
+git reset --hard 
+git clean -fd
+cld
+cls
+vim .
+cls
+git add .
+git commit --amend 
+git push 
+git push --force
+cls
+vim 
+vim .
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+vi .
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+vim .
+cls
+git add .
+git commit -m "fixing the redirection if not logged in"
+vim .
+cls
+git add .
+git commit -m "fixing the redirection if not logged in"
+git push 
+cls
+csl
+cls
+git reset --hard 
+git clean -df
+cls
+tree .
+vim .
+cls
+git status
+git rm -r --cached .
+cls
+ls
+cls
+git add .gitignore
+git commit -m "Update .gitignore"
+git config --global --get core.excludesFile
+cls
+ll
+cls
+git rm -r --cached .
+git add .
+cls
+git push 
+ll
+cls
+vim .gitignore 
+cls
+git add .
+ls
+cls
+git push 
+cls
+git config --global --get core.excludesFile
+ls
+git config --global --unset core.excludesFile
+git commit -m "Update .gitignore"
+git rm --cached -r .
+cls
+git commit -m "Untrack files according to updated .gitignore"
+cls
+git add .
+cls
+git commit -m "test"
+vim .
+cls
+git rm -r --cached '*/__pycache__'
+cls
+git add .
+git rm -r --cached '*/__pycache__'
+git rm --cached
+git rm --cached .
+git rm --cached . -r
+cls
+ls
+git add .
+git commit "tring to fix the gitignore problem"
+git commit -m "tring to fix the gitignore problem"
+cls
+git push
+cls
+git rebase -i 72eb70b7ae2f97eac9066b9215dc80a922653b48
+cls
+git rebase -i 44e761ee1821d272e0459a8f4f7b30281d8d6582
+cls
+git push
+git push -f
+cls
+vim .
+cls
+vim .
+cls
+git add .
+cls
+git commit --amend 
+git push -f
+cls
+python manage.py runserver
+cls
+git reset --hard 
+cls
+git reset --hard 
+vim .
+cls
+j we
+lcs
+vim .
+vim .
+python manage.py runserver
+cls
+git add .
+cls
+git commit -m "adding ristriction for png finder"
+cls
+git push
+cls
+j web
+cls
+vim .
+j we__
+cls
+vim .
+python manage.py runserver
+cls
+git add .
+cls
+git commit -m "adding some colors(temp)to the admin page and adding exit button to the png finder page"
+cls
+git push
+sudo apt update 
+cls
+j web
+cls
+vim .
+j web
+cls
+j we
+cls
+vim .
+vim .
+cls
+git reset --hard 
+git clean -df
+cls
+git reset --hard 
+cls
+python manage.py runserver
+cls
+git reset --hard 
+git clean -fd
+cld
+cls
+cat data/khob.txt 
+cls
+git reset --hard
+cls
+git clean -fd
+cls
+vim .
+cls
+vim 
+vim .
+cls
+git add .
+git commit -m "optimizing the default file path"
+cls
+git push 
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+cls
+vim .
+tree data/
+cat data/khob.txt 
+cat data/station_1/khob.txt 
+cls
+git reset --hars
+git reset --hard
+csl
+cls
+git clean -fd
+cls
+python manage.py runserver
+cls
+git reset --hard 
+ls
+cl
+cls
+vim .
+cls
+git add .
+git commit --amend 
+git push -f
+cls
+ls
+cls
+tree data/
+cls
+git reset --hard
+git clean -fd
+cls
+python manage.py runserver
+cls
+l
+cls
+ll
+cls
+ls
+cls
+ll
+cls
+vim .
+cls
+git add .
+git commit --amend 
+git push
+git push -f
+cls
+vim .
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+git stash save "price_ave test"
+tree data/
+cat data/khob.txt 
+cls
+git stash pop
+cls
+git reset --hard
+git clean -fd
+git pop
+git stash pop
+cls
+git add .
+git commit -m "improving price_ave managment"
+git push
+cls
+vim .
+git reset --hard
+cls
+vim .
+python manage.py runserver
+cls
+git reset ab92a7e53fb2a089a8bb1fa384d8b1a5e6b4cf43
+cls
+python manage.py runserver
+cls
+git reset --hard  ab92a7e53fb2a089a8bb1fa384d8b1a5e6b4cf43
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+git rebase dev 58a76882c002be590f1d05d2534587a0d9d2b202
+git rebase 58a76882c002be590f1d05d2534587a0d9d2b202
+cls
+git stash save "hold"
+git rebase 58a76882c002be590f1d05d2534587a0d9d2b202
+git rebase -i 58a76882c002be590f1d05d2534587a0d9d2b202
+cls
+git reset --hard
+cls
+git push
+git push -f
+cls
+git stash pop
+cls
+git add .
+git commit "fixing the price ave(and renaming it from price ave)"
+git commit -m "fixing the price ave(and renaming it from price ave)"
+cls
+git push
+cls
+cls
+tree data/
+python manage.py runserver
+cls
+git reset --hard
+cls
+git clean -fd
+cls
+cls
+python manage.py runserver
+cls
+git reset --hard
+cls
+vim. 
+cls
+vim .
+python manage.py runserver
+cls
+git stash save "hold"
+python manage.py runserver
+cls
+git reset --hard
+cls
+git stash pop
+cls
+git commit -m "fixing the serial_number problem"
+git add .
+git commit -m "fixing the serial_number problem"
+cls
+git push
+cls
+git reset --hard 
+python manage.py runserver
+cls
+git reset --hard 
+git rebase -i 9d8d1aed7c1e25d7ae8607b47e56bfb0fbdd40d4
+ls
+cls
+git push 
+git push -f
+cls
+cls
+ls
+cls
+j we
+cls
+git checkout main
+cls
+git checkout main
+cls
+git pull
+cls
+git merge dev
+vim panel/utils.py 
+cls
+vim panel/utils.py 
+git merge dev
+git merge dev --continue 
+cls
+git merge --continue
+git merge --abort
+cls
+rm -rf ./*
+ls
+cls
+cd ..
+ls
+cd temp/
+ls
+rm ./*
+cls
+ls
+git clone https://github.com/winder2412/web
+cls
+ls
+cd web/
+git checkout dev 
+cls
+cp ./* ../../web/
+cls
+cp -rf ./* ../../web/
+y
+cls
+ls
+cd ../..
+ls
+cd web/
+ls
+cls
+ll
+cls
+git add .
+git commit -m "merge with dev"
+cls
+git push 
+cls
+ll
+python manage.py runserver
+cls
+git reset --hard
+cls
+vim .
+cls
+git commit -m "min limit added"
+git add .
+git commit -m "min limit added"
+cls
+git push 
+cls
+lls
+cls
+l
+ls
+cls
+ll
+cls
+ll
+cls
+ls
+cls
+ls
+cls
+ll
+csl
+cls
+svi /etc/apt/sources.list
+cls
+svi /etc/apt/sources.list
+cls
+sudo apt update
+cls
+svi /etc/apt/sources.list
+cls
+sudo apt update
+cls
+svi /etc/apt/sources.list
+cls
+sudo apt update
+svi /etc/apt/sources.list
+sudo apt update
+cls
+sudo apt update
+svi /etc/apt/sources.list
+cls
+sudo apt update
+svi /etc/apt/sources.list
+cls
+svi /etc/apt/sources.list
+sudo apt update
+cls
+sudo apt upgrade 
+cls
+sudo apt upgrade 
+sudo apt autoremove 
+sudo apt upgrade 
+cls
+echo "deb [signed-by=/etc/apt/keyrings/lutris.gpg] https://download.opensuse.org/repositories/home:/strycore/Debian_12/ ./" | sudo tee /etc/apt/sources.list.d/lutris.list > /dev/null
+wget -q -O- https://download.opensuse.org/repositories/home:/strycore/Debian_12/Release.key | gpg --dearmor | sudo tee /etc/apt/keyrings/lutris.gpg > /dev/null
+echo "deb [signed-by=/etc/apt/keyrings/lutris.gpg] https://download.opensuse.org/repositories/home:/strycore/Debian_12/ ./" | sudo tee /etc/apt/sources.list.d/lutris.list > /dev/null
+cls
+wget -q -O- https://download.opensuse.org/repositories/home:/strycore/Debian_12/Release.key | gpg --dearmor | sudo tee /etc/apt/keyrings/lutris.gpg > /dev/null
+touch /home/winder/.config/wgetrc
+cls
+wget -q -O- https://download.opensuse.org/repositories/home:/strycore/Debian_12/Release.key | gpg --dearmor | sudo tee /etc/apt/keyrings/lutris.gpg > /dev/null
+cls
+ll
+rm .sudo_as_admin_successful 
+cls
+sudo apt update
+cls
+sudo apt install lutris
+cls
+sudo apt update 
+cls
+sudo apt install wine
+cls
+sudo apt install winetricks 
+cls
+winetricks 
+winecfg
+dpkg --add-architecture i386 && apt-get update && apt-get install wine32:i386
+sudo dpkg --add-architecture i386 &&sudo apt-get update &&sudo apt-get install wine32:i386
+cls
+winecfg
+reboot
+winecfg
+wine
+wine --version 
+sudo dpkg --add-architecture i386 &&sudo apt-get update &&sudo apt-get install wine32:i386
+winetricks 
+sudo apt install kdialog
+winetricks 
+cls
+reboto
+reboot
+winetricks 
+kdialog
+sudo apt install kdialog 
+cls
+sudo apt install kdialog 
+cls
+winetricks 
+cls
+winecfg
+cat
+rm .wine/
+cls
+cat .config/bash/bash-env 
+cls
+winecfg
+cls
+mkdir -p "$XDG_DATA_HOME"/wineprefixes
+export WINEPREFIX="$XDG_DATA_HOME"/wineprefixes/64-bit
+cls
+rm .wine/
+cls
+winevfg
+winecfg
+ll
+cls
+vim .config/bash/bash-env 
+cls
+ls
+rm .sudo_as_admin_successful 
+rm .wine/
+ls
+cls
+winecfg
+ll
+cls
+ll
+cls
+winetricks 
+poweroff 
+ls
+cls
+ls
+rm .fltk/
+ls
+cls
+ls
+rm .pki/
+ls
+cls
+ls
+cls
+cd Github/
+ls
+cd other/
+ls
+cls
+ls
+ll dwmstatus/
+cls
+ll
+rm dwmstatus/
+cls
+ls
+https://github.com/djpohly/dwl.git
+git clonehttps://github.com/djpohly/dwl.git
+git clone https://github.com/djpohly/dwl.git
+cls
+ls
+cls
+ls
+cd ..
+ls
+cd dwm-winder/
+ls
+cls
+ll
+cls
+ls
+cls
+patch -9 < dwm-scratchpad-20221102-ba56fe9.diff 
+cls
+patch -p1 < dwm-scratchpad-20221102-ba56fe9.diff 
+cls
+ll
+vim .
+cls
+sudo make
+jll
+ll
+cls
+lsl
+ls
+cls
+ls
+cls
+l
+cls
+ll
+cls
+l
+cls
+sudo make 
+cls
+ls
+mv dwm-scratchpad-6.2.diff ..
+ls
+cls
+git reset --hard
+cls
+git clean -df
+cls
+ls
+mv ../dwm-scratchpad-6.2.diff .
+cls
+l
+ls
+cls
+patch -p1 < dwm-scratchpad-6.2.diff 
+vim .
+cls
+sudo make
+git reset --hard
+cls
+git clean =df
+cls
+git clean -df
+cls
+l
+s
+cls
+lsl
+cls
+ls
+cls
+patch -p1 < dwm-scratchpad-20200727-bb2e7222baeec7776930354d0e9f210cc2aaad5f.diff 
+vim .
+cls
+sudo make
+cls
+sudo make clean install 
+cls
+ls
+cls
+j dwm
+cls
+sl
+vim .
+cls
+git clean 
+git clean -df
+git reset --hard 
+cls
+ls
+cls
+sudo make
+cls
+sudo make clean install 
+cls
+svi /etc/pam.d/lightdm
+cls
+vim 
+sudo groupadd -r nopasswdlogin
+sudo gpasswd -a username nopasswdlogin
+sudo gpasswd -a winder nopasswdlogin
+cls
+ls
+cls
+ls
+cls
+patch -p1 < dwm-scratchpads-20200414-728d397b.diff 
+vim .
+cls
+sudo make
+cls
+git reset --hard
+cls
+git clean -fd
+cl
+cls
+ls
+cls
+ls
+cls
+patch -p1 < dwm-namedscratchpads-6.2.diff 
+cls
+vim .
+sudo make
+git reset --hard
+cls
+git clean -fd
+cls
+ls
+cls
+ls
+cls
+patch -p1 < dwm-multiple-dynamic-scratchpads.diff 
+vim .
+cls
+sudo make
+vim .
+git reset --hard 
+git clean -d
+flcs
+git clean -df
+cls
+tree patches/
+cls
+ls
+csl
+cls
+ls
+cls
+patch -p1 < dwm-fakefullscreen-20210714-138b405.diff 
+cls
+vim .
+csl
+cls
+sudo make
+sudo make install 
+cls
+ls
+j dwm
+cls
+vim .
+ls
+cls
+ls
+cls
+apt
+cls
+apt update 
+cls
+apt update 
+cls
+apt list --upgradable 
+cls
+apt 
+apt fetch
+apt upgrade 
+cls
+csl
+cls
+csl
+cls
+apt fetch
+cls
+svi /etc/apt/sources.list
+cls
+csl
+apt fetch
+svi /etc/apt/sources.list~
+rm /etc/apt/sources.list~
+csl
+sudo  /etc/apt/sources.list~
+rm /etc/apt/sources.list~
+sudo rm /etc/apt/sources.list~
+cls
+ll /etc/apt/
+cls
+apt
+apt upgrade 
+cls
+j dwm
+csl
+sl
+cls
+ls
+rm *.orig
+cls
+ll
+cls
+sl
+ls
+cls
+ls
+rm *.reg
+cls
+rm *.rej
+cls
+ls
+mv dwm-fakefullscreen-20210714-138b405.diff patches/
+cls
+ll
+cls
+ls
+git add .
+cls
+git commit -m "adding fakefullscreen pathch"
+git push
+cls
+ls
+csl
+cls
+patch -p1 > dwm-cursorwarp-6.3.diff 
+cls
+patch -p1 < dwm-cursorwarp-6.3.diff 
+cls
+patch -p1 > dwm-cursorwarp-6.3.diff 
+patch p1 > dwm-cursorwarp-6.3.diff 
+csl
+cls
+vim ~/.config/bash/bash-history 
+patch -p1 < dwm-cursorwarp-6.3.diff 
+cls
+lls
+cls
+ll
+cls
+git reset --hard 
+cls
+git clean -fd
+cld
+cls
+ls
+csl
+cls
+patch -p1 < dwm-cursorwarp-6.3.diff 
+cls
+git reset --hard
+cls
+j we__
+cls
+j dwm
+csl
+cls
+git reset 
+cls
+sudo make
+cls
+sudo make clean install 
+cls
+ls
+rm config.h
+cls
+sudo make clean install 
+cls
+ls
+cls
+j dwm
+csl
+cls
+ls
+rm *.orig
+cls
+ls
+mv dwm-cursorwarp-6.3.diff patches/
+cls
+ls
+git add .
+git commit -m "patching cursorwarp"
+cls
+git push
+cls
+ls
+cls
+patch -p1 < dwm-fullscreen-6.2.diff 
+cls
+vim .
+cls
+ls
+rm config.h
+cls
+sudo make
+cls
+sudo make clean install
+j dwm
+cls
+vim .
+cls
+ls
+sudo make 
+cls
+ls
+rm config.h
+cls
+ls
+sudo make clean install 
+cls
+ls
+j dwm
+git reset 
+cls
+git reset --hard 
+cls
+ls
+csl
+git clean -df
+cld
+cls
+ls
+csl
+cls
+patch -p1 < dwm-actualfullscreen-20211013-cb3f58a.diff
+cls
+ls
+rm config.h
+cls
+ls
+sudo make
+cls
+sudo make clean install 
+cls
+ls
+cls
+ls
+cls
+ls
+j dmw
+cls
+ls
+j swm
+jdwm
+cls
+j dwm
+cls
+ls
+git reset --hard 
+git clean --fd
+git clean -fd
+cls
+ls
+vim config.def.h 
+cls
+git add . && git commit -m "changing some bindings"
+git push
+cls
+ls
+rm config.h
+cls
+sudo make clean install 
+csl
+cls
+ll
+cls
+git add .
+git commit --amend 
+git push 
+cls
+git push -f
+cls
+ls
+cld
+cls
+j dwm
+ping google.com
+cls
+ping youtube.com
+ls
+ping google.com
+ssh root@5.42.76.167
+cls
+ssh root@5.42.76.167
+reboot
+ping google.com
+cls
+j down__
+cls
+sl
+cls
+ll
+cls
+apt install ./nekoray-3.21-2023-09-12-debian-x64.deb 
+cls
+reboot
+ls
+cd js/
+cls
+ls
+npx create-react-app website
+mkdir /home/winder/.local/share/npm
+cls
+npx create-react-app website
+npm
+cls
+ls
+ll .
+ll ../..
+cd
+cls
+ll
+rm Barbie.2023.1080p.WEB-DL.6CH.SoftSub.\[2.31GB-Pahe\].OrTa.mkv 
+ls
+cls
+ll
+rm The.SpongeBob.SquarePants.Movie.2004.720p.Farsi.Dubbed.mkv 
+cls
+ll
+rm .sudo_as_admin_successful 
+cls
+ll
+rm Phineas\ and\ Ferb\ S03/
+cls
+ll
+npm
+cls
+cd js/
+ls
+csl
+cls
+npx
+csl
+cls
+npx create-react-app website
+npm -v
+csl
+cls
+ll
+csl
+cls
+npm cache clean -f
+csl
+cls
+npx create-react-app website
+cls
+ls -la /home/winder
+cls
+sudo apt-get remove nodejs
+csl
+cls
+sudo apt-get remove nodejs npm
+apt autoremove 
+cls
+apt remove npm
+csl
+cls
+node -v
+npm -v
+cls
+apt install npm nodejs
+cls
+ls
+cls
+node -v
+npm -v
+cls
+npx create-react-app website
+vim ~/.config/bash/bash-env 
+cls
+$XDG_CONFIG_HOME/npm/npmrc
+ll $XDG_CONFIG_HOME/npm/npmrc
+cls
+npx create-react-app website
+npm
+cls
+npm install
+cls
+npm init
+cls
+ll
+cls
+npx create-react-app website
+npx
+cls
+cd
+cls
+j web
+cls
+ls
+csl
+cls
+git checkout dev
+cls
+ls
+cls
+tree .
+cls
+vim .
+git add .gitignore
+git commit -m "Add .gitignore file"
+git status
+git push
+cls
+git status
+git add .
+git status
+csl
+cls
+ll
+mkdir data
+cls
+ll
+cls
+git status 
+git add. 
+git add .
+cls
+git status 
+cls
+rm data/
+cls
+ls
+cls
+j w
+cls
+ls
+cls
+git add .
+ll
+cls
+git status 
+git restore --staged .
+csl
+cls
+ll
+csl
+cls
+ll
+git reset --hard
+csl
+cls
+ll
+cls
+git rm --cached *.pyc
+cls
+ll
+ll panel/migrations/
+cls
+ls
+tree login/
+cls
+git add .
+git commit -m "adding git ignore"
+git push
+cls
+lls
+ll
+cls
+ll
+python manage.py runserver
+cls
+git rm --cached *.pyc
+rm -r *.pyc
+rm -rf *.pyc
+tree login/
+csl
+rm -r *.pyc
+sudo rm -rf *.pyc
+cls
+tree login/
+cls
+cd login/
+ls
+rm __pycache__/
+cls
+ll
+cd ..
+cls
+ls
+cd panel/
+ls
+rm __pycache__/
+cls
+ll
+cd migrations/
+ls
+rm __pycache__/
+csl
+ll
+cd ..
+cls
+ls
+cd ..
+cd login/
+ls
+cd migrations/
+ls
+rm __pycache__/
+cls
+ll
+cd ..
+ls
+cd ..
+cls
+ll
+cd pngFounder/
+cls
+ls
+rm __pycache__/
+cd migrations/
+ls
+rm __pycache__/
+cls
+cd ..
+cld
+cls
+ll
+cd ..
+cls
+ls
+cd website/
+ls
+rm __pycache__/
+cls
+ll
+cd ..
+cls
+ll
+cls
+vim .
+cls
+ls
+git add .
+git commit -m "still tring to fix the gitignore"
+csl
+cls
+git push 
+cls
+ls
+csl
+ll
+cls
+ll
+cls
+ll
+cls
+git status 
+cls
+tree .
+cls
+ls
+python manage.py runserver
+cls
+cls
+git reset 
+cls
+git reset --hard
+cls
+mv db.sqlite3 ..
+ls
+git add .
+git commit --amend 
+cls
+git push -f
+cls
+mv ../db.sqlite3 .
+cls
+ls
+cls
+ll
+cls
+ls
+git reset --hard 
+cls
+git clean -fd
+cls
+ls
+cls
+cat db.sqlite3 
+vim .
+cls
+vim .
+cls
+git reset --hard 
+cls
+git checkout station
+cls
+git checkout -a station
+cls
+git checkout -b station
+cls
+ll
+rm pngFounder/
+cls
+ll
+cd panel/
+cls
+ls
+rm templates/panel/generate_excel.html 
+csl
+cls
+vim .
+cls
+ll
+cls
+cd ..
+ls
+vim website/settings.py 
+cls
+git add . 
+git commit -m "first commit"
+cls
+git push origin station 
+cls
+python manage.py runserver
+cls
+nmtui
+ping 192.168.1.1
+cls
+nmtui
+cls
+ping google.com
+cls
+ping 192.168.1.1
+cls
+cls
+vim .
+cls
+git reset --hard
+cls
+git checkout dev
+csl
+cls
+python manage.py runserver
+cls
+vim .
+cls
+python manage.py runserver 192.168.1.2:80
+vim .
+cls
+git add .
+git commit -m "changing the base_price saving function"
+cls
+git push
+cls
+git pull
+cls
+git checkout station 
+cls
+ls
+ssh 192.168.1.1
+python manage.py runserver 192.168.1.2:8000
+cls
+git pull
+git pull origin station 
+cls
+python manage.py runserver
+pip install requests
+cls
+ssh 192.168.1.1
+j w
+cls
+vim .
+vim .
+cls
+ssh
+git pull
+cls
+cle
+cls
+git reset --hard
+git pull
+cls
+git pull origin station 
+python manage.py runserver
+csl
+cls
+git reset --hard
+git pull origin station 
+cls
+vim .
+git pull
+git reset 
+cls
+git checkout dev
+cls
+python manage.py runserver
+ls
+vim .
+cls
+ssh 192.168.1.1
+ssh 192.168.1.1
+ls
+cls
+j w
+cls
+ls
+cd ..
+cls
+ls
+cd temp/
+ls
+cd web/
+cls
+ls
+git pull
+cls
+git checkout station 
+cls
+python manage.py runserver 127.0.0.1:8001
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py shell
+cls
+python manage.py runserver 192.168.1.2:8000
+cls
+j tem
+cls
+j
+cd
+cla
+cls
+cd Github/temp/web/
+csl
+cls
+ls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py runserver 127.0.0.1:8001
+vim .
+vim .
+tree data/
+vim sa
+vim data/
+cls
+git add .
+git commit --amend 
+git push -f
+cls
+ls
+csl
+cls
+cls
+git status 
+cls
+git add .
+git commit --amend 
+git push -f
+cls
+git checkout -m main admin
+git branch -m main admin
+git checkout admin 
+cls
+ls
+git push 
+git push admin
+git push origin admin
+cls
+git add .
+git commit -m "rename"
+git push
+git push origin admin 
+cls
+git push
+cls
+git checkout manage.py
+cls
+git checkout main 
+cls
+git fetch all
+cls
+git fetch --all
+cls
+git checkout dev
+git checkout admin 
+cls
+ls
+git status 
+git restore .
+cls
+git restore .
+cls
+git reset --soft HEAD~1
+csl
+cls
+git reset --hard HEAD~1
+git pull
+git status 
+cls
+git add .
+git commit -am
+git commit -amend
+cls
+git commit --amend
+cls
+git push -f
+cls
+git push -f
+git push origin admin -f
+cls
+git push -f
+git push origin HEAD
+cls
+git push origin HEAD -a
+git push origin HEAD -f
+cls
+git add .
+cls
+git commit --amend 
+git push origin HEAD -f
+git push origin admin  -f
+git push -f
+git push origin HEAD:admin
+git push origin HEAD:main
+cls
+git checkout dev
+cls
+git reset --hard
+git checkout dev
+cls
+python manage.py runserver
+cls
+python manage.py makemigration
+python manage.py makemigrations
+python manage.py migrate
+cls
+vim .
+cls
+vim .
+ll
+mkdir data
+cls
+ls
+ll data/
+cls
+cls
+python manage.py shell
+cls
+vim .
+lcs
+cls
+tree data/
+ll
+ls
+tree data/
+cd data/
+ls
+cls
+ls
+tm station_1.zip 
+cls
+ls
+rm station_1.zip 
+cls
+ll
+mkdir temp_dir
+cls
+ll
+tree .
+cls
+ll
+cd ..
+cls
+ls
+cd ..
+cd web/
+sl
+ls
+csl
+cls
+ll
+cd data/
+ls
+cls
+ll
+cd ../../temp/web/
+cls
+j w
+cls
+ll
+tree data/
+cls
+tree data/
+cls
+git status 
+git add .
+git commit -m "adding zip file thingese"
+cls
+git push
+cls
+vim .
+cls
+git status 
+cls
+git add .
+git commit -m "fixing the zip file thingese"
+cls
+git push
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+vim .
+cls
+ll data/
+tree data/
+cls
+vim .
+cls
+ls
+git status 
+git add .
+git commit -m "removing database from gitignore file"
+git push
+cls
+vim .
+git status 
+git add .
+git commit -m "fixing the price chaching issue"
+cls
+git push 
+cls
+ls
+cls
+ls
+python manage.py runserver 127.0.0.1:8001
+cls
+cls
+cls
+ls ~/Github/dwm-winder/
+jw
+j w
+cls
+j dwm
+cls
+ls
+patch -p1 < dwm-actualfullscreen-20211013-cb3f58a.diff 
+cls
+sudo make
+vim .
+rm config.h
+cls
+sudo make
+sudo make install 
+cls
+j dwm
+cls
+ls
+vim .
+git reset --hard
+cls
+git clean -fd
+cld
+cls
+ls
+csl
+cls
+patch -p1 < dwm-fullscreen-6.2.diff 
+vim .
+cls
+rm config.h
+csl
+cls
+sudo make 
+sudo make install
+cls
+j dwm
+sudo make clean install
+j dwm
+git reset --hard 
+cls
+git clean -fd
+cls
+ls
+cls
+patch -p1 < dwm-actualfullscreen-20211013-cb3f58a.diff 
+ls
+sudo make clean install 
+cls
+sudo make
+rm config.h
+cls
+vim .
+cls
+sudo make clean install 
+cls
+j dwm
+cls
+git reset --hard
+cls
+git clean -fd
+cls
+ls
+cls
+patch -p1 < dwm-actualfullscreen-20191112-cb3f58a.diff 
+cls
+sudo make clean install 
+cls
+rm config.h
+sudo make clean install 
+cls
+j dwm
+csl
+cls
+git reset --hard
+cls
+git clean -fd
+cl
+cls
+ll patches/
+cls
+ls
+patch -p1 < dwm-fullscreen-6.2.diff 
+cls
+ls
+vim .
+cls
+rm config.h
+cls
+sudo make clean install 
+cls
+ls
+rm *.orig
+rm *.rej
+csl
+cls
+ll
+cls
+ls
+cls
+j dwm
+cls
+mv dwm-fullscreen-6.2.diff patches/
+cls
+ls
+cls
+git add .
+git push -m "adding fullscreen patch"
+git commit  -m "adding fullscreen patch"
+git push 
+ping google.com
+pkill neko*
+cls
+pkill neko*
+cls
+pkill nekobox_core 
+sudo pkill nekobox_core 
+pkill vncviewer 
+cls
+ping google.ocm
+ping google.com
+cls
+j dwm
+cls
+git puhs
+git push
+cls
+j dw__
+cd
+j w__
+cls
+ls
+vim .
+cls
+j temp
+cls
+j tem__w
+csl
+sl
+csl
+cls
+ls
+cd web/
+sl
+cls
+sl
+cls
+ls
+cls
+j temp__web
+csl
+cls
+cd web/
+cls
+j w
+cls
+vim .
+cls
+python manage.py shell
+cls
+cd .config/nvim/
+sl
+vim .
+vim .
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+git reset --hard
+cls
+vim .
+git reset --hard
+csl
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py makemigrations
+csl
+cls
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+j w
+csl
+cls
+cd ../temp/web/
+cls
+vim .
+vim .
+csl
+python manage.py runserver
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+vim .
+vim .
+cls
+git status 
+git add .
+git commit -m "fixing the base_price problem"
+cls
+git push
+cls
+python manage.py runserver 127.0.0.1:8001
+ping google.com
+cls
+ping google.com
+j w
+cls
+j t
+cls
+j tem
+cls
+j temp/w
+cls
+git status 
+vim .
+cls
+cls
+python manage.py runserver
+cls
+git reset 
+cls
+git reset --hard
+cls
+j w
+cls
+git checkout admin 
+cls
+ls
+git status 
+cls
+git reset --hard
+git clean -fd
+cls
+git merge dev
+cls
+git reset --hard
+cls
+git checkout dev
+cp .gitignore .
+cls
+cp .gitignore ..
+git checkout admin 
+cls
+mv ../.gitignore .
+cls
+ls
+git add .gitignore 
+git commit -m "adding .gitignore file"
+git push
+cls
+git push origin HEAD:main
+cls
+git branch --set-upstream-to=origin/HEAD
+git config push.default simple
+cls
+git push
+cls
+ls
+cls
+git push
+cls
+git branch -m main admin
+git fetch origin
+git branch -u origin/admin admin
+git remote set-head origin -a
+git push
+cls
+git checkout dev
+cls
+cp .gitignore ..
+git checkout admin
+cls
+ll
+rm .gitignore 
+cls
+mv ../.gitignore .
+cls
+ls
+cat .gitignore 
+rm login/__pycache__/
+rm login/migrations/
+rm panel/__pycache__/
+rm panel/migrations/
+cls
+rm pngFounder/__pycache__/
+rm pngFounder/migrations/
+cls
+ll
+rm website/__pycache__/
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+git add .
+git commit -m "fixing the git ignore file"
+git push 
+cls
+ll
+cls
+ll website/
+ll panel/
+vim .gitignore 
+cls
+ls
+git status 
+cls
+rm login/__pycache__/
+ll login/
+cls
+rm panel/__pycache__/
+cls
+rm pngFounder/__pycache__/
+rm website/__pycache__/
+cls
+tree .
+cls
+git add .
+git commit --amend 
+cls
+git push -f
+cls
+pyhton manage.py migrate
+python manage.py migrate
+python manage.py makemigration
+python manage.py makemigrations
+cls
+ll login/
+cls
+git merge dev
+vim .gitignore 
+git reset --hard 
+cls
+cp .gitignore ..
+git checkout dev
+cls
+ll
+mv ../.gitignore .
+cls
+git add .gitignore
+git commit -m "removing chache files"
+git push
+cls
+rm login/__pycache__/
+cls
+rm panel/__pycache__/
+rm pngFounder/__pycache__/
+cls
+git add .
+git commit --amend 
+git push -f
+cls
+git checkout admin
+cls
+git merge dev
+git reset --hard
+cls
+j temp/w__
+cls
+git checkout dev
+git pull
+cls
+git pull
+cd ..
+rm we
+cls
+rm web
+cls
+python manage.py runserver 127.0.0.1:8001
+ls
+cls
+cd web/
+cls
+git checkout station 
+cls
+git pull
+cls
+git checkout deb
+git checkout dev
+cls
+git reset 
+git reset --hard
+git clean -fd
+cls
+git status 
+git pull
+git pull origin deb
+git pull origin dev
+git config
+git config --global
+cls
+cd ..
+rm web/
+cls
+git clone https://github.com/winder2412/web
+cls
+cd web/
+cls
+git checkout dev
+l
+ls
+cls
+ls
+csl
+cls
+git checkout admin 
+cls
+git merge dev
+l
+cls
+ls
+cls
+git reset 
+git reset --hard
+cls
+ls
+cls
+git add .
+git commit -m "merge with dev"
+cls
+git push
+cls
+vim .
+python manage.py runserver
+cls
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+cls
+git add .
+git commit -m "removing user realated files"
+git push
+cls
+vim .
+cls
+git add .
+git commit --amend 
+git push -f
+cls
+cls
+cd ..
+cls
+cd web/
+cls
+git checkout station 
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+vim .
+csl
+cls
+ls
+csl
+python manage.py runserver
+cls
+python manage.py shell
+cls
+ll
+cls
+ll data/
+cls
+ls
+vim .
+cls
+git status 
+cls
+git add .
+git commit --amend 
+git push -f
+cls
+python manage.py runserver 127.0.0.1:8001
+python manage.py runserver
+cls
+git status 
+cls
+j w
+cls
+j temp/w
+cls
+ls
+cls
+vim .
+cls
+vim .
+python manage.py runserver
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py runserver 127.0.0.1:8001
+j dwm
+cls
+ls
+vim .
+sudo make clean install 
+cls
+j dwm
+google-chrome-stable
+vim .
+git add .
+git commit --amend 
+git push -f
+cls
+ls
+csl
+cls
+j w
+cls
+csl
+cls
+j temp/w
+csl
+cls
+ping google.com
+cls
+ping google.com
+ls
+csl
+cls
+google.com
+cls
+j we__
+j temp/we
+cls
+cls
+j w
+csl
+cls
+tree data/
+j temp/we
+cls
+vim .
+cls
+tree .
+vim .
+python manage.py runserver 127.0.0.1:8001
+python manage.py runserver
+cls
+cd ../temp/web/
+cls
+j w
+cs;
+cd ../temp/web/
+cls
+vim .
+cls
+git reset --hard
+cls
+vim .
+git reset --hard
+cls
+python manage.py runserver
+csl
+cls
+python manage.py makemigration
+python manage.py makemigrations
+python manage.py migrate
+csl
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+vim .
+cls
+git reset --hard
+csl
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+j w
+cls
+python manage runserver 127.0.0.1:8001
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py makemigrations --empty panel
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+git reset --hard
+cls
+python manage.py runserver 127.0.0.1:8001
+python manage.py runserver 127.0.0.1:8001
+cls
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+vim .
+ls
+cls
+ls
+vim .gitignore 
+csl
+cls
+git add .
+cls
+vim .
+j w
+cd ../temp/web/
+cls
+ls
+cls
+git add .
+git status 
+cls
+git commit -m "removeing migration files and database files from the gitignore file"
+cls
+git push
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py runserver
+cls
+vim .
+git 
+cls
+git add .
+git commit -m "removing the migration files from gitignore file"
+git push 
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py makemigrations panel
+python manage.py migrate
+cls
+vim .
+ls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py makemigrations panel
+python manage.py makemigrations login
+python manage.py migrate
+git reset --hard 328a298bd21ce8116d11e0e55c6ae7c75713a815
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+git reset --hard 328a298bd21ce8116d11e0e55c6ae7c75713a815
+python manage.py makemigrations
+python manage.py migrate
+python manage.py shell 
+cls
+vim .
+cls
+git reset --hard
+cls
+git reset --hard
+git reset --hard 6dd7315eeec8bd6eb5b9116952a93390515dde59
+cls
+git status 
+cls
+git add .
+git commit --amend
+git push -f
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py makemigrations
+python manage.py migrate
+python manage.py makemigrations panel
+python manage.py migrate 
+cls
+git reset --hard 
+cls
+git clean -fd
+cls
+git rebase 
+git rebase -a
+git rebase -i d6382497825fa3dc912967d02331d3c38c467306
+git status 
+git push -f
+cls
+ll
+cls
+vim .
+cls
+python manage.py makemigrations panel
+python manage.py makemigrations
+python manage.py migrate 
+cls
+cls
+git add .
+git commit -m "removeing migration files and database files from the gitignore file"
+git push 
+csl
+cls
+python manage.py runserver 127.0.0.1:8001
+python manage.py shell
+cls
+git add .
+git commit --amend 
+git push
+git push -f
+cls
+cls
+vim .
+cls
+git reset 00har
+git reset --har
+git reset --hard 
+cls
+j w
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py makemigrations
+vim .
+cls
+python manage.py makemigrations
+python manage.py migrate 
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+vim .
+cls
+git add .
+git commit -m "adding a input field for price in user page"
+git push
+cls
+python manage.py runserver
+cls
+python manage.py runserver 127.0.0.1:8001
+csl
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+vim .
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate 
+cls
+vim .
+git reset --hard
+cls
+git clean -fd
+cls
+vim .
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate 
+python manage.py runserver
+git add .
+git status 
+cls
+git commit --amend 
+git push -f
+cls
+cls
+vim .
+git reset --hard 
+cls
+vim .
+python manage.py runserver
+cls
+cls
+git add .
+git status 
+cls
+git commit -m "adding the zip download to the page"
+git push
+cls
+vim .
+cls
+git add .
+git commit -m "adding some css"
+git push
+ping google.com
+cls
+git push
+cls
+git reset --hard
+cls
+cd Downloads/
+ls
+unzip -x station_1.zip 
+cls
+ls
+rm khob.txt 
+rm png/
+csl
+cls
+unzip -h
+cls
+unzip -d station_1.zip 
+unzip -x station_1.zip -d
+cls
+ls
+cls
+j w
+cls
+git pull
+ping google.com
+csl
+cls
+git pull
+cls
+git checkout faroogh 
+cls
+ls
+git pull
+vim .
+cls
+git reset --hard
+vim .
+git add .
+git commit --amend 
+git push -f
+cls
+vim rundevserver.ps1
+git add .
+git commit -m "adding the ps script"
+git push
+vim .
+python manage.py runserver
+poweroff 
+j temp
+j temp/w__
+cls
+j temp/w
+csl
+cls
+cd panel/templates/
+cls
+vim .
+cd panel/scripts/
+ls
+vim .
+cls
+ll
+vim .
+j tmep/w__1__/home/winder/Github/temp 
+cls
+cd web/
+cls
+ls
+vim .
+cd panel/templates/panel/scripts/
+mv ./* ..
+ls
+cls
+ls
+cd ..
+cls
+ls
+rm scripts/
+cls
+ls
+vim .
+j temp/we
+cls
+ls
+cd panel/templates/
+cd panel/
+ls
+cat html2canvas.min.js 
+cls
+cat signature_pad.min.js 
+cd ../..
+ls
+mkdir dasboard
+mv templates/panel/signature_pad.min.js dasboard/
+mv dasboard/ dashboard
+cls
+mv templates/panel/html2canvas.min.js dashboard/
+cls
+j temp/w
+cls
+git add .
+git commit -m "adding offline js libs"
+git push
+cls
+vim .
+cls
+git add .
+git commit -m "fixing the price change problem"
+git push
+python manage.py runserver
+cls
+python manage.py runserver
+vim .
+cls
+git add .
+git commit --amend 
+git push -f
+python manage.py runserver
+poweroff 
+ls
+cls
+j temp__git
+cls
+ls
+cd web
+cls
+ls
+git pull
+cls
+vim .
+git add .
+git status 
+git commit -m "fixing some errors(encoding and limits)"
+git push 
+poweroff
+ls
+j temp
+cls
+j temp/web
+cls
+ls
+vim useradd.txt
+git add .
+git commit -m "adding useradd"
+git push
+j temp/w
+cl
+cls
+git pull
+j temp/web
+cls
+cls
+vim .
+git add .
+git commit -m "fixing the first serial_number problem"
+git push 
+git reset --hard
+cls
+vim .
+git rebase -i 198d3a14a266acd00ef169f52dd8006eef94e24f
+git rebase 198d3a14a266acd00ef169f52dd8006eef94e24f
+git rebase 
+git reset --hard 
+git rebase 198d3a14a266acd00ef169f52dd8006eef94e24f
+git rebase -i 198d3a14a266acd00ef169f52dd8006eef94e24f
+cls
+git push 
+git push -f
+cls
+vim .
+git reset --hard
+cls
+vim .
+cls
+git reset --hard
+cls
+vim .
+python manage.py runserver
+poweroff
+ping google.com
+cls
+ping google.com
+cs
+cls
+j w
+cls
+git pull
+cls
+git checkout station
+cls
+git reset
+cls
+git pull
+cls
+git pull
+cls
+git pull origin 
+cls
+ll
+cls
+cd ..
+ls
+rm web/
+cls
+git clone https://github.com/winder2412/web
+cls
+ls
+cls
+cd web/
+lcs
+cls
+git checkout station 
+cls
+ll
+cls
+j w
+cls
+j w
+cls
+ls
+git checkout migrate 
+cls
+git stash save
+cls
+git checkout migrate 
+ls
+rm ./*
+cls
+ls
+git add .
+git commit --amend 
+cls
+git push -f
+cls
+git merge station
+ll
+git reset --hard
+cls
+ll
+cls
+git checkout station
+cls
+ls
+git stash pop
+cls
+git reset 
+cls
+git reset --hard 
+cls
+ls
+cls
+git checkout migrate 
+cls
+git pull
+cls
+git merge station
+ls
+cl
+cls
+vim .
+lcs
+git reset --hard
+lcs
+cls
+git checkout station 
+cls
+git checkout -b stationdev
+cls
+git add .
+git commit -m "first commit"
+cls
+git push
+git push -f
+git push --set-upstream origin stationdev
+cls
+git config push.default simple
+cls
+git pull
+cls
+vim .
+cls
+git add .
+git commit --amend 
+git push
+git push -f
+cls
+python manage.py runserver
+cls
+vim .
+cls
+git reset --hard
+cls
+vim 
+vim .
+ls
+vim .
+cls
+vim .
+cls
+git add .
+git commit -m "removing the global file location"
+cls
+git push
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+rm db.sqlite3
+python manage.py makemigrations
+python manage.py migrate
+ll
+cls
+ll
+cls
+python manage.py migrate
+cls
+python manage.py shell
+vim .
+cls
+cls
+python manage.py shell
+cls
+python manage.py makemigrations
+cls
+git reset --hard
+cls
+git clean -fd
+cls
+ls
+cls
+rm db.sqlite3 
+cls
+python manage.py makemigrations
+cls
+python manage.py makemigrations panel
+cls
+vim .
+cls
+python manage.py makemigrations panel
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+ls
+python manage.py shell
+cls
+python manage.py makemigrations
+python manage.py migrate
+vim .
+git reset --hard
+cls
+git clean -fd
+cls
+j temp/web
+cls
+git pull
+cls
+git checkout admin
+cls
+git pull
+cls
+j temp/web
+cls
+python manage.py runserver
+vim .
+cls
+git stash save
+cls
+git checkout station
+cls
+python manage.py runserver
+cls
+git makemigrations
+python manage.py makemigrations
+git pull
+git reset --hard
+cls
+git clean -fd
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+git checkout stationdev 
+cls
+git reset --hard
+cls
+git clean -fd
+cls
+git checkout stationdev 
+cls
+git stash pop
+cls
+vim .
+python manage.py runserver
+cls
+unzip x station_1\ \(2\).zip 
+unzip e station_1\ \(2\).zip 
+unzip x station_1.zip 
+unzip  station_1.zip 
+cls
+j w
+cls
+ll
+tree data/
+rm data/
+cls
+tree data/
+cls
+cd Downloads/
+cls
+ls
+apt install ./anydesk_6.3.0-1_amd64.deb 
+cd
+cls
+cd Downloads/
+cls
+unzip station_1.zip 
+ls
+cls
+rm station_1.zip 
+cls
+rm station_1
+cls
+rm station_1.zip 
+cls
+rm station_1\ \(1\).zip 
+cls
+unzip station_1.zip 
+csl
+cl
+cls
+vim data.json 
+cls
+vim .
+git status 
+git restore panel/templates/panel/generate_excel.html 
+cls
+git status 
+cls
+tree .
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py runserver 127.0.0.1:8001
+python manage.py makemigrations panel
+cls
+python manage.py migrate
+vim .
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py reset_db
+python manage.py makemigrations
+python manage.py migrate
+cls
+cp ~/Downloads/station_1.zip .
+unzip station_1.zip 
+python manage.py loaddata data.json 
+python manage.py runserver
+python manage.py runserver 127.0.0.1:8001
+poweroff 
+j w
+cls
+git status 
+vim .
+cls
+vim .
+git add .
+git commit -m "changin txt file to json file"
+cls
+git push
+cls
+git checkout admin 
+cls
+git pull
+cls
+j w
+csl
+cls
+vim .
+cls
+git stash save
+git checkout station
+cls
+tree data/
+cls
+git status 
+cls
+git stash save
+git checkout admin 
+git stash pop
+cls
+ls
+cls
+git status 
+cls
+git stash pop
+git restore db.sqlite3 
+git reset --hard
+git stash pop
+cls
+git status 
+git reset --hard
+cls
+j temp/web
+cls
+git reset --hard
+cls
+git clean -fd
+cls
+git pull
+cls
+vim .
+git checkout station
+cls
+j temp/web
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+git reset --hard
+cls
+cd data/
+ls
+cd ..
+ls
+rm data/
+cls
+ls
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+git status 
+cls
+git reset --hard
+cls
+git checkout faroogh
+vim .
+ls
+git status 
+vim .
+cls
+vim .
+git restore panel/templates/panel/generate_excel.html 
+cls
+git status 
+vim .
+cls
+git reset --hard
+cls
+git pop
+git stash  pop
+cls
+git clean 
+cls
+git reset --hard
+git checkout station
+git pop
+git stash pop
+cls
+git reset --hard 
+cls
+git checkout stationdev 
+git stash pop
+csl
+cls
+git reset --hard
+cd ..
+rm web/
+git clone https://github.com/winder2412/web
+cls
+cd web/
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+git reset --hard
+cls
+git checkout station
+cls
+python manage.py runserver
+cls
+cd ..
+cd ww
+cd web/
+cls
+git status 
+cls
+python manage.py maiemigrations
+python manage.py makemigrations
+python manage.py migrate
+cls
+git status 
+cls
+git add .
+git commit -m "adding extract zip file & removing the baseprice changer"
+cls
+git push
+cls
+vim .
+j temp__/we
+cls
+cd web/
+cls
+vim .
+cls
+tree data/
+vim .
+vim .
+tree data/
+vim .
+cls
+git stash admin
+git stash save
+cls
+git checkout stationdev 
+vim .
+cls
+git checkout admin
+cls
+git stash pop
+cls
+git reset --hard
+cls
+git stash save
+git checkout stationdev 
+vim .
+vim .
+git add . 
+git commit -m "removing the global file function"
+git push
+cls
+rm data/
+cls
+vim .
+git reset --hard
+cls
+vim .
+ls
+tree data/
+rm data/
+cls
+vim .
+cls
+git reset --hard
+git rebase 198d3a14a266acd00ef169f52dd8006eef94e24f
+git rebase -i 198d3a14a266acd00ef169f52dd8006eef94e24f
+git push -f
+cls
+l
+unzip station_1.zip 
+cls
+ll
+cls
+tree station_1
+vim .
+cls
+git status 
+git restore db.sqlite3 
+cls
+git status 
+cls
+git status 
+git restore db.sqlite3 
+cls
+git add .
+git commit -m "fixing the zip file"
+cls
+git push
+cls
+git checkout admin 
+cls
+git stash pop
+cls
+cls
+git reset --hard
+cls
+vim .
+cls
+j w
+cls
+git reset --hard
+cls
+ls
+rm data
+cls
+ls
+vim .
+cls
+git status 
+cls
+git reset --hard
+cls
+ls
+rm data
+cls
+vim .
+cd Downloads/
+ls
+cd
+j w
+ls
+tree data/
+cls
+git reset --hard
+vim .
+cls
+cls
+pwed
+pwd
+cls
+cd ../temp/web/
+cls
+git reset --hard
+git checkout stationdev 
+cls
+vim .
+cls
+ls
+tree pngFounder/
+cls
+ls
+cd ..
+cd web/
+jw
+j w
+cls
+ls
+python manage.py loaddata data.json 
+cls
+python manage.py loaddata data.json 
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+vim .
+cls
+ll
+lcs
+cls
+python manage.py runserver
+cls
+vim data.json 
+cd .config/bash/bash-h
+cd .config/bash/
+cls
+ls
+python manage.py loaddata data.json 
+vim bash-history 
+j w
+cls
+vim data.json 
+cd
+cld
+cls
+Downloads/
+cls
+cd Downloads/
+cls
+rm station_1.zip 
+cls
+ll
+rm data.json 
+cls
+rm station_1\ \(1\).zip 
+cls
+ls
+cls
+unzip station_1.zip 
+cls
+ll
+vim data.json 
+cls
+mv data.json ~/Github/web/
+cls
+python manage.py loaddata data.json 
+cls
+python manage.py loaddata data.json 
+cls
+vim data.json 
+cls
+j w
+cls
+python manage.py dumpdata > backup.json
+cls
+j temp
+j temp/web
+cls
+python manage.py dumpdata > backup.json
+ls
+vim backup.json 
+cls
+git status 
+rm backup.json 
+cls
+ls
+cls
+python manage.py dbshell
+ll
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations 
+python manage.py makemigrations panel
+python manage.py migrate panel
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py dumpdata > backup.json
+mv backup.json ../../web/
+cls
+python manage.py runserver
+cls
+python manage.py loaddata backup.json
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+ls
+python manage.py runserver
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+cd Downloads/
+cls
+unzip station_1.zip 
+cls
+cp ~/Downloads/data.json .
+cls
+ls
+vim .
+cls
+vim data.json 
+cls
+j w
+csl
+cls
+python manage.py showmigrations
+cls
+python manage.py reset_db
+python manage.py migrate
+python manage.py help
+cls
+python manage.py dbshell
+rm db.sqlite3 
+python manage.py dbshell
+sudo apt-get update
+sudo apt-get install sqlite3
+cls
+python manage.py dbshell
+cls
+cls
+ls
+mkdir panel/management/commands/import_data.py
+vim panel/management/commands/import_data.py/
+rm panel/management/commands/
+vim panel/management/commands/import_data.py/
+python manage.py runserver
+python manage.py makemigrations panel
+python manage.py makemigrations
+python manage.py migration
+python manage.py migrate
+cls
+vim panel/management/commands/import_data.py
+rm panel/management
+cls
+python manage.py shell
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+vim .
+python manage.py shell
+cls
+python manage.py makemigrations login
+python manage.py migrate
+cls
+python manage.py makemigrations login
+cls
+cls
+python manage.py makemigrations login
+cls
+git reset -hard
+cls
+git status 
+git reset --hard
+cls
+git clean -f
+git clean -fd
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+cls
+python manage.py makemigrations
+python manage.py makemigrations panel
+python manage.py makemigrations login
+python manage.py migrate login
+python manage.py migrate panel
+python manage.py migrate
+cls
+python manage.py runserver
+ll data/
+ll data/extracted_data/
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+python manage.py migration
+python manage.py migrate
+python manage.py migrate login
+python manage.py migrate panel
+cls
+python manage.py migrate
+python manage.py makemigrations
+python manage.py makemigrations panel
+python manage.py migrate
+python manage.py migrate panel
+cls
+git status 
+cls
+ls
+cls
+rm data/
+cls
+ls
+rm data/
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+python manage.py makemigrations
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py migrate panel zero  # Reset the migrations
+python manage.py makemigrations panel  # Create new migrations for the panel app
+python manage.py migrate panel  # Apply the new migrations
+cls
+python manage.py migrate panel zero
+cls
+git restore db.sqlite3 
+cls
+python manage.py migrate panel zero
+cls
+git status 
+rm login/migrations/
+rm panel/migrations/
+cls
+git status 
+cls
+python manage.py migrate panel zero
+python manage.py makemigrations panel
+python manage.py makemigrations login
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py migrate login
+python manage.py migrate panel
+cls
+git status 
+cls
+python manage.py migrate panel
+python manage.py migrate
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py makemigrations panel
+python manage.py migrate panel
+rm panel/migrations/
+cls
+python manage.py migrate panel
+python manage.py makemigrations panel
+python manage.py migrate panel
+cls
+python manage.py makemigrations panel
+python manage.py migrate panel
+python manage.py showmigrations
+cls
+python manage.py makemigrations panel
+python manage.py migrate panel
+cls
+python manage.py check
+rm panel/migrations/
+cls
+python manage.py makemigrations panel
+python manage.py migrate panel
+cls
+python manage.py check
+cls
+python manage.py showmigrations panel
+cls
+python manage.py reset_db
+python manage.py migrate
+cls
+python manage.py flush
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations panel
+python manage.py migrate
+cls
+vim .
+pwd
+cd panel/
+pwd
+rm db.sqlite3 panel/migrations/
+cls
+python manage.py makemigrations panel
+python manage.py migrate
+cls
+ls
+python manage.py runserver
+cls
+python manage.py shell
+cls
+python manage.py runserver
+cls
+python manage.py migrate panel/
+python manage.py migrate panel
+python manage.py makemigrations panel
+python manage.py makemigrations
+python manage.py makemigrations login
+cls
+python manage.py runserver
+cls
+python manage.py migrate panel zero
+python manage.py makemigrations panel
+python manage.py migrate
+cls
+vim .
+cls
+ls
+rm data/
+cls
+python manage.py runserver
+cls
+vim .
+j w
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+git status 
+rm data.json 
+rm d.
+cls
+git reset db.sqlite3
+cls
+git restore  db.sqlite3
+git status 
+cls
+ls
+zip
+cls
+unzip
+cls
+ls
+cls
+git status 
+cls
+git stash 
+python manage.py flush
+cls
+vim .
+python manage.py shell
+cls
+git reset --hard
+cls
+git stash pop
+cls
+git status 
+vim panel/models.py 
+vim panel/views.py 
+git add .
+git commit --amend 
+git push -f
+cls
+python manage.py flush
+cls
+vim .
+python manage.py shell
+cls
+python manage.py runserver
+cls
+git status 
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+git add .
+git commit -m "changing to json(insted of txt file)"
+git push
+cls
+vim .
+cls
+git status 
+cls
+vim .
+git stash 
+git pull
+git checkout faroogh 
+cls
+git status 
+cls
+vim .
+git checkout admin 
+cls
+git reset --hard
+git checkout admin 
+cls
+git push
+git stash pop
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+vim 
+cls
+python manage.py runserver
+cls
+python manage.py shell
+cls
+python manage.py shell
+cls
+python manage.py flush
+vim
+python manage.py shell
+cls
+vim .
+git status 
+cls
+git status 
+cls
+git status 
+cls
+git add .
+git commit -m "adding station selector(not fully functional)"
+git push
+cls
+git status 
+cls
+git add .
+git commit --amend 
+git push -f
+cls
+unzip station_1.zip 
+cls
+vim data.json 
+unzip station_1.zip 
+cls
+vim data.json 
+vim .
+git status 
+git restore panel/views.py 
+cls
+unzip station_1.zip 
+cls
+vim data.json 
+cls
+vim .
+cls
+git status 
+cls
+git add .
+git status 
+git restore --staged db.sqlite3 
+cls
+git commit -m "changing the date to persian date"
+git push
+cls
+python manage.py runserver
+cls
+ls
+csl
+python manage.py flush
+cls
+python manage.py shell
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+python manage.py flush 
+cls
+python manage.py makemigrations
+python manage.py migrate
+python manage.py shell
+cls
+python manage.py flush
+python manage.py shell
+cls
+python manage.py runserver
+cls
+python manage.py flush
+cls
+python manage.py shell
+cls
+vim .
+vim .
+git status 
+vim login/middleware.py 
+git restore login/middleware.py 
+cls
+git status 
+git add .
+git commit -m "fixing the date and duplicate problem"
+git push
+cls
+vim .git
+vim .gitignore 
+cls
+git add .
+git commit --amend 
+git push -f
+cls
+mv db.sqlite3 ..
+mv ../db.sqlite3 .
+cls
+git add .
+python manage.py flush 
+cls
+rm db.sqlite3 
+cls
+git add .
+git commit -m "fixing the db replace issue"
+git push
+cls
+ll
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+ll
+cls
+git pull
+cls
+vim .
+cls
+git status 
+vim panel/views.py 
+cls
+vim .gitignore 
+python manage.py flush
+cls
+rm db.sqlite3 
+cls
+git add .
+git commit -m "fixing the db replace issue "
+cls
+git push
+cls
+git pull
+cls
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+git status 
+cls
+ll
+cls
+git add .
+git commit --amend 
+git push -f
+cls
+python manage.py shell
+cls
+python manage.py shell
+cls
+python manage.py shell
+cls
+git status 
+cls
+vim .
+git status 
+cls
+git restore panel/templates/panel/generate_excel.html 
+cls
+ls
+git status 
+git reset --hard 
+cls
+ls
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+ls
+python manage.py makemigrations
+python manage.py migrate
+cls
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py runserver
+cls
+python manage.py shell
+cls
+python manage.py shell
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+vim .
+python manage.py shell
+cls
+python manage.py runserver
+unzip station_2.zip 
+python manage.py runserver 127.0.0.1:8001
+cls
+python makemigrations
+python manage.py makemigrations
+python manage.py migrate
+cls
+vim data.json 
+unzip station_1.zip 
+vim data.json 
+python manage.py flush
+vim .
+cls
+python manage.py shell
+cls
+python manage.py flush
+vim .
+python manage.py shell
+cls
+python manage.py flush
+python manage.py shell
+cls
+python manage.py flush
+python manage.py shell
+cls
+python manage.py flush
+python manage.py shell
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py flush
+python manage.py shell
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py flush
+python manage.py shell
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py flush
+python manage.py shell
+cls
+python manage.py flush
+python manage.py shell
+cls
+python manage.py flush
+python manage.py shell
+cls
+vim .
+git status 
+cls
+git add .
+git commit -m "fixing serial number(kinda)"
+git push
+csl
+vim .
+cls
+git status 
+git add .
+git commit -m "fixing the limit"
+cls
+git push
+git pull
+git pull
+python manage.py runserver 127.0.0.1:8001
+poweroff 
+cls
+j w
+cls
+j temp/w__
+cls
+ls
+cls
+python manage.py runsrver 127.0.0.1:8001
+j w
+cl
+cls
+vim .
+j temp/we
+cls
+vim .
+cls
+rm data/
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+vim .
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py runserver
+git status 
+cls
+python manage.py flush
+cls
+vim .
+cls
+python manage.py shell
+cls
+vim ../temp/web/
+cls
+vim .
+cls
+git status 
+cls
+git add .
+git commit -m "fixing the save image problem and serial number problem"
+cls
+git push
+cls
+git pull
+cls
+git checkout station
+cls
+git checkout -b temp
+cls
+git add .
+git commit -m "test"
+cls
+git push
+git push -f
+cls
+git push -f
+git push --set-upstream origin temp
+cls
+git push --set-upstream origin temp
+cls
+git push -f
+cls
+vim .
+ls
+git checkout stationdev 
+cls
+git pull
+cls
+git pull
+cls
+git status 
+cd ..
+rm web/
+cls
+git clone https://github.com/winder2412/wev
+git clone https://github.com/winder2412/web
+cls
+cd web/
+cls
+git checkout stationdev 
+cls
+git add .
+python manage.py runserver
+cls
+git status 
+cls
+git restore db.sqlite3 
+cls
+git commit -m "test"
+git push
+cls
+vim .
+cls
+git checkout station
+cls
+vim .
+python manage.py runserver
+cls
+git reset --hard
+cls
+git checkout admin
+pw
+pws
+pwd
+cls
+python manage.py runserver
+cls
+python manage.py make migration
+python manage.py make migrations
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py runserver
+python manage.py shell
+cls
+python manage.py runserver
+cls
+git reset --hard
+cls
+git clean -fd
+cls
+git checkout stationdev
+vim .
+cls
+python manage.py runserver 127.0.0.1:8001
+git checkout station
+cls
+pwd
+cls
+ls
+git add .
+vim .
+git add .
+git commit -m "changing to json"
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py flush 
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+git status 
+git add .
+cls
+git status 
+git restore --staged ,
+git restore --staged .
+cls
+git status 
+cls
+git restore db.sqlite3 
+cls
+git status 
+rm panel/migrations/0019_alter_userdata_phone_number_alter_userdata_shaba_and_more.py 
+cls
+git status 
+cls
+git pull
+cls
+git commit --cleanup=
+git commit --reset-author 
+cls
+git commit --reset-author 
+git commit --reset-author -C
+cls
+git reset --hard
+cls
+git rebase -i
+cls
+git status 
+cls
+git reset --hard 
+cls
+vim .
+vim .
+python manage.py runserver
+cls
+vim .
+git restore db.sqlite3 
+cls
+ls
+cd Downloads/
+cl
+cls
+unzip station_1\ \(2\).zip 
+cls
+vim data.json 
+cls
+python manage.py runserver
+cls
+vim .
+cls
+git add .
+git commit -m "changing to json"
+cls
+git push
+vim .
+git rebase -i
+git rebase -i b84987f7d4c688bc709df376c4cb611905cf5aab
+cls
+git add .
+git push
+git push -f
+cls
+pwd
+vim 
+vim .
+cls
+git add .
+cls
+git status 
+git restore --staged  db.sqlite3 
+cls
+git commit -m "changin to json"
+git push
+cls
+git status 
+cls
+mv db.sqlite3 ..
+git add .
+git commit --amend 
+cls
+git push -f
+cls
+cls
+vim .
+ls
+csl
+cls
+cls
+ls
+cls
+:q
+cd ..
+cls
+cd web/
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+clcls
+cl
+cls
+vim .
+cls
+git status 
+git add .
+git commit --amend 
+git push -f
+cls
+python manage.py makemigrations
+python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate
+cls
+git reset --hard 
+cls
+python manage.py flush
+vim .
+python manage.py shell
+cls
+python manage.py makemigrations login
+python manage.py makemigrations user
+python manage.py makemigrations panel
+python manage.py migrate login
+rm login/migrations/
+rm panel/migrations/
+cls
+python manage.py makemigrtions
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py makemigrations login
+python manage.py makemigrations panel
+cls
+python manage.py migrate
+python manage.py migrate login
+python manage.py migrate panel
+cls
+cls
+python manage.py runserver
+python manage.py makemigrations login
+tree .
+cls
+git status 
+cls
+git reset --hard
+cls
+python manage.py shell
+cls
+ls
+tree data/
+cls
+tree .
+cls
+csl
+cls
+git checkout admin 
+cls
+git pull
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py migrate
+python manage.py makemigrations login
+python manage.py makemigrations panel
+python manage.py migrate login
+python manage.py migrate panel
+cls
+vim .
+cls
+python manage.py flush
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+rm login/migrations/
+rm panel/migrations/
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py makemigrations panel
+python manage.py makemigrations login
+cls
+python manage.py migrate panel
+python manage.py migrate login
+cls
+python manage.py flush
+csl
+cls
+python manage.py runserver
+cl
+cls
+python manage.py makemigrations login
+python manage.py migrate login
+python manage.py dbshell
+cls
+python manage.py shell
+cls
+git reset --hard
+cls
+ls
+python manage.py makemigrations login
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py migrate panel
+git reset 
+git reset --hard
+cls
+git clean -fd
+cld
+git rebase 3
+git rebase -i 3
+git rebase -i a297aa918b4c27ce35a673c9eb161b0e71aab102
+git reset --hard a297aa918b4c27ce35a673c9eb161b0e71aab102
+cls
+ls
+cls
+ls
+python manage.py migrate panel
+cd ..
+rm web/
+cls
+git clone https://github.com/winder2412/web
+cls
+cd gi
+cd web/
+csl
+cls
+python manage.py runserver
+cls
+cd ..
+cd web/
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py shell
+cls
+unzip station_1.zip 
+unzip station_1\ \(1\).zip 
+cls
+ls
+git status 
+cls
+vim .
+tree data/
+rm data/
+cls
+ll
+tree data/
+vim .
+tree data/
+rm data/
+vim .
+cls
+ll
+rm data/
+cls
+cls
+vim .
+tree data/
+cls
+rm data/
+cls
+git add .
+git commit -m "fixing png problem"
+cls
+git push
+cls
+pwd
+cls
+git reset --hard ea16f0e4c62ee65ef6d2ab69d9729f78f89df1b4
+git add .
+git status 
+git commit --amend 
+git push 
+git push -f
+cls
+vim .
+pwd
+cls
+git reset --hard
+cls
+git status 
+cls
+git rebase 
+cls
+ls
+cls
+git add .
+cls
+git reset --hard ea16f0e4c62ee65ef6d2ab69d9729f78f89df1b4
+cls
+git rebase
+git
+cls
+tree data/
+rm data/
+cls
+python manage.py makemigration
+python manage.py makemigrations
+python manage.py migrate
+csl
+lc
+cls
+python manage.py shell
+cls
+tree
+cls
+tree data/
+cls
+jw 
+j w
+cls
+j temp/w
+cls
+python manage.py shell
+cls
+vim .
+python manage.py flush
+cls
+python manage.py shell
+cls
+tree data/
+cls
+cd Do
+cd Downloads/
+cls
+unzip station_2
+tree data/
+cls
+vim .
+python manage.py flush
+cls
+vim .
+python manage.py flush
+python manage.py shell
+cls
+python manage.py shell
+vim data.json 
+rm station_2
+csl
+cls
+unzip station_2
+cls
+ll
+cls
+rm station_2
+cls
+unzip station_2\ \(1\).zip 
+ll data.json 
+vim data.json 
+vim .
+cls
+ll data/
+vim .
+git restore panel/views.py
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+git reset --hard
+cls
+git reset --hard ea16f0e4c62ee65ef6d2ab69d9729f78f89df1b4
+cls
+pwed
+pwd
+cls
+git reset --hard
+cls
+git rebase 
+cls
+cls
+ls
+cls
+git status 
+cls
+unzip station_2
+cls
+rm station_*
+cls
+ls
+cls
+unzip station_2.zip 
+pkill neko@
+pkill neko@*
+pkill neko*
+cls
+sudo cls
+pkill nekobox_core 
+sudo pkill nekobox_core 
+c;s
+cls
+vim .
+cls
+git status 
+git add .
+git commit --amend 
+git push -f
+cls
+ls
+lcs
+cls
+git manage.py flush
+cls
+git manage.py flush
+python manage.py flush
+cls
+from login.models import CustomUser
+user = CustomUser.objects.create_user(username = 'user4', password='1234')
+user.save()
+csl
+cls
+python manage.py shell
+cls
+vim data.json 
+cls
+ls
+unzip station_4
+vim data.json 
+tree data/station_
+tree data/
+cls
+cls
+ll
+cls
+vim .
+tree data/
+j w
+tree data/
+cls
+j down__
+cls
+rm station_*
+cls
+ll
+rm data.json 
+cls
+unzip station_4.zip 
+cls
+l
+ls
+rm station_*
+cls
+vim data.json 
+rm data.json 
+cls
+python manage.py runserver
+cls
+python manage.py migrate
+vim .
+cls
+python manage.py shell
+cls
+python manage.py runserver 127.0.0.1:8001
+cls
+python manage.py shell
+cls
+python manage.py flush
+python manage.py shell 
+cls
+vim .
+cls
+python manage.py shell
+cls
+vim .
+cls
+tree data/
+cls
+git status 
+git add .
+git commit --amend 
+cls
+git push -f
+cls
+git pull
+vim .
+cls
+git status 
+git add .
+git commit --a
+git commit --amend 
+git push
+git push -f
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+cls
+vim .
+cls
+git add .
+git commit --amend 
+cls
+git push -f
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+ll
+cls
+tree panel/migrations/
+cls
+ls
+cd panel/migrations/
+cls
+ll
+cls
+ls
+cls
+pwd
+cls
+python manage.py makemigrations panel
+cd ../..
+cls
+python manage.py makemigrations panel
+cls
+vim .
+python manage.py makemigrations panel
+cls
+vim .
+python manage.py makemigrations panel
+cls
+python manage.py makemigrations login
+cls
+python manage.py makemigrations panel
+python manage.py makemigrations login
+python manage.py migrate
+cls
+python manage.py flush
+cls
+python manage.py migrate
+python manage.py migrate panel
+python manage.py migrate login
+cls
+python manage.py migrate panel
+vim .
+python manage.py migrate panel
+python manage.py runserver
+python manage.py runserver 127.0.0.1:8001
+vim .
+cls
+python manage.py flush
+python manage.py migrate
+cls
+rm db.sqlite3 
+cls
+rm panel/migrations/
+cls
+python manage.py makemigrations
+python manage.py migrate
+cls
+git status 
+cls
+tree panel/
+cls
+tree login/
+cls
+python manage.py makemigrations pane;
+python manage.py makemigrations panel
+python manage.py migrate
+cls
+git status 
+cls
+j temp/web
+python manage.py runserver
+python manage.py shell
+csl
+cls
+python manage.py runserver
+cls
+git status 
+cls
+git add .
+git commit --amend 
+cls
+git push -f
+cls
+cd ..
+ls
+cd web/
+git pull
+cls
+cd ..
+rm web/
+cls
+gh repo winder2412/web
+gh repo clone winder2412/web
+cls
+cd web/
+cls
+gh co station
+gh
+cls
+git checkout dev
+git checkout station
+cls
+python manage.py runserver
+cls
+python manage.py migrate
+cls
+vim .
+poweroff 
+j w
+cls
+git pull
+cls
+git checkout station
+cls
+ls
+cls
+ls
+python manage.py flush
+cls
+vim .
+cls
+python manage.py shell
+cls
+python manage.py runserve
+python manage.py runserver
+cls
+git manage.py makemigrations
+python manage.py makemigrations
+python manage.py migrate
+python manage.py migrate panel
+cls
+python manage.py migrate login
+cls
+python manage.py runserver
+cls
+python manage.py flush  # Deletes all data but keeps the schema
+python manage.py migrate  # Recreates the database schema
+python manage.py migrate panel
+python manage.py runserver
+j w
+python manage.py shell
+cls
+python manage.py runserver
+cls
+cd ..
+rm web
+cls
+ls
+git clone https://github.com/winder2412/web
+cls
+cd web/
+cls
+python manage.py migrate  # Recreates the database schema
+cls
+python manage.py shell
+cls
+python manage.py runserver
+git checkout station
+cls
+vim .
+cls
+python manage.py runserver
+cls
+python manage.py migrate  # Recreates the database schema
+python manage.py migrate login
+python manage.py migrate panel
+python manage.py makemigrations
+python manage.py makemigrations panel
+csl
+cls
+python manage.py makemigrations panel
+python manage.py makemigrations
+python manage.py migrate  # Recreates the database schema
+vim .
+python manage.py showmigrations
+python manage.py runserver
+cls
+ls
+rm db.sqlite3 
+cls
+ls
+python manage.py migrate  # Recreates the database schema
+cls
+python manage.py makemigrations
+python manage.py migrate
+vim .
+python manage.py shell
+cls
+python manage.py shell
+cls
+python manage.py flush
+python manage.py runserver
+cls
+python manage.py migrate  # Recreates the database schema
+python manage.py makemigrations login
+python manage.py makemigrations 
+python manage.py shell
+cls
+git status 
+cls
+git reset --hard
+git clean -fd
+cls
+ls
+rm data/
+cls
+ls
+rm db.sqlite3 
+cls
+ls
+python manage.py makemigration
+python manage.py makemigrations
+python manage.py migrate
+cls
+ls
+rm db.sqlite3 
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+python manage.py shell
+cls
+vim .
+python manage.py runserver
+cls
+vim .
+python manage.py shell
+reboot
+cls
+j w__
+cls
+git pull
+python manage.py makemigration
+python manage.py makemigrations
+python manage.py migrate
+cls
+vim .
+j w
+vim .
+python manage.py shell
+cls
+ll
+tree data/
+cls
+python manage.py runserver
+cls
+python manage.py runserver
+cls
+git reset --hat
+git reset --hard 
+cls
+git checkout admin 
+cls
+python manage.py runserver
+cls
+python manage.py flush
+python manage.py shell
+cls
+python manage.py runserver
+cls
+rm db.sqlite3 
+rm data/
+cls
+tree login/migrations/
+cls
+tree panel/migrations/
+rm panel/migrations/
+cls
+python manage.py makemigration
+python manage.py makemigrations
+python manage.py migrate
+cls
+ls
+git status 
+cls
+python manage.py makemigrations
+python manage.py makemigrations panel
+cls
+git status 
+cls
+python manage.py shell
+cls
+ll
+cls
+python manage.py runserver
+python manage.py migrate
+cls
+vim .
+cls
+ls
+git status 
+git add .
+git commit -m "fixing the excel filter problem"
+cls
+git push
+cls
+vim .
+cls
+git status 
+cls
+git add .
+git commit -m 'adding base_price filter'
+cls
+git push
+cls
+vim .
+git reset 
+git reset --hard 
+vim .
+git reset --hard
+cls
+vim .
+cls
+git reset --hard
+cls
+vim .
+cd Downloads/
+cls
+ls
+cls
+unzip station_1.zip 
+vim .
+cls
+git add .
+git commit -m 'fixing the date problem'
+git push
+cls
+vim data.json 
+python manage.py runserver
+poweroff 
+jw
+j w
+cls
+git pull
+cls
+vim .
+j w
+j temp/we__
+cls
+vi .
+vim .
+cls
+git status 
+cls
+git add .
+git commit -m "translation"
+git push
+cls
+tree data/
+vim .
+j w
+cls
+cls
+git status 
+git add .
+git commit --amend 
+git push -f
+cls
+vim .
+python manage.py runserver
+poweroff 
+cls
+j w
+cls
+git pull
+cls
+cd ..
+rm web/
+cls
+git clone https://github.com/winder2412/web
+cls
+cd web/
+cls
+vim .
+python manage.py runserver
+cls
+python manage.py migration
+python manage.py migrate
+python manage.py runserver
+cls
+j temp/web
+cls
+python manage.py shell
+csl
+cls
+python manage.py runserver
+vim .
+cls
+python manage.py runserver
+cls
+git add .
+git commit -m "adding IR to shaba translating headers"
+git push -f
+cls
+vim .
+poweroff 
+j w
+cls
+python manage.py shell
+cls
+j w
+cls
+vim .
+cls
+mkdir panel/management/commands/update_serial_numbers.py
+rmdir panel/management/commands/update_serial_numbers.py
+vim panel/management/commands/update_serial_numbers.py
+cls
+python manage.py update_serial_numbers
+mv panel/management/ ..
+ll ..
+cls
+ls
+git checkout station
+cls
+ls
+cls
+ls
+python manage.py runserver
+cls
+ls
+python manage.py flush
+python manage.py shell
+cls
+python manage.py runserver
+cls
+python manage.py migrate
+cls
+python manage.py runserver
+cls
+rm db.sqlite3 
+cls
+python manage.py runserver
+python manage.py migrate
+cls
+python manage.py runserver
+cls
+python manage.py shell
+vim .
+cls
+ls
+cp ../management/ panel/
+cp -r ../management/ panel/
+cls
+python manage.py update_serial_numbers
+vim .
+cls
+git status 
+git add .
+git commit -m "adding serial number changer"
+cls
+git push
+cls
+git checkout admin 
+cls
+python manage.py migrate
+python manage.py runserver
+cls
+ls
+vim data.json 
+rm station_1
+cls
+unzip station_1
+git checkout station
+cls
+vim .
+cls
+vim panel/management/commands/input.py
+cls
+python manage.py input ~/Downloads/data.json 
+vim panel/management/commands/input.py 
+python manage.py makemigrations
+vim .
+python manage.py makemigrations
+python manage.py migrate
+cls
+rm db.sqlite3 
+cls
+python manage.py migrate
+cls
+python manage.py input ~/Downloads/data.json 
+ls
+cls
+vim data.json 
+j 
+python manage.py shell
+python manage.py input ~/Downloads/data.json 
+cls
+vim .
+python manage.py makemigrations
+python manage.py flush
+python manage.py shell
+cls
+python manage.py input ~/Downloads/data.json 
+ls
+cls
+unzip station_
+unzip station_.zip 
+cls
+vim data.json 
+vim .
+cls
+python manage.py input ~/Downloads/data.json 
+j dow__
+cls
+ls
+unzip station_1.zip 
+cls
+vim panel/management/commands/input.py 
+python manage.py input ~/Downloads/data.json 
+vim .
+python manage.py input ~/Downloads/data.json 
+vim .
+python manage.py input ~/Downloads/data.json 
+cls
+python manage.py input ~/Downloads/data.json 
+vim .
+vim panel/management/commands/input.py 
+python manage.py input ~/Downloads/data.json 
+vim .
+vim data.json 
+python manage.py runserver
+vim .
+j w
+cls
+cd panel/management/commands/
+ls
+j w
+cd panel/management/commands/
+cls
+136800
+j
+vim .
+j
+cls
+git status 
+cls
+git reset --hard
+git clean -fd
+cls
+cls
+j temp/we
+cls
+git checkout admin 
+cls
+vim .
+python manage.py runserever
+python manage.py makemigration
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+vim .
+git pull
+git pull
+git stash 
+git pull
+cls
+git stash pop
+cls
+ls
+cls
+git pull
+cls
+vim .
+rm db.sqlite3 
+cls
+ls
+python manage.py migrate
+cls
+rm panel/migrations/0004_remove_userdata_id_alter_userdata_serial_number.py 
+cls
+python manage.py migrate
+cls
+ls
+cls
+j w
+python manage.py runserver
+python manage.py shell
+cls
+python manage.py runserver
+git checkout station
+git stash 
+git checkout station
+git pull
+cls
+python manage.py migrate
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+python manage.py migrate --fake
+python manage.py makemigrations
+python manage.py migrate
+cls
+python manage.py createcachetable cache  # For SQLite
+python manage.py migrate
+python manage.py runserver
+cls
+vim .
+git stash pop
+git reset --hard
+cls
+vim .
+vim .
+poweroff 
+cls
+vim .
+cls
+unzip station_2.zip 
+cls
+cat khob.txt 
+cls
+cd station_2/
+cls
+cat khob.txt 
+cls
+cat khob.txt 
+cls
+unzip station_5.zip 
+cat khob.txt 
+ls
+cls
+unzip station_7.zip 
+cls
+ls
+cls
+unzip station_8.zip 
+cat khob.txt 
+ls
+cls
+unzip station_10\ \(4\).zip 
+cat khob.txt 
+cls
+cat station_10/khob.txt
+ls
+cls
+cat station_10/khob.txt
+ls
+cls
+unzip station_4.zip 
+vim .
+vim testing
+cls
+ls
+cd temp/web
+cls
+j temp/web
+csl
+git stash pop
+cls
+git reset --hard
+cls
+git checkout admin 
+git stash pop
+cls
+git status 
+vim panel/models.py 
+git reset --hars
+git reset --hard
+csl
+cls
+git checkout station
+cls
+python manage.py runserver
+cls
+ls
+cd ..
+rm web/
+cls
+git clone  https://github.com/winder2412/wev
+git clone  https://github.com/winder2412/web
+cls
+cd web/
+cls
+git checkout station
+cls
+python manage.py runserver
+cls
+python manage.py manage.py 
+cls
+python manage.py migrate
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py runserver
+cls
+vim .
+cls
+vim .
+python manage.py  shell
+cls
+python manage.py runserver
+cls
+ls
+cls
+git stash
+cd ..
+rm web/
+cls
+git clone  https://github.com/winder2412/web
+ping google.com
+reboot
+ping google.com
+cls
+j temp
+cls
+j
+cls
+j temp
+cls
+vim .
+git clone  https://github.com/winder2412/web
+cls
+cd web/
+cls
+cp ../db.sqlite3 .
+cls
+python manage.py runserver
+cls
+git checkout station
+cls
+python manage.py runserver
+cls
+vim .
+cls
+python manage.py makemigrations
+cls
+python manage.py migrate
+cls
+python manage.py runserver
+cls
+cp -rf db.sqlite3 .
+cp -rf db.sqlite3 ..
+cls
+git status 
+rm panel/migrations/0002_delete_baseprice.py 
+cls
+git status 
+cls
+python manage.py runserver
+cls
+git add .
+git commit -m "optimizing price changer"
+cls
+git push
+cls
+ls
+tree data/
+cls
+vim .
+python manage.py runserver
+cls
+vim .
+python manage.py runserver
+cls
+vim .
+cls
+vim falj.js
+j tem__web
+j temp/web
+cls
+vim .
+git status 
+cls
+git add panel/templates/panel/panel.html 
+git commit -m "adding some error messages for users"
+git push
+cls
+vim .
+git reset --hard
+cls
+cp ../db.sqlite3 .
+cls
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py migrate
+j temp/web
+cls
+python manage.py flush
+python manage.py shell
+cls
+git status 
+cls
+git reset 
+cls
+git clean -fd
+cls
+git rebase -i 7a66835d117a332e28d4bfff3f5892b2b5862306
+git push -f
+cls
+ls
+vim .
+git reset --hard
+cls
+git rebase -i 7a66835d117a332e28d4bfff3f5892b2b5862306
+git push -f
+python manage.py runserver
+cls
+python manage.py makemigrations
+python manage.py makemigrations panel
+python manage.py migrate
+cls
+python manage.py flush
+python manage.py makemigrations panel
+rm db.sqlite3 
+python manage.py makemigrations panel
+cls
+vim .
+cls
+ls
+python manage.py migrate
+cls
+git status 
+cls
+python manage.py shell
+cls
+vim .
+git add .
+git commit -m 'adding some error messages for users'
+git push
+cls
+poweroff 
+vim useradd.txt 
+python manage.py runserver
+ping google.com
+cls
+nslookup google.com
+cls
+ls
+csl
+cls
+poweroff 
+ping 192.168.1.104
+cls
+ping 192.168.1.104
+cls
+ip a
+cls
+j w
+cls
+vim .
+cls
+python manage.py 192.168.1.2:8000
+ping 192.168.1.2
+ping 192.168.1.3
+cls
+ping google.com
+csl
+cls
+ping google.com
+cls
+j dmw
+c
+d
+cd 
+cd Github/
+cls
+cd dwm-winder/
+cls
+ls
+vim .
+cls
+apt 
+cls
+ls
+cld
+cls
+vim config.
+vim config.def.h 
+python manage.py runserver 192.168.1.2:8000
+cls
+j w
+cls
+vim .
+cls
+git status 
+cls
+git reset --hard
+cls
+j w
+cls
+pip install pyzipper
+cls
+vim .
+git reset --hard
+python manage.py runserver
+cls
+python manage.py flush
+cls
+python manage.py migrate
+cls
+j
+cls
+from login.models import CustomUser
+user = CustomUser.objects.create_user(username = 'user1', password='1234')
+user.save()
+cls
+python manage.py shell
+cls
+python manage.py runserver
+cls
+python 
+cls
+rm db.sqlite3 
+cls
+python manage.py migrate
+cls
+python manage.py shell
+cls
+ls
+cd ..
+ls
+cd web/
+cls
+git pull
+cls
+git reset --hard
+cls
+unzip station_1_2023-10-07.zip 
+vim .
+git reset --hard
+cls
+vim .
+git reset --hard
+cls
+git clean -fd
+cls
+python manage.py runserver
+cls
+vim .
+ls
+ls panel/
+ll panel/dashboard/
+mv panel/templates/panel/main.js panel/dashboard/
+cls
+python manage.py runserver
+cls
+vim .
+cls
+git status 
+git pull
+cls
+git checkout station
+cls
+git checkout stationdev 
+cls
+ls
+cls
+ls
+git status 
+cls
+git add .
+git commit -m "updating to the last station and seperation"
+cls
+git push
+vim .
+cl
+cls
+git reset --hard
+git clean -fd
+cls
+git pull
+cls
+git checkout stationdev 
+cls
+python manage.py runserver
+cls
+vim .
+vim .
+python manage.py runserver
+poweroff 
+cls
+ls
+cls
+ssh root@45.159.150.100
+ping 45.159.150.100
+cls
+ssh root@45.159.150.100
+rm .ssh/
+cls
+ssh root@45.159.150.100
+ping google.com
+cls
+ping google.com
+j w
+cls
+j w
+cls
+python manage.py runserver
+python manage.py migrate
+ping google.com
+python manage.py migrate
+ping google.com
+vim .
+csl
+cls
+vim .
+git reset 
+git reset --hard
+cls
+vim .
+git checkout station
+cls
+vim .
+cls
+git status 
+cls
+git add .
+git commit -m "adding jquery to dashboard"
+git push
+cls
+git checkout stationdev 
+cls
+vim .
+git checkout station
+vim
+unzip station_1.zip 
+cl
+cls
+vim data.json 
+vim .
+git reset --hard
+cls
+vim .
+cls
+unzip station_1.zip 
+cls
+vim data.json 
+ls
+cls
+unzip station_1.zip 
+vim data.json 
+cls
+cls
+ping google.com
+cls
+ping google.com
+ping stuhotspot.usb.ac.ir
+cls
+ns lookup google.com
+nslookup google.com
+cls
+nslookup google.com
+cls
+nslookup google.com
+ping 2a00:1450:4001:82b::200e
+ping6 2a00:1450:4001:82b::200e
+cls
+nslookup google.com
+nslookup soft98.ir
+cls
+nslookup soft98.ir
+cls
+ssh root@n.winder.store
+cls
+ssh root@5.42.76.167
+cls
+git clone https://github.com/yarrick/iodine.git
+cls
+apt install make
+cls
+apt install gcc
+cls
+apt install zlib1g-dev
+cls
+cd iodine/
+cls
+make
+cls
+make
+cls
+clear
+ssh root@5.42.76.167
+ll
+cls
+ll
+cd bin/
+ls
+cls
+./iodine -f -P 12345 tunnel.winder.website
+./iodined -f -P 12345 tunnel.winder.website
+sudo ./iodined -f -P 12345 tunnel.winder.website
+cd iodine/bin/
+cls
+ssh -i ghostpp7.pem -D 1080 root@10.10.10.1
+sudo ./iodine -f -P 12345 tunnel.winder.website
+cls
+ping google.com
+cls
+ping google.com
+ping 10.10.10.1
+sudo ./iodine -f -P 12345 tunnel.winder.website
+cls
+ping 10.10.10.1
+cls
+ping 10.10.10.1
+cls
+vim .
+python manage.py runserver
+ls
+csl
+cls
+ls
+rm .sudo_as_admin_successful 
+cls
+ls
+rm .wget-hsts 
+cls
+ls
+rm .python_history 
+cls
+rm .pki/
+cls
+ls
+cat testing 
+cls
+rm testing 
+cls
+ls
+rm Phineas\ and\ Ferb\ S04/
+cls
+ls
+ping google.com
+cls
+ip a
+cls
+nmcli
+nslookup google.com
+cls
+nslookup google.com
+nslookup www.google.com
+cls
+nslookup soft98.ir
+ping google.com
+cls
+nmtui
+cls
+ls
+cls
+ping google.com
+cls
+nmcli
+cls
+ip a
+cls
+ping google.com
+cls
+csl
+cls
+ipa
+ip a
+cla
+cls
+ls
+cls
+ip a
+cls
+ip a
+cls
+ipa
+cls
+ip a
+cls
+nmcli
+cls
+nmtui
+ip a
+cls
+ping download.ir
+ping google.com
+ping soft98.ir
+cls
+ping google.com
+ping hostiran.net
+cls
+ping hostiran.net
+cls
+cls
+ping google.com
+cls
+csl
+cls
+csl
+cls
+ip a
+cls
+ip a
+cls
+ping google.com
+cls
+ping soft98.ir
+ping github.com
+ping googl.eocm
+ping google.ocm
+ping google.com
+cls
+nslookup 192.168.5.163
+nmap
+cls
+apt install nmap
+apt install dig
+cls
+dig
+cls
+nmap
+apt install nmap
+cls
+nmap 
+cls
+nmap
+cls
+ping googl.eocm
+cls
+ping google.com
+nmap 192,168.5.163
+nmap 192.168.5.163
+cls
+nmap 192.168.5.163
+dig -x 192.168.5.163
+ping 192.168.4.141
+cls
+nmap 192.168.5.163
+cls
+nmap 192.168.5.163
+cls
+nmap 192.168.5.163
+ping google.com
+cl
+cls
+ping google.com
+pyhton
+cls
+ping google.com
+cls
+ping google.com
+ip a
+cls
+ip a
+ping 192.168.122.1
+nslookup 192.168.5.163
+cls
+cat /etc/hosts
+cat /etc/hosts.allow 
+cat /etc/hosts.deny 
+cls
+cat /etc/hosts
+nslookup 
+clscls
+cls
+nslookup google.com
+ping google.com
+python
+cls
+nmtui
+nslookup 
+cls
+nmtui
+nslookup google.com
+cls
+ping google.com
+cls
+ping download.ir
+ping 109.95.66.211
+ping arvancloud.ir
+cls
+ping soft98.ir
+ping farsroid.ir
+cls
+cls
+ping 109.95.66.211
+cls
+ping google.com
+cls
+ping farsroid.com
+cls
+ping soft98.ir
+cls
+ping download.it
+ping download.ir
+cls
+ping google.com
+ping 109.95.66.211
+csl
+ping google.com
+csl
+cls
+ping google.com
+cls
+ping google.com
+ssh root@109.95.66.211
+j w
+cls
+git status 
+git reset --hard 
+cls
+git checkout admin 
+cls
+git pull
+cls
+vim .
+j w
+csl
+cls
+python manage.py runserver
+cls
+python manage.py migrate
+cls
+git checkout station
+git stash 
+git checkout station
+j w
+csl
+cls
+git checkout admin 
+cls
+git stash pop
+cls
+python manage.py runserver
+cls
+mv db.sqlite3 ..
+ls
+csl
+python manage.py migrate
+cls
+j temp/w
+cls
+python manage.py shell
+cls
+git reset --hard
+cls
+vim .
+python manage.py runserver
+cls
+git add panel/models.py 
+git commit -m "rearangement"
+git push 
+cls
+vim .
+vim .
+python manage.py runserver
+ls
+rm \[R.G.Mechanics\]TheRoom_Vgdl.ir.rar.rar 
+cls
+ls
+rm .sudo_as_admin_successful .python_history 
+cls
+j w
+cls
+git status 
+csl
+cls
+python manage.py runserver
+python manage.py migrate
+cls
+j w
+j w
+cls
+cls
+vim .
+cls
+git status 
+cls
+pwd
+python manage.py runserver
+csl
+cls
+pwd
+python manage.py migrate
+cls
+vim .
+cls
+git status 
+git add .
+git commit -m "adding date selector"
+git push
+cls
+git pull
+cls
+git checkout station
+cls
+ls
+git reset --hard
+cls
+python manage.py migrate
+cls
+rm panel/migrations/
+cls
+rm login/migrations/
+cls
+python manage.py makemigrations login
+python manage.py makemigrations panel
+cls
+python manage.py migrate
+cls
+git status 
+cls
+git add .
+git commit --amend 
+git push
+git push -f
+cls
+git checkout admin 
+cls
+git checkout stationdev 
+cls
+ls
+cls
+git pull
+cls
+python manage.py migrate
+cls
+python manage.py migrate
+python manage.py makemigrations
+cls
+python manage.py makemigrations panel
+cls
+python manage.py makemigrations login
+cls
+python manage.py runserver
+cls
+ls
+rm db.sqlite3 
+cls
+python manage.py shell
+cls
+ls
+rm db.sqlite3 
+cls
+python manage.py migrate
+cls
+python manage.py shell
+cls
+ls
+cls
+cd ../temp/web/
+cls
+ls
+git pull
+cls
+vim .
+git reset --ahrd
+git reset --hard
+csl
+cls
+vim .
+git reset --hard
+cls
+python manage.py runserver
+poweroff 
+j w
+python manage.py runserver
+git checkout admin 
+cls
+ssh -D 1080 root@62.60.131.221
+ip tuntap add dev tun0 mode tun user winder
+sudo ip tuntap add dev tun0 mode tun user winder
+ip addr replace 10.0.0.1/24 dev tun0
+cls
+sudo ip addr replace 10.0.0.1/24 dev tun0
+cls
+ll ssh
+ll .ssh
+cd .ssh/
+vim sshd_config
+cls
+svi /etc/ssh/sshd_config
+cls
+sudo systemctl reload sshd
+cls
+cd
+cls
+svi /etc/systemd/network/vpn.netdev
+cls
+svi /etc/systemd/network/vpn.network
+sudo systemctl reload systemd-networkd.service
+csl
+cls
+ssh -TND 4711 root@62.60.131.221
+ssh -f -w5:5 root@62.60.131.221 -i ~/.ssh/key "sleep 1000000000"
+ppd
+pppd
+cls
+apt install ppp
+cls
+ppp
+sudo pppd
+cls
+pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+csl
+cls
+apt install network-manager-ssh*
+apt install network-manager-ss
+apt install network-manager-ssh
+cls
+python manage.py runserver
+reboot
+echo 1 > /proc/sys/net/ipv4/ip_forward
+sudo echo 1 > /proc/sys/net/ipv4/ip_forward
+cls
+ssh root@62.60.131.221
+csl
+cls
+svi /etc/dbus-1/system.d/org.freedesktop.NetworkManager.conf
+csl
+cls
+ip a
+cls
+ip a
+cls
+nmcli
+nmtui
+sudo apt-get install proxychains
+csl
+cls
+sudo systemctl reload NetworkManager.service 
+cls
+socks5 127.0.0.1 8080
+sudo socks5 127.0.0.1 8080
+cls
+reboot
+sudo socks5 127.0.0.1 8080
+svi /etc/proxychains/proxychains.conf
+svi /etc/proxychains.conf 
+proxychains
+proxychains -h
+cls
+proxychains --help
+proxychains google-chrome-stable
+                                     apt install openvpn
+cls
+sudo apt-get install openvpn network-manager-openvpn network-manager-openvpn-gnome
+ping google.com
+cls
+ping google.com
+sudo apt-get install openvpn network-manager-openvpn network-manager-openvpn-gnome
+apt update; apt install openssh-client openssh-server
+apt install openssh-client openssh-server
+cls
+apt install ssh-tools 
+apt install mullvad
+cd
+cl
+s
+csl
+cls
+cl
+s
+cls
+ls
+cd Downloads/
+cls
+ls
+csl
+cls
+ls
+apt install ./MullvadVPN-2023.5_amd64.deb 
+csl
+cls
+ls
+ll .ssh/
+cls
+cd Github/
+cls
+ls
+cd other/
+cls
+git clone https://github.com/halhen/pvpn.git
+cd pvpn/
+cls
+ls
+sudo make
+pppd
+cls
+sudo pppd
+cls
+apt install iproute2
+cls
+apt install dnsutils
+cls
+apt install asciidoc
+cls
+make install
+sudo make install
+cls
+apt install asciidoc
+cls
+sudo make install
+cls
+pvpn 
+cls
+sudo pvpn root@62.60.131.221
+sudo pppd
+sudo pppd --help
+cls
+sudo pppd --help
+sudo pvpn root@62.60.131.221
+cls
+sudo pvpn root@62.60.131.221 default
+pvpn root@62.60.131.221 default
+sudo pvpn root@62.60.131.221 default
+cls
+pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@remote-gw /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@remote-gw /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh pppd root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+cls
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh pppd root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+/usr/sbin/pppd
+cls
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh pppd root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+cd
+cls
+pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+cls
+ssh -v root@62.60.131.221
+cls
+ssh root@62.60.131.221
+pvpn root@62.60.131.221 default
+sudo pvpn root@62.60.131.221 default
+cls
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+/usr/sbin/pppd
+cls
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+ssh root@62.60.131.221 which pppd
+cls
+ssh root@62.60.131.221 
+cls
+ssh root@62.60.131.221 apt-get update
+ssh root@62.60.131.221 apt-get install ppp
+cls
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+sudo pvpn root@62.60.131.221 default
+cls
+pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@remote-gw /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+sudopppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@remote-gw /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@remote-gw /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+cls
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+ip route add 192.168.0.0/16 via 10.0.8.2
+sudo ip route add 192.168.0.0/16 via 10.0.8.2
+cls
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+cls
+sudo pvpn root@62.60.131.221 default
+cls
+ping google.com
+cls
+sudo pvpn root@62.60.131.221 default
+reboot
+sudo pvpn root@62.60.131.221 default
+cls
+ping google.com
+netstat 
+ip route 
+sudo pvpn root@62.60.131.221 default
+ping google.com
+cls
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+ip route add 192.168.0.0/16 via 10.0.8.2
+sudo ip route add 192.168.0.0/16 via 10.0.8.2
+ip rule 
+ip route 
+sudo ip route add 62.60.131.221 via 192.168.113.106
+ip route replace default via 10.0.8.2
+sudo ip route replace default via 10.0.8.2
+cls
+ip a
+cls
+ping google.com
+ip a
+csl
+cls
+ipa
+ip a
+nmtui
+cls
+ip a
+reboot
+sudo pppd updetach noauth silent nodeflate pty "/usr/bin/ssh root@62.60.131.221 /usr/sbin/pppd nodetach notty noauth" ipparam vpn 10.0.8.1:10.0.8.2
+ip route add 192.168.0.0/16 via 10.0.8.2
+suod ip route add 192.168.0.0/16 via 10.0.8.2
+sudo ip route add 192.168.0.0/16 via 10.0.8.2
+cls
+ip route 
+ip route add 62.60.131.221 via 192.168.113.106
+sudo ip route add 62.60.131.221 via 192.168.113.106
+ip route replace default via 10.0.8.2
+sudo ip route replace default via 10.0.8.2
+ip a
+ping google.com
+reboot
+ls
+rm .python_history .sudo_as_admin_successful .pki/
+cls
+ls
+cl
+cls
+sudo pvpn -t ssh-3 root@62.60.131.221 default
+ip a
+cls
+sudo pvpn root@62.60.131.221 default
+ping google.com
+cls
+svi /etc/ssh/sshd_config
+cls
+sudo ssh-keygen
+cls
+ssh-copy-id root@62.60.131.221
+cls
+sudo pvpn root@62.60.131.221 default
+ping google.com
+ip route 
+cls
+sudo pvpn root@62.60.131.221 default
+ssh root@62.60.131.221
+ping googl.com
+ip a
+cls
+ssh root@109.95.66.195
+ssh   -o PermitLocalCommand=yes   -o ServerAliveInterval=60   -w 5:5 vpn@example.com   'echo tunnel established'
+cls
+ssh   -o PermitLocalCommand=yes   -o ServerAliveInterval=60   -w 5:5 root@109.95.66.195   'echo tunnel established'
+ssh -o PermitLocalCommand=yes -o ServerAliveInterval=60 -w 5:5 root@109.95.66.195 'echo tunnel established'
+cls
+cls
+ssh root@109.95.66.195
+vim
+ip s
+ping google.com
+ip a
+reboot
+apt install ventoy
+ls
+cd Do
+cd Downloads/
+cls
+ls
+cls
+cd ventoy-1.0.93/
+ls
+./VentoyGUI.i386 
+./VentoyGUI.x86_64 
+cd Downloads/
+cls
+cd ventoy-1.0.93/
+ls
+./VentoyGUI.x86_64 
+cls
+cd Do
+cd Downloads/
+ls
+cls
+apt install ./thorium-browser_117.0.5938.157_amd64.deb 
+cls
+thorium-browser 
+mkdir -p /home/winder/.config/thorium/Crash Reports/pending/
+thorium-browser 
+cls
+thorium-browser 
+ssh root@109.95.66.195
+cls
+ssh root@109.95.66.195
+sudo apt-get install sshuttl
+sudo apt-get install sshuttle 
+cls
+sshuttle -v 0/0
+sshuttle --dns -vr root@109.95.66.195 0/0
+cls
+sshuttle --dns -vr root@109.95.66.195 0/0
+sshuttle -vNHr root@109.95.66.195
+sshuttle -v 0/0 -r root@109.95.66.195
+cls
+sshuttle -v 0/0
+sshuttle -vNHr root@109.95.66.195
+sshuttle --dns -vr root@109.95.66.195 0/0
+cls
+sshuttle --dns -vr root@109.95.66.195 0/0
+cls
+ping google.com
+cls
+ssh -D 12345 -f -C -q -N -p 22 root@109.95.66.195
+sudo sshuttle --dns -r root@109.95.66.195 0/0 -D -P -v
+sudo sshuttle --dns -r root@109.95.66.195 0/0 -D -v
+cls
+sshuttle --dns -vr root@109.95.66.195 0/0
+cls
+sudo sshuttle -v 0/0 -r root@109.95.66.195
+sudo sshuttle -v 0/0 -r
+cls
+ssh -D 12345 -f -C -q -N -p 22 root@109.95.66.195
+sudo sshuttle -v 0/0 -r
+ip a
+cls
+pkill ssh*
+cls
+pkill ssh
+cls
+sudo pkill ssh*
+sudo pkill ssh
+sudo pkill ssh 
+cls
+cls
+ssh -D 12345 -f -C -q -N -p 22 root@109.95.66.195
+pkill ssh 
+reboot
+pkill ssh-agent 
+cls
+pkill sshd 
+cls
+sudo pkill sshd 
+cls
+ssh -D 12345 -f -C -q -N -p 22 root@109.95.66.195
+cls
+sudo sshuttle --dns -r root@109.95.66.195 0/0 -D -P -v
+sudo sshuttle --dns -r root@109.95.66.195 0/0 -D -v
+google-chrome-stable 
+cls
+brave-browser-stable 
+cls
+apt purge mullvad-vpn 
+cls
+ping google.com
+ssh -D 12345 -f -C -q -N -p 22 root@109.95.66.195
+vim ssh
+mv ssh ssh.sh
+cls
+sudo chmod +x ssh.sh 
+cls
+reboot
+ls
+cls
+./ssh.sh 
+cls
+ping google.com
+rm .config/nekoray/
+cls
+apt purge nekoray 
+cls
+cd Do
+cd Downloads/
+cls
+ls
+cls
+apt install ./nekoray-3.23-2023-10-14-debian-x64.deb 
+lcs
+cls
+vim untitled.txt 
+poweroff 
+ssh root@109.95.66.195
+cls
+ssh root@109.95.66.195
+cls
+poweroff 
+cls
+ping google.com
+ls
+pwd
+l
+ll
+cls
+mkdir hard
+lsblk
+mkdir /media/winder/Arastoo/forlder
+ll /media/winder/Arastoo/
+cls
+reboot
+ls
+rm .sudo_as_admin_successful 
+cls
+ls
+rm sshuttle.pid 
+cls
+ls
+rm y
+cls
+ls
+rm y.pub 
+cls
+ls
+cls
+ls
+rm .anydesk/
+cls
+ls
+rm .fltk/
+cls
+ls
+rm .pki/ .vnc/ .vscode/
+cls
+ls
+cls
+ll
+ll .config/
+cls
+ls
+ll .local/
+ll /usr/
+cls
+ls
+cls
+l
+cls
+ls
+cd Github/
+cls
+ls
+cls
+ls
+cls
+ls
+cd bash-winder/
+cls
+l
+cls
+git status 
+cls
+ls
+vim /etc/bash.bashrc
+cd Github/
+cls
+cd bash-winder/
+cls
+ls
+cd .config/
+ls
+cd bash
+cls
+ls
+cd ..
+ls
+cls
+ls
+cls
+ll
+vim .
+cls
+cd
+ls
+vim 
+mkdir
+cls
+cls
+source .config/bash/bashrc 
+mkdir
+dir
+dir the
+ls
+vim .config/
+cls
+ls
+cd .config/bash
+ls
+cls
+ls
+rm bash
+cls
+ls
+cd
+cls
+ls
+cd Github/
+lc
+cls
+ls
+cd bash-winder/
+ls
+git status 
+cls
+ls
+thorium-shell 
+cls
+apt purge thorium-browser 
+cls
+cd Downloads/
+ls
+apt install ./thorium-browser_117.0.5938.157_SSE3.deb 
+cls
+thorium-browser 
+poweroff 
+xrandr 
+arandr 
+ls
+cls
+poweroff 
+ls
+cls
+neofetch 
+cls
+nivm
+nvim
+vim
+alias svi="sudo nvim"
+cls
+vim .config/bash/
+cls
+vim .config/bash/
+cls
+cle
+cls
+clear
+cls
+jdflakj
+ajoifkja
+jasklfja
+klkasjf
+cls
+ls
+cls
+ip a
+cls
+ip a
+pkill thunar 
+thunar
+reboot
+poweroff 
+ls
+rm .sudo_as_admin_successful untitled.txt Shutter\ Island.2010.720p.BluRay.NightMovie.mkv
+cls
+ls
+mkdir java
+cls
+cd java/
+cls
+vim main .java
+vim main.java
+vim HTree6.java
+mv main.java HTree6.java
+cls
+vim HTree6.java 
+cls
+ls
+cls
+java 
+cls
+sudo apt-get update
+sudo apt-get install openjdk-11-jdk
+cls
+sudo apt-get install openjdk-17-jdk
+cls
+javac HTree6.java 
+cls
+ls
+javac HTree6.java 
+ls
+java HTree6 
+java HTree6 3
+ls
+cls
+rm
+cls
+tree .
+cls
+java HTree6 1
+java HTree6 2
+java HTree6 3
+java HTree6 100
+cls
+java HTree6 10
+cls
+java HTree6 5
+ls
+cl
+cls
+ls
+sudo apt install nomacs
+cls
+ls
+cd
+cls
+ls
+cd Downloads/
+cls
+ls
+apt remove thorium-browser 
+apt install ./thorium-browser_117.0.5938.157_SSE3.deb 
+thorium-browser 
+vim .
+ls
+rm .sudo_as_admin_successful 
+cls
+j dmw
+cd
+cd Github/
+cd dwm-winder/
+ls
+cls
+ls
+vim .
+thorium-shell 
+cls
+cd Github/
+cd dwm-winder/
+cls
+make
+sudo make install clean 
+cls
+ls
+git status 
+cls
+git status 
+sudo make
+cls
+sudo make install
+cls
+git status 
+cls
+rm config.h
+sudo make
+sudo make install
+cls
+git status 
+cls
+sudo make
+cls
+sudo make install
+cls
+git status 
+cls
+cd java
+cls
+ls
+rm HTree.png 
+cls
+ls
+java HTree6 5
+ls
+cls
+j java
+cls
+ls
+java HTree6 3
+java HTree6 1
+java HTree6 2
+java HTree6 1
+cls
+vim .
+ping 102.168.5.163
+reboot
+ping 192.168.5.163
+ping google.com
+apt install nomacs
+apt install feh
+ls
+cls
+ls
+cls
+java HTree 3
+vim .
+ls
+rm HTree.png 
+rm HTree6.class 
+cls
+ls
+cls
+vim .
+cls
+javac HTree6.java 
+mv HTree6.java HTree.java 
+cls
+ls
+lcs
+cls
+javac HTree.java 
+cls
+rm StdDraw\$RetinaImageIcon.class 
+cls
+ls
+cls
+javac HTree.java 
+cls
+ls
+cls
+java HTree 
+cls
+ls
+cls
+java HTree 4
+cls
+rm StdDraw.class 
+cls
+javac HTree.java 
+cls
+java HTree 4
+apt install nitrogen 
+apt remove nekoray 
+cls
+ls
+cls
+ls
+cls
+ls
+vim .
+cls
+ls
+rm .sudo_as_admin_successful 
+cls
+ls
+python
+cls
+ls
+cls
+cd Github/
+ls
+cd nvim-winder/
+ls
+cd ..
+rm nvim-winder/
+lcs
+ls
+cls
+git clone https://github.com/winder2412/nvim-winder
+cls
+ls
+cd nvim-winder/
+ls
+cls
+ls
+vim .
+cl
+cls
+ls
+./nvim-setup.sh 
+cls
+vim .
+cd .config/
+ls
+cls
+tree nvim/
+cls
+apt install code
+cls
+google-chrome-stable 
+cls
+ls
+cls
+ls
+cls
+ll
+cls
+tree nvim/
+man
+cls
+man ls
+cls
+tldr mv
+cls
+apt install tldr
+cls
+ls
+cls
+tree nvim/
+cd nvim/
+vim .
+cls
+ls
+cls
+cd
+vim .
+ivm
+cim
+vim
+cls
+vim
+vim test1
+cls
+vim .
+vim test
+cls
+ls
+rm test*
+cls
+sl
+ls
+cls
+ls
+rm .python_history 
+cls
+ls
+rm .sudo_as_admin_successful 
+cls
+ls
+cd j
+cd java/
+cls
+ls
+cd
+cls
+ls
+cd java/
+cls
+ls
+vim HTree.
+vim 
+vim HTree.java 
+vim 
+cls
+vim
+cd java/
+cl
+cls
+ls
+vim HTree.h
+vim HTree.java 
+cls
+javac HTree.java 
+cls
+ls
+rm HTree.png 
+cls
+ls
+cls
+java HTree 
+java HTree 4
+ls
+cls
+rm .config/nekoray/
+cls
+ls
+tldr find
+find . -name "nekoray"
+find / -name "nekoray"
+cls
+sudo find / -name "nekoray"
+cls
+rebooy
+reboot
+ls
+cd Downloads/
+ls
+cls
+ls
+tar -xfg ventoy-1.0.96-linux.tar.gz 
+cls
+tar -xf ventoy-1.0.96-linux.tar.gz 
+ls
+cls
+ls
+apt install ./nekoray-3.23-2023-10-14-debian-x64.deb 
+cls
+thunar
+ping google.com
+pkill nekobox_core 
+sudo pkill nekobox_core 
+cls
+sudo pkill nekoray 
+cls
+ping google.com
+ls
+cls
+ls
+rm .sudo_as_admin_successful 
+cls
+ls
+cls
+ls
+vim .
+cd java/
+ls
+cls
+feh --scale-down HTree.png 
+feh -Z HTree.png 
+feh --scale-down HTree.png 
+tldr feh
+feh --borderless HTree.png 
+cls
+vim .
+poweroff 
+ls
+cd java/
+ls
+cd 1
+cls
+ls
+vim HTree1.java 
+javac HTree1.java 
+ls
+cls
+ls
+ls ..
+cp ../StdDraw.java .
+ls
+cls
+javac HTree1.java 
+vim .
+javac HTree1.java 
+cls
+ls
+java HTree1 
+java HTree1 1
+cls
+ls
+cd ..
+ls
+rm 1
+cls
+sl
+poweroff
+s
+cls
+ls
+cd java/
+ls
+vim .
+rm HTree.p
+rm HTree.png 
+cls
+nmtui
+cd java
+cls
+ls
+java HTree 
+java HTree 4
+java HTree 3
+cls
+apt install nitrogen 
+vim .
+ls
+cdl
+cls
+mkdir line2d
+cls
+ls
+cd line2d/
+cls
+vim 
+cls
+ls
+javac LineDrawingExample.java 
+vim LineDrawingExample.java 
+javac LineDrawingExample.java 
+cls
+ls
+java LineDrawingExample 
+ls
+cls
+vim LineDrawingExample.java 
+cls
+java LineDrawingExample 4
+cls
+ls
+vim HTree.java 
+vim ..
+vim .
+cls
+javac HTree.java 
+java HTree 
+ls
+cls
+vim .
+javac HTree.java 
+java HTree 
+cls
+cd ..
+cd stddraw/
+cls
+ls
+cls
+ls
+cd ../line2d/
+cls
+sl
+cls
+ls
+vim HTree.java 
+cls
+ls
+javac HTree.java 
+vim .
+cls
+java HTree 
+vim HTree.java 
+cls
+cd ..
+cls
+ls
+rm line2d/
+cls
+mv stddraw/* .
+cls
+ls
+rm stddraw
+cls
+ls
+cls
+ls
+cls
+rm HTree.png 
+cls
+l
+cls
+cd
+cls
+cd java/
+cls
+ls
+rm StdDraw\$RetinaImageIcon.class 
+cls
+sl
+ls
+rm StdDraw.class 
+cls
+ls
+rm HTree.class 
+cls
+ls
+javac HTree.java 
+cls
+cd java/
+ls
+c;s
+cls
+java HTree 
+cls
+java HTree 4
+vim HTree.java 
+cd
+cls
+poweroff 
+cls
+vim
+cls
+ls
+vim .
+cls
+ls
+j dwm
+ls
+vim .
+cls
+cd
+cls
+vim .
+cls
+cd .config/nvim/
+ls
+cls
+ls
+vim init.lua 
+cls
+ls
+cd lua/
+cls
+ls
+cd mama
+cls
+cd winder/
+cls
+lss
+cls
+sl
+cls
+ls
+vim init.lua 
+cls
+sl
+cls
+vim .
+cls
+ls
+vim remap.lua 
+cls
+vim .
+cls
+cd
+cls
+ls
+cls
+j web
+cls
+cd
+cls
+cd Github/web
+cls
+ls
+cls
+pwd
+cd
+cls
+j web
+cd
+cls
+poweroff 
+cls
+alacritty --version
+csl
+cls
+vim .config/bash/bash-history 
+cls
+python --help
+cl
+cls
+csl
+cls
+vim main.py
+python main.py 
+cls
+python main.py 
+apt install code
+code
+cls
+vim .
+ping google.com
+cls
+ping google.com
+poweroff 
+vim .
+cls
+vim .
+cls
+cd Github/bash-winder/
+cls
+ls
+git status 
+cls
+vim .
+./setup.sh 
+vim setup.sh 
+./setup.sh 
+cls
+vim .
+cls
+./setup.sh 
+sudo ./setup.sh 
+vim .
+sudo ./setup.sh 
+cls
+./setup.sh 
+cls
+vim .
+ls
+mv ../bash-history bash/
+cls
+ls
+git status 
+cls

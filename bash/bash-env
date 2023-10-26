@@ -25,5 +25,6 @@ export RUSTUP_HOME="$XDG_DATA_HOME"/rustup
 ##Other
 export GNUPGHOME="$XDG_DATA_HOME"/gnupg
 export WGETRC="$XDG_CONFIG_HOME/wgetrc"
+export WINEPREFIX="$XDG_DATA_HOME"/wineprefixes/64-bit
 export PATH=$PATH:/usr/local/go/bin
 export XCURSOR_PATH=${XCURSOR_PATH}:~/.local/share/icons
