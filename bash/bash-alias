@@ -1,0 +1,135 @@
+#!/bin/bash
+# Text Editors
+alias pico='edit'
+alias spico='sedit'
+alias nano='edit'
+alias snano='sedit'
+alias vim='nvim'
+
+# File Operations
+alias cat='batcat'
+alias dir='mkdir'
+alias cp='cp -i'
+alias mv='mv -i'
+alias rm='trash -v'
+alias rmd='/bin/rm --recursive --force --verbose '
+
+# Directory Navigation
+alias home='cd ~'
+alias cd..='cd ..'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+alias bd='cd "$OLDPWD"'
+alias web='cd /var/www/html'
+
+# Process Management
+alias ps='ps auxf'
+alias ping='ping -c 10'
+alias topcpu='/bin/ps -eo pcpu,pid,user,args | sort -k 1 -r | head -10'
+
+# Viewing and Handling Files
+alias less='less -R'
+alias cls='clear'
+alias cle='clear'
+
+# Package Management
+alias apt-get='sudo apt-get'
+alias apt='sudo nala'
+alias freshclam='sudo freshclam'
+
+# Python
+alias python='python3'
+alias py='python3'
+
+# Rust
+alias fempty='cargo run --manifest-path /home/winder/rust/empty/Cargo.toml'
+
+# Visual Studio Code
+alias code='code --extensions-dir "$XDG_DATA_HOME/vscode"'
+
+# List Contents
+alias la='ls -Alh'
+alias ls='ls -aFh --color=always'
+alias lx='ls -lXBh'
+alias lk='ls -lSrh'
+alias lc='ls -lcrh'
+alias lu='ls -lurh'
+alias lr='ls -lRh'
+alias lt='ls -ltrh'
+alias lm='ls -alh | more'
+alias lw='ls -xAh'
+alias ll='ls -Fls'
+alias labc='ls -lap'
+alias lf="ls -l | egrep -v '^d'"
+alias ldir="ls -l | egrep '^d'"
+
+# File Permissions
+alias mx='chmod a+x'
+alias 000='chmod -R 000'
+alias 644='chmod -R 644'
+alias 666='chmod -R 666'
+alias 755='chmod -R 755'
+alias 777='chmod -R 777'
+
+# History and Search
+alias h="history | grep "
+alias p="ps aux | grep "
+alias f="find . | grep "
+
+# Check Command Type
+alias checkcommand="type -t"
+
+# Network
+alias openports='netstat -nape --inet'
+
+# Reboot
+alias rebootsafe='sudo shutdown -r now'
+alias rebootforce='sudo shutdown -r -n now'
+
+# Disk and Space Usage
+alias diskspace="du -S | sort -n -r | more"
+alias folders='du -h --max-depth=1'
+alias folderssort='find . -maxdepth 1 -type d -print0 | xargs -0 du -sk | sort -rn'
+
+# Directory Trees
+alias tree='tree -CAhF --dirsfirst'
+alias treed='tree -CAFd'
+
+# Mounted File Systems
+alias mountedinfo='df -hT'
+
+# Archive Operations
+alias mktar='tar -cvf'
+alias mkbz2='tar -cvjf'
+alias mkgz='tar -cvzf'
+alias untar='tar -xvf'
+alias unbz2='tar -xvjf'
+alias ungz='tar -xvzf'
+
+# Log Files
+alias logs="sudo find /var/log -type f -exec file {} \; | grep 'text' | cut -d' ' -f1 | sed -e's/:$//g' | grep -v '[0-9]$' | xargs tail -f"
+
+# SHA1 Hash
+alias sha1='openssl sha1'
+
+# Clipboard Operations
+alias clickpaste='sleep 3; xdotool type "$(xclip -o -selection clipboard)"'
+
+# Miscellaneous
+alias Hyprland='exec env WLR_NO_HARDWARE_CURSORS=1 Hyprland'
+alias kssh="kitty +kitten ssh"
+alias wget='wget --hsts-file="$XDG_CACHE_HOME/wget-hsts"'
+alias hug='hugo server -F --bind=10.0.0.210 --baseURL=http://10.0.0.210'
+alias lookingglass='~/looking-glass-B5.0.1/client/build/looking-glass-client -F'
+
+# IP Address Lookup
+alias whatismyip="whatsmyip"
+function whatsmyip() {
+    echo -n "Internal IP: "
+    /sbin/ifconfig eth0 | grep "inet addr" | awk -F: '{print $2}' | awk '{print $1}'
+    echo -n "External IP: "
+    wget http://smart-ip.net/myip -O - -q
+}
+
