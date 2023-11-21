@@ -13,6 +13,7 @@ export BASH_LOGOUT="$XDG_CONFIG_HOME"/bash/bash-logout
 ##X11
 export XINITRC="$XDG_CONFIG_HOME"/X11/xinitrc
 export ERRFILE="$XDG_CACHE_HOME/X11/xsession-errors"
+export XCOMPOSECACHE="$XDG_CACHE_HOME"/X11/xcompose
 ##npm
 export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
 ##Gtk

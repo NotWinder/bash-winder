@@ -5,6 +5,7 @@ alias spico='sedit'
 alias nano='edit'
 alias snano='sedit'
 alias vim='nvim'
+alias svi='sudo -E nvim'
 
 # File Operations
 alias cat='batcat'
@@ -26,7 +27,7 @@ alias web='cd /var/www/html'
 
 # Process Management
 alias ps='ps auxf'
-alias ping='ping -c 10'
+#alias ping='ping -c 10'
 alias topcpu='/bin/ps -eo pcpu,pid,user,args | sort -k 1 -r | head -10'
 
 # Viewing and Handling Files
@@ -50,8 +51,8 @@ alias fempty='cargo run --manifest-path /home/winder/rust/empty/Cargo.toml'
 alias code='code --extensions-dir "$XDG_DATA_HOME/vscode"'
 
 # List Contents
-alias la='ls -Alh'
-alias ls='ls -aFh --color=always'
+alias la='ls -Ah'
+alias ls='ls -Fh --color=always'
 alias lx='ls -lXBh'
 alias lk='ls -lSrh'
 alias lc='ls -lcrh'
@@ -60,7 +61,7 @@ alias lr='ls -lRh'
 alias lt='ls -ltrh'
 alias lm='ls -alh | more'
 alias lw='ls -xAh'
-alias ll='ls -Fls'
+alias ll='ls -aFls'
 alias labc='ls -lap'
 alias lf="ls -l | egrep -v '^d'"
 alias ldir="ls -l | egrep '^d'"
@@ -85,6 +86,7 @@ alias checkcommand="type -t"
 alias openports='netstat -nape --inet'
 
 # Reboot
+alias reboot="systemctl -i reboot"
 alias rebootsafe='sudo shutdown -r now'
 alias rebootforce='sudo shutdown -r -n now'
 
@@ -119,17 +121,10 @@ alias clickpaste='sleep 3; xdotool type "$(xclip -o -selection clipboard)"'
 
 # Miscellaneous
 alias Hyprland='exec env WLR_NO_HARDWARE_CURSORS=1 Hyprland'
+alias nixbuild='sudo nixos-rebuild switch'
+alias poweroff="systemctl -i poweroff"
 alias kssh="kitty +kitten ssh"
 alias wget='wget --hsts-file="$XDG_CACHE_HOME/wget-hsts"'
 alias hug='hugo server -F --bind=10.0.0.210 --baseURL=http://10.0.0.210'
 alias lookingglass='~/looking-glass-B5.0.1/client/build/looking-glass-client -F'
-
-# IP Address Lookup
-alias whatismyip="whatsmyip"
-function whatsmyip() {
-    echo -n "Internal IP: "
-    /sbin/ifconfig eth0 | grep "inet addr" | awk -F: '{print $2}' | awk '{print $1}'
-    echo -n "External IP: "
-    wget http://smart-ip.net/myip -O - -q
-}
 
