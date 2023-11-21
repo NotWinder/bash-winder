@@ -436,10 +436,10 @@ eval "$(starship init bash)"
 
 #Autojump
 
-if [ -f "/usr/share/autojump/autojump.sh" ]; then
-	. /usr/share/autojump/autojump.sh
-elif [ -f "/usr/share/autojump/autojump.bash" ]; then
-	. /usr/share/autojump/autojump.bash
+if [ -f "/nix/store/kslicl5qqaiqjha08rannqznbvanqpfk-autojump-22.5.3/etc/profile.d/autojump.sh" ]; then
+	. /nix/store/kslicl5qqaiqjha08rannqznbvanqpfk-autojump-22.5.3/etc/profile.d/autojump.sh
+elif [ -f "/nix/store/kslicl5qqaiqjha08rannqznbvanqpfk-autojump-22.5.3/share/autojump/autojump.bash" ]; then
+	. /nix/store/kslicl5qqaiqjha08rannqznbvanqpfk-autojump-22.5.3/share/autojump/autojump.bash
 else
 	echo "can't found the autojump script"
 fi
