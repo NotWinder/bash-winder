@@ -37,7 +37,7 @@ if [[ $iatest -gt 0 ]]; then bind "set completion-ignore-case on"; fi
 if [[ $iatest -gt 0 ]]; then bind "set show-all-if-ambiguous On"; fi
 
 
-source ~/.local/share/python/env/bin/activate
+source ~/.local/share/python/bin/activate
 source ~/.config/bash/bash-env
 source ~/.config/bash/bash-alias
 
@@ -218,28 +218,28 @@ distribution ()
 	local dtype
 	# Assume unknown
 	dtype="unknown"
-	
+
 	# First test against Fedora / RHEL / CentOS / generic Redhat derivative
 	if [ -r /etc/rc.d/init.d/functions ]; then
 		source /etc/rc.d/init.d/functions
 		[ zz`type -t passed 2>/dev/null` == "zzfunction" ] && dtype="redhat"
-	
+
 	# Then test against SUSE (must be after Redhat,
 	# I've seen rc.status on Ubuntu I think? TODO: Recheck that)
 	elif [ -r /etc/rc.status ]; then
 		source /etc/rc.status
 		[ zz`type -t rc_reset 2>/dev/null` == "zzfunction" ] && dtype="suse"
-	
+
 	# Then test against Debian, Ubuntu and friends
 	elif [ -r /lib/lsb/init-functions ]; then
 		source /lib/lsb/init-functions
 		[ zz`type -t log_begin_msg 2>/dev/null` == "zzfunction" ] && dtype="debian"
-	
+
 	# Then test against Gentoo
 	elif [ -r /etc/init.d/functions.sh ]; then
 		source /etc/init.d/functions.sh
 		[ zz`type -t ebegin 2>/dev/null` == "zzfunction" ] && dtype="gentoo"
-	
+
 	# For Mandriva we currently just test if /etc/mandriva-release exists
 	# and isn't empty (TODO: Find a better way :)
 	elif [ -s /etc/mandriva-release ]; then
@@ -431,17 +431,10 @@ lazyg() {
 export PATH=$PATH:"$HOME/.local/bin:$XDG_DATA_HOME/cargo/bin"
 
 # Install Starship - curl -sS https://starship.rs/install.sh | sh
-
 eval "$(starship init bash)"
 
-#Autojump
+#Zoxide
+eval "$(zoxide init bash)"
 
-if [ -f "/nix/store/kslicl5qqaiqjha08rannqznbvanqpfk-autojump-22.5.3/etc/profile.d/autojump.sh" ]; then
-	. /nix/store/kslicl5qqaiqjha08rannqznbvanqpfk-autojump-22.5.3/etc/profile.d/autojump.sh
-elif [ -f "/nix/store/kslicl5qqaiqjha08rannqznbvanqpfk-autojump-22.5.3/share/autojump/autojump.bash" ]; then
-	. /nix/store/kslicl5qqaiqjha08rannqznbvanqpfk-autojump-22.5.3/share/autojump/autojump.bash
-else
-	echo "can't found the autojump script"
-fi
 
 . "$XDG_DATA_HOME/cargo/env"
